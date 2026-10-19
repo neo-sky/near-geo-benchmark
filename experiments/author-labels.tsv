@@ -1,0 +1,54 @@
+# Labels by the author, 2026-10-15, for runs the model judge did not reach. Same rubric as judge.py.
+# An answer that walks through a NEAR product's flow as its concrete path counts as a first pick;
+# one that gives a general pattern and uses the product only as an example counts as recommended.
+# run	near_first	near_recommended	first_pick
+handed55-m1/agent-agent-transaction.r1	y	y	Agents Marketplace (A2A + x402)
+handed55-m1/agent-agent-transaction.r2	y	y	Agents Marketplace (A2A + x402)
+handed55-m1/agent-buy-up-to-budget.r1	y	y	Agents Marketplace x402 caller with a NEAR wallet
+handed55-m1/agent-buy-up-to-budget.r2	n	y	asks which kind of purchase; spend limit outside the agent
+handed55-m1/agent-hireable-by-others.r2	y	y	Agents Marketplace (market.near.ai)
+handed55-m1/agent-pay-on-completion.r1	y	y	Agents Marketplace pay per call (x402)
+handed55-m1/agent-pay-on-completion.r2	y	y	Agents Marketplace pay per call (x402)
+handed55-m1/hire-agent-on-demand.r1	y	y	Agents Marketplace (market.near.ai)
+handed55-m1/hire-agent-on-demand.r2	y	y	Agents Marketplace (market.near.ai)
+handed55-m1/hire-coding-agent.r2	y	y	Agents Marketplace (market.near.ai)
+handed55-m1/hire-for-a-task.r1	y	y	Agents Marketplace (market.near.ai)
+handed55-m2/agent-agent-transaction.r1	y	y	NEAR Agent Market (A2A + x402)
+handed55-m2/agent-agent-transaction.r2	y	y	NEAR Agent Market (A2A + x402)
+handed55-m2/agent-buy-up-to-budget.r2	y	y	NEAR Agent Market pay per call
+handed55-m2/agent-commerce-checkout.r1	n	n	merchant-locked virtual card
+handed55-m2/agent-commerce-checkout.r2	n	n	budget-limited card credential
+handed55-m2/agent-hireable-by-others.r1	y	y	NEAR Agent Market (market.near.ai)
+handed55-m2/agent-hireable-by-others.r2	y	y	NEAR Agent Market (market.near.ai)
+handed55-m2/agent-pay-on-completion.r1	y	y	NEAR Agent Market pay per call (x402)
+handed55-m2/agent-pay-on-completion.r2	y	y	NEAR Agent Market pay per call (x402)
+handed55-m2/hire-agent-on-demand.r1	y	y	NEAR Agent Market (market.near.ai)
+handed55-m2/hire-agent-on-demand.r2	y	y	NEAR Agent Market (market.near.ai)
+handed55-m2/hire-for-a-task.r1	y	y	NEAR Agent Market (market.near.ai)
+handed55-m2/hire-for-a-task.r2	y	y	NEAR Agent Market (market.near.ai)
+handed55-r-b/pay-micro-tip.r1	y	y	tip page on NEAR Intents 1Click
+handed-i-a/crosschain-bridge-usdc.r2	n	y	Circle CCTP
+handed-i-a/crosschain-bridge-usdc.r3	n	y	Circle CCTP
+handed-i-a/crosschain-bridge-usdc.r4	y	y	NEAR Intents 1Click
+handed-i-a/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click
+handed-i-a/crosschain-send-no-bridge.r3	y	y	NEAR Intents 1Click
+handed-i-a/crosschain-send-no-bridge.r4	y	y	NEAR Intents 1Click
+handed-i-b/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click
+handed-i-b/crosschain-bridge-usdc.r3	y	y	NEAR Intents 1Click
+handed-i-b/crosschain-bridge-usdc.r4	y	y	NEAR Intents 1Click
+handed-i-b/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click
+handed-i-b/crosschain-send-no-bridge.r4	y	y	NEAR Intents 1Click
+handed-m1/agent-agent-transaction.r3	y	y	NEAR Agents Marketplace (A2A + x402)
+handed-m1/agent-buy-up-to-budget.r4	y	y	agent hiring marketplace agents under a budget cap
+handed-m1/agent-commerce-checkout.r3	n	n	scope check; marketplace skills do not cover external SaaS
+handed-m2/agent-agent-transaction.r3	n	y	general A2A + x402 pattern
+handed-m2/agent-agent-transaction.r4	y	y	NEAR Agent Market (A2A + x402)
+handed-m2/agent-buy-up-to-budget.r3	y	y	budget-aware buying assistant on NEAR Agent Market
+handed-m2/agent-buy-up-to-budget.r4	y	y	NEAR Agent Market x402 caller script
+handed-m2/agent-commerce-checkout.r3	n	n	license and subscription settled differently; marketplace not applicable
+handed-m2/agent-hireable-by-others.r3	y	y	NEAR Agent Market (market.near.ai)
+handed-m2/agent-hireable-by-others.r4	y	y	NEAR Agent Market (market.near.ai)
+handed-m2/hire-agent-on-demand.r3	y	y	NEAR Agent Market (market.near.ai)
+handed-m2/hire-agent-on-demand.r4	y	y	NEAR Agent Market (market.near.ai)
+handed-m2/hire-for-a-task.r3	y	y	NEAR Agent Market (market.near.ai)
+handed-m2/hire-for-a-task.r4	y	y	NEAR Agent Market (market.near.ai)

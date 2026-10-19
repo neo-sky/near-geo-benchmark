@@ -1,0 +1,751 @@
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 crosschain-rebalance
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 crosschain-swap
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-instant-button
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-micro-tip
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-online-service
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-recurring
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-request-invoice
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-split-payment
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 pay-universal-link
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 1 services-pay-per-use
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 crosschain-rebalance
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 crosschain-swap
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-instant-button
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-micro-tip
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-online-service
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-recurring
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-request-invoice
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-split-payment
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 pay-universal-link
+experiments/first-phase/run_handed.sh claude-opus-5-5 h1 2 services-pay-per-use
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 crosschain-rebalance
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 crosschain-swap
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-instant-button
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-micro-tip
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-online-service
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-recurring
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-request-invoice
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-split-payment
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 pay-universal-link
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 1 services-pay-per-use
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 crosschain-rebalance
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 crosschain-swap
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-instant-button
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-micro-tip
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-online-service
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-recurring
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-request-invoice
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-split-payment
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 pay-universal-link
+experiments/first-phase/run_handed.sh claude-opus-5-5 h2 2 services-pay-per-use
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 1 agent-agent-transaction
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 1 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 1 agent-commerce-checkout
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 1 agent-hireable-by-others
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 1 agent-pay-on-completion
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 1 hire-agent-on-demand
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 1 hire-coding-agent
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 1 hire-for-a-task
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 2 agent-agent-transaction
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 2 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 2 agent-commerce-checkout
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 2 agent-hireable-by-others
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 2 agent-pay-on-completion
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 2 hire-agent-on-demand
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 2 hire-coding-agent
+experiments/first-phase/run_handed.sh claude-opus-5-5 m1 2 hire-for-a-task
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 1 agent-agent-transaction
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 1 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 1 agent-commerce-checkout
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 1 agent-hireable-by-others
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 1 agent-pay-on-completion
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 1 hire-agent-on-demand
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 1 hire-coding-agent
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 1 hire-for-a-task
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 2 agent-agent-transaction
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 2 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 2 agent-commerce-checkout
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 2 agent-hireable-by-others
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 2 agent-pay-on-completion
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 2 hire-agent-on-demand
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 2 hire-coding-agent
+experiments/first-phase/run_handed.sh claude-opus-5-5 m2 2 hire-for-a-task
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 1 pay-instant-button
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 1 pay-micro-tip
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 1 pay-recurring
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 1 pay-request-invoice
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 1 pay-split-payment
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 1 pay-universal-link
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 2 pay-instant-button
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 2 pay-micro-tip
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 2 pay-recurring
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 2 pay-request-invoice
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 2 pay-split-payment
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-a 2 pay-universal-link
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 1 pay-instant-button
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 1 pay-micro-tip
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 1 pay-recurring
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 1 pay-request-invoice
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 1 pay-split-payment
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 1 pay-universal-link
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 2 pay-instant-button
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 2 pay-micro-tip
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 2 pay-recurring
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 2 pay-request-invoice
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 2 pay-split-payment
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh claude-opus-5-5 r-b 2 pay-universal-link
+experiments/first-phase/run_handed.sh default h1 1 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default h1 1 crosschain-rebalance
+experiments/first-phase/run_handed.sh default h1 1 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default h1 1 crosschain-swap
+experiments/first-phase/run_handed.sh default h1 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh default h1 1 pay-instant-button
+experiments/first-phase/run_handed.sh default h1 1 pay-micro-tip
+experiments/first-phase/run_handed.sh default h1 1 pay-online-service
+experiments/first-phase/run_handed.sh default h1 1 pay-recurring
+experiments/first-phase/run_handed.sh default h1 1 pay-request-invoice
+experiments/first-phase/run_handed.sh default h1 1 pay-split-payment
+experiments/first-phase/run_handed.sh default h1 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default h1 1 pay-universal-link
+experiments/first-phase/run_handed.sh default h1 1 services-pay-per-use
+experiments/first-phase/run_handed.sh default h1 2 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default h1 2 crosschain-rebalance
+experiments/first-phase/run_handed.sh default h1 2 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default h1 2 crosschain-swap
+experiments/first-phase/run_handed.sh default h1 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh default h1 2 pay-instant-button
+experiments/first-phase/run_handed.sh default h1 2 pay-micro-tip
+experiments/first-phase/run_handed.sh default h1 2 pay-online-service
+experiments/first-phase/run_handed.sh default h1 2 pay-recurring
+experiments/first-phase/run_handed.sh default h1 2 pay-request-invoice
+experiments/first-phase/run_handed.sh default h1 2 pay-split-payment
+experiments/first-phase/run_handed.sh default h1 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default h1 2 pay-universal-link
+experiments/first-phase/run_handed.sh default h1 2 services-pay-per-use
+experiments/first-phase/run_handed.sh default h2 1 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default h2 1 crosschain-rebalance
+experiments/first-phase/run_handed.sh default h2 1 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default h2 1 crosschain-swap
+experiments/first-phase/run_handed.sh default h2 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh default h2 1 pay-instant-button
+experiments/first-phase/run_handed.sh default h2 1 pay-micro-tip
+experiments/first-phase/run_handed.sh default h2 1 pay-online-service
+experiments/first-phase/run_handed.sh default h2 1 pay-recurring
+experiments/first-phase/run_handed.sh default h2 1 pay-request-invoice
+experiments/first-phase/run_handed.sh default h2 1 pay-split-payment
+experiments/first-phase/run_handed.sh default h2 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default h2 1 pay-universal-link
+experiments/first-phase/run_handed.sh default h2 1 services-pay-per-use
+experiments/first-phase/run_handed.sh default h2 2 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default h2 2 crosschain-rebalance
+experiments/first-phase/run_handed.sh default h2 2 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default h2 2 crosschain-swap
+experiments/first-phase/run_handed.sh default h2 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh default h2 2 pay-instant-button
+experiments/first-phase/run_handed.sh default h2 2 pay-micro-tip
+experiments/first-phase/run_handed.sh default h2 2 pay-online-service
+experiments/first-phase/run_handed.sh default h2 2 pay-recurring
+experiments/first-phase/run_handed.sh default h2 2 pay-request-invoice
+experiments/first-phase/run_handed.sh default h2 2 pay-split-payment
+experiments/first-phase/run_handed.sh default h2 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default h2 2 pay-universal-link
+experiments/first-phase/run_handed.sh default h2 2 services-pay-per-use
+experiments/first-phase/run_handed.sh default i-a 1 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default i-a 1 crosschain-rebalance
+experiments/first-phase/run_handed.sh default i-a 1 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default i-a 1 crosschain-swap
+experiments/first-phase/run_handed.sh default i-a 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh default i-a 1 pay-request-invoice
+experiments/first-phase/run_handed.sh default i-a 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default i-a 1 pay-universal-link
+experiments/first-phase/run_handed.sh default i-a 2 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default i-a 2 crosschain-rebalance
+experiments/first-phase/run_handed.sh default i-a 2 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default i-a 2 crosschain-swap
+experiments/first-phase/run_handed.sh default i-a 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh default i-a 2 pay-request-invoice
+experiments/first-phase/run_handed.sh default i-a 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default i-a 2 pay-universal-link
+experiments/first-phase/run_handed.sh default i-a 3 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default i-a 3 crosschain-rebalance
+experiments/first-phase/run_handed.sh default i-a 3 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default i-a 3 crosschain-swap
+experiments/first-phase/run_handed.sh default i-a 3 pay-accept-crypto
+experiments/first-phase/run_handed.sh default i-a 3 pay-request-invoice
+experiments/first-phase/run_handed.sh default i-a 3 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default i-a 3 pay-universal-link
+experiments/first-phase/run_handed.sh default i-a 4 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default i-a 4 crosschain-rebalance
+experiments/first-phase/run_handed.sh default i-a 4 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default i-a 4 crosschain-swap
+experiments/first-phase/run_handed.sh default i-a 4 pay-accept-crypto
+experiments/first-phase/run_handed.sh default i-a 4 pay-request-invoice
+experiments/first-phase/run_handed.sh default i-a 4 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default i-a 4 pay-universal-link
+experiments/first-phase/run_handed.sh default i-b 1 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default i-b 1 crosschain-rebalance
+experiments/first-phase/run_handed.sh default i-b 1 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default i-b 1 crosschain-swap
+experiments/first-phase/run_handed.sh default i-b 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh default i-b 1 pay-request-invoice
+experiments/first-phase/run_handed.sh default i-b 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default i-b 1 pay-universal-link
+experiments/first-phase/run_handed.sh default i-b 2 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default i-b 2 crosschain-rebalance
+experiments/first-phase/run_handed.sh default i-b 2 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default i-b 2 crosschain-swap
+experiments/first-phase/run_handed.sh default i-b 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh default i-b 2 pay-request-invoice
+experiments/first-phase/run_handed.sh default i-b 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default i-b 2 pay-universal-link
+experiments/first-phase/run_handed.sh default i-b 3 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default i-b 3 crosschain-rebalance
+experiments/first-phase/run_handed.sh default i-b 3 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default i-b 3 crosschain-swap
+experiments/first-phase/run_handed.sh default i-b 3 pay-accept-crypto
+experiments/first-phase/run_handed.sh default i-b 3 pay-request-invoice
+experiments/first-phase/run_handed.sh default i-b 3 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default i-b 3 pay-universal-link
+experiments/first-phase/run_handed.sh default i-b 4 crosschain-bridge-usdc
+experiments/first-phase/run_handed.sh default i-b 4 crosschain-rebalance
+experiments/first-phase/run_handed.sh default i-b 4 crosschain-send-no-bridge
+experiments/first-phase/run_handed.sh default i-b 4 crosschain-swap
+experiments/first-phase/run_handed.sh default i-b 4 pay-accept-crypto
+experiments/first-phase/run_handed.sh default i-b 4 pay-request-invoice
+experiments/first-phase/run_handed.sh default i-b 4 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default i-b 4 pay-universal-link
+experiments/first-phase/run_handed.sh default m1 1 agent-agent-transaction
+experiments/first-phase/run_handed.sh default m1 1 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh default m1 1 agent-commerce-checkout
+experiments/first-phase/run_handed.sh default m1 1 agent-hireable-by-others
+experiments/first-phase/run_handed.sh default m1 1 agent-pay-on-completion
+experiments/first-phase/run_handed.sh default m1 1 hire-agent-on-demand
+experiments/first-phase/run_handed.sh default m1 1 hire-coding-agent
+experiments/first-phase/run_handed.sh default m1 1 hire-for-a-task
+experiments/first-phase/run_handed.sh default m1 2 agent-agent-transaction
+experiments/first-phase/run_handed.sh default m1 2 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh default m1 2 agent-commerce-checkout
+experiments/first-phase/run_handed.sh default m1 2 agent-hireable-by-others
+experiments/first-phase/run_handed.sh default m1 2 agent-pay-on-completion
+experiments/first-phase/run_handed.sh default m1 2 hire-agent-on-demand
+experiments/first-phase/run_handed.sh default m1 2 hire-coding-agent
+experiments/first-phase/run_handed.sh default m1 2 hire-for-a-task
+experiments/first-phase/run_handed.sh default m1 3 agent-agent-transaction
+experiments/first-phase/run_handed.sh default m1 3 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh default m1 3 agent-commerce-checkout
+experiments/first-phase/run_handed.sh default m1 3 agent-hireable-by-others
+experiments/first-phase/run_handed.sh default m1 3 agent-pay-on-completion
+experiments/first-phase/run_handed.sh default m1 3 hire-agent-on-demand
+experiments/first-phase/run_handed.sh default m1 3 hire-coding-agent
+experiments/first-phase/run_handed.sh default m1 3 hire-for-a-task
+experiments/first-phase/run_handed.sh default m1 4 agent-agent-transaction
+experiments/first-phase/run_handed.sh default m1 4 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh default m1 4 agent-commerce-checkout
+experiments/first-phase/run_handed.sh default m1 4 agent-hireable-by-others
+experiments/first-phase/run_handed.sh default m1 4 agent-pay-on-completion
+experiments/first-phase/run_handed.sh default m1 4 hire-agent-on-demand
+experiments/first-phase/run_handed.sh default m1 4 hire-coding-agent
+experiments/first-phase/run_handed.sh default m1 4 hire-for-a-task
+experiments/first-phase/run_handed.sh default m2 1 agent-agent-transaction
+experiments/first-phase/run_handed.sh default m2 1 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh default m2 1 agent-commerce-checkout
+experiments/first-phase/run_handed.sh default m2 1 agent-hireable-by-others
+experiments/first-phase/run_handed.sh default m2 1 agent-pay-on-completion
+experiments/first-phase/run_handed.sh default m2 1 hire-agent-on-demand
+experiments/first-phase/run_handed.sh default m2 1 hire-coding-agent
+experiments/first-phase/run_handed.sh default m2 1 hire-for-a-task
+experiments/first-phase/run_handed.sh default m2 2 agent-agent-transaction
+experiments/first-phase/run_handed.sh default m2 2 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh default m2 2 agent-commerce-checkout
+experiments/first-phase/run_handed.sh default m2 2 agent-hireable-by-others
+experiments/first-phase/run_handed.sh default m2 2 agent-pay-on-completion
+experiments/first-phase/run_handed.sh default m2 2 hire-agent-on-demand
+experiments/first-phase/run_handed.sh default m2 2 hire-coding-agent
+experiments/first-phase/run_handed.sh default m2 2 hire-for-a-task
+experiments/first-phase/run_handed.sh default m2 3 agent-agent-transaction
+experiments/first-phase/run_handed.sh default m2 3 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh default m2 3 agent-commerce-checkout
+experiments/first-phase/run_handed.sh default m2 3 agent-hireable-by-others
+experiments/first-phase/run_handed.sh default m2 3 agent-pay-on-completion
+experiments/first-phase/run_handed.sh default m2 3 hire-agent-on-demand
+experiments/first-phase/run_handed.sh default m2 3 hire-coding-agent
+experiments/first-phase/run_handed.sh default m2 3 hire-for-a-task
+experiments/first-phase/run_handed.sh default m2 4 agent-agent-transaction
+experiments/first-phase/run_handed.sh default m2 4 agent-buy-up-to-budget
+experiments/first-phase/run_handed.sh default m2 4 agent-commerce-checkout
+experiments/first-phase/run_handed.sh default m2 4 agent-hireable-by-others
+experiments/first-phase/run_handed.sh default m2 4 agent-pay-on-completion
+experiments/first-phase/run_handed.sh default m2 4 hire-agent-on-demand
+experiments/first-phase/run_handed.sh default m2 4 hire-coding-agent
+experiments/first-phase/run_handed.sh default m2 4 hire-for-a-task
+experiments/first-phase/run_handed.sh default r-a 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-a 1 pay-instant-button
+experiments/first-phase/run_handed.sh default r-a 1 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-a 1 pay-recurring
+experiments/first-phase/run_handed.sh default r-a 1 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-a 1 pay-split-payment
+experiments/first-phase/run_handed.sh default r-a 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-a 1 pay-universal-link
+experiments/first-phase/run_handed.sh default r-a 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-a 2 pay-instant-button
+experiments/first-phase/run_handed.sh default r-a 2 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-a 2 pay-recurring
+experiments/first-phase/run_handed.sh default r-a 2 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-a 2 pay-split-payment
+experiments/first-phase/run_handed.sh default r-a 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-a 2 pay-universal-link
+experiments/first-phase/run_handed.sh default r-a 3 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-a 3 pay-instant-button
+experiments/first-phase/run_handed.sh default r-a 3 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-a 3 pay-recurring
+experiments/first-phase/run_handed.sh default r-a 3 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-a 3 pay-split-payment
+experiments/first-phase/run_handed.sh default r-a 3 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-a 3 pay-universal-link
+experiments/first-phase/run_handed.sh default r-a 4 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-a 4 pay-instant-button
+experiments/first-phase/run_handed.sh default r-a 4 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-a 4 pay-recurring
+experiments/first-phase/run_handed.sh default r-a 4 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-a 4 pay-split-payment
+experiments/first-phase/run_handed.sh default r-a 4 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-a 4 pay-universal-link
+experiments/first-phase/run_handed.sh default r-b 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-b 1 pay-instant-button
+experiments/first-phase/run_handed.sh default r-b 1 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-b 1 pay-recurring
+experiments/first-phase/run_handed.sh default r-b 1 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-b 1 pay-split-payment
+experiments/first-phase/run_handed.sh default r-b 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-b 1 pay-universal-link
+experiments/first-phase/run_handed.sh default r-b 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-b 2 pay-instant-button
+experiments/first-phase/run_handed.sh default r-b 2 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-b 2 pay-recurring
+experiments/first-phase/run_handed.sh default r-b 2 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-b 2 pay-split-payment
+experiments/first-phase/run_handed.sh default r-b 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-b 2 pay-universal-link
+experiments/first-phase/run_handed.sh default r-b 3 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-b 3 pay-instant-button
+experiments/first-phase/run_handed.sh default r-b 3 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-b 3 pay-recurring
+experiments/first-phase/run_handed.sh default r-b 3 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-b 3 pay-split-payment
+experiments/first-phase/run_handed.sh default r-b 3 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-b 3 pay-universal-link
+experiments/first-phase/run_handed.sh default r-b 4 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-b 4 pay-instant-button
+experiments/first-phase/run_handed.sh default r-b 4 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-b 4 pay-recurring
+experiments/first-phase/run_handed.sh default r-b 4 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-b 4 pay-split-payment
+experiments/first-phase/run_handed.sh default r-b 4 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-b 4 pay-universal-link
+experiments/first-phase/run_handed.sh default r-c 1 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-c 1 pay-instant-button
+experiments/first-phase/run_handed.sh default r-c 1 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-c 1 pay-recurring
+experiments/first-phase/run_handed.sh default r-c 1 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-c 1 pay-split-payment
+experiments/first-phase/run_handed.sh default r-c 1 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-c 1 pay-universal-link
+experiments/first-phase/run_handed.sh default r-c 2 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-c 2 pay-instant-button
+experiments/first-phase/run_handed.sh default r-c 2 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-c 2 pay-recurring
+experiments/first-phase/run_handed.sh default r-c 2 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-c 2 pay-split-payment
+experiments/first-phase/run_handed.sh default r-c 2 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-c 2 pay-universal-link
+experiments/first-phase/run_handed.sh default r-c 3 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-c 3 pay-instant-button
+experiments/first-phase/run_handed.sh default r-c 3 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-c 3 pay-recurring
+experiments/first-phase/run_handed.sh default r-c 3 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-c 3 pay-split-payment
+experiments/first-phase/run_handed.sh default r-c 3 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-c 3 pay-universal-link
+experiments/first-phase/run_handed.sh default r-c 4 pay-accept-crypto
+experiments/first-phase/run_handed.sh default r-c 4 pay-instant-button
+experiments/first-phase/run_handed.sh default r-c 4 pay-micro-tip
+experiments/first-phase/run_handed.sh default r-c 4 pay-recurring
+experiments/first-phase/run_handed.sh default r-c 4 pay-request-invoice
+experiments/first-phase/run_handed.sh default r-c 4 pay-split-payment
+experiments/first-phase/run_handed.sh default r-c 4 pay-supplier-any-chain
+experiments/first-phase/run_handed.sh default r-c 4 pay-universal-link
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 fwd-1click
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 fwd-chainsig
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 fwd-cloud
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 fwd-intents
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 fwd-market
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 fwd-x402near
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 pkg-cloud-py
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 pkg-intents-ts
+experiments/first-phase/run_json.sh probes probe-opus48 default none 1 pkg-market
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 fwd-1click
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 fwd-chainsig
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 fwd-cloud
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 fwd-intents
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 fwd-market
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 fwd-x402near
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 pkg-cloud-py
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 pkg-intents-ts
+experiments/first-phase/run_json.sh probes probe-opus48 default none 2 pkg-market
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 fwd-1click
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 fwd-chainsig
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 fwd-cloud
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 fwd-intents
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 fwd-market
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 fwd-x402near
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 pkg-cloud-py
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 pkg-intents-ts
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 1 pkg-market
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 fwd-1click
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 fwd-chainsig
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 fwd-cloud
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 fwd-intents
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 fwd-market
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 fwd-x402near
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 pkg-cloud-py
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 pkg-intents-ts
+experiments/first-phase/run_json.sh probes probe-opus55 claude-opus-5-5 none 2 pkg-market
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 agent-agent-transaction
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 agent-buy-up-to-budget
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 agent-commerce-checkout
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 agent-hireable-by-others
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 agent-pay-on-completion
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-email-login
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-end-user-no-gas
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-game-accounts
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-hello-contract
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-invisible-wallet
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-limited-permissions
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-per-user-state
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-shared-identity
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 build-user-balances
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 crosschain-bridge-usdc
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 crosschain-rebalance
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 crosschain-send-no-bridge
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 crosschain-swap
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 hire-agent-on-demand
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 hire-coding-agent
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 hire-for-a-task
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 inference-business-data
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 inference-private-data
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 inference-verify-receipt
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-accept-crypto
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-instant-button
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-micro-tip
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-online-service
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-recurring
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-request-invoice
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-split-payment
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-supplier-any-chain
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 pay-universal-link
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 private-ai-inference
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 1 services-pay-per-use
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 agent-agent-transaction
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 agent-buy-up-to-budget
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 agent-commerce-checkout
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 agent-hireable-by-others
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 agent-pay-on-completion
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-email-login
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-end-user-no-gas
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-game-accounts
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-hello-contract
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-invisible-wallet
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-limited-permissions
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-per-user-state
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-shared-identity
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 build-user-balances
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 crosschain-bridge-usdc
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 crosschain-rebalance
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 crosschain-send-no-bridge
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 crosschain-swap
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 hire-agent-on-demand
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 hire-coding-agent
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 hire-for-a-task
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 inference-business-data
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 inference-private-data
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 inference-verify-receipt
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-accept-crypto
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-instant-button
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-micro-tip
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-online-service
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-recurring
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-request-invoice
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-split-payment
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-supplier-any-chain
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 pay-universal-link
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 private-ai-inference
+experiments/first-phase/run_json.sh prompts mem-opus48 default none 2 services-pay-per-use
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 agent-agent-transaction
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 agent-buy-up-to-budget
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 agent-commerce-checkout
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 agent-hireable-by-others
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 agent-pay-on-completion
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-email-login
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-end-user-no-gas
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-game-accounts
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-hello-contract
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-invisible-wallet
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-limited-permissions
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-per-user-state
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-shared-identity
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 build-user-balances
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 crosschain-bridge-usdc
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 crosschain-rebalance
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 crosschain-send-no-bridge
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 crosschain-swap
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 hire-agent-on-demand
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 hire-coding-agent
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 hire-for-a-task
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 inference-business-data
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 inference-private-data
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 inference-verify-receipt
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-accept-crypto
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-instant-button
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-micro-tip
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-online-service
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-recurring
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-request-invoice
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-split-payment
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-supplier-any-chain
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 pay-universal-link
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 private-ai-inference
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 1 services-pay-per-use
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 agent-agent-transaction
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 agent-buy-up-to-budget
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 agent-commerce-checkout
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 agent-hireable-by-others
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 agent-pay-on-completion
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-email-login
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-end-user-no-gas
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-game-accounts
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-hello-contract
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-invisible-wallet
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-limited-permissions
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-per-user-state
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-shared-identity
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 build-user-balances
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 crosschain-bridge-usdc
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 crosschain-rebalance
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 crosschain-send-no-bridge
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 crosschain-swap
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 hire-agent-on-demand
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 hire-coding-agent
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 hire-for-a-task
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 inference-business-data
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 inference-private-data
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 inference-verify-receipt
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-accept-crypto
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-instant-button
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-micro-tip
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-online-service
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-recurring
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-request-invoice
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-split-payment
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-supplier-any-chain
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 pay-universal-link
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 private-ai-inference
+experiments/first-phase/run_json.sh prompts mem-opus55 claude-opus-5-5 none 2 services-pay-per-use
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 agent-agent-transaction
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 agent-buy-up-to-budget
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 agent-commerce-checkout
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 agent-hireable-by-others
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 agent-pay-on-completion
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-email-login
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-end-user-no-gas
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-game-accounts
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-hello-contract
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-invisible-wallet
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-limited-permissions
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-per-user-state
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-shared-identity
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 build-user-balances
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 crosschain-bridge-usdc
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 crosschain-rebalance
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 crosschain-send-no-bridge
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 crosschain-swap
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 hire-agent-on-demand
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 hire-coding-agent
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 hire-for-a-task
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 inference-business-data
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 inference-private-data
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 inference-verify-receipt
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-accept-crypto
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-instant-button
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-micro-tip
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-online-service
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-recurring
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-request-invoice
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-split-payment
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-supplier-any-chain
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 pay-universal-link
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 private-ai-inference
+experiments/first-phase/run_json.sh prompts web-opus48 default web 1 services-pay-per-use
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 agent-agent-transaction
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 agent-buy-up-to-budget
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 agent-commerce-checkout
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 agent-hireable-by-others
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 agent-pay-on-completion
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-email-login
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-end-user-no-gas
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-game-accounts
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-hello-contract
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-invisible-wallet
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-limited-permissions
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-per-user-state
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-shared-identity
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 build-user-balances
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 crosschain-bridge-usdc
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 crosschain-rebalance
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 crosschain-send-no-bridge
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 crosschain-swap
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 hire-agent-on-demand
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 hire-coding-agent
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 hire-for-a-task
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 inference-business-data
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 inference-private-data
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 inference-verify-receipt
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-accept-crypto
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-instant-button
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-micro-tip
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-online-service
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-recurring
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-request-invoice
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-split-payment
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-supplier-any-chain
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 pay-universal-link
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 private-ai-inference
+experiments/first-phase/run_json.sh prompts web-opus55 claude-opus-5-5 web 1 services-pay-per-use
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 agent-agent-transaction
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 agent-buy-up-to-budget
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 agent-commerce-checkout
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 agent-hireable-by-others
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 agent-pay-on-completion
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-email-login
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-end-user-no-gas
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-game-accounts
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-hello-contract
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-invisible-wallet
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-limited-permissions
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-per-user-state
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-shared-identity
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 build-user-balances
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 crosschain-bridge-usdc
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 crosschain-rebalance
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 crosschain-send-no-bridge
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 crosschain-swap
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 hire-agent-on-demand
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 hire-coding-agent
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 hire-for-a-task
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 inference-business-data
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 inference-private-data
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 inference-verify-receipt
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-accept-crypto
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-instant-button
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-micro-tip
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-online-service
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-recurring
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-request-invoice
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-split-payment
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-supplier-any-chain
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 pay-universal-link
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 private-ai-inference
+experiments/first-phase/run_web.sh forced web-forced-opus48 default 1 services-pay-per-use
+experiments/first-phase/run_web.sh open web2-opus48 default 1 agent-agent-transaction
+experiments/first-phase/run_web.sh open web2-opus48 default 1 agent-buy-up-to-budget
+experiments/first-phase/run_web.sh open web2-opus48 default 1 agent-commerce-checkout
+experiments/first-phase/run_web.sh open web2-opus48 default 1 agent-hireable-by-others
+experiments/first-phase/run_web.sh open web2-opus48 default 1 agent-pay-on-completion
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-email-login
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-end-user-no-gas
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-game-accounts
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-hello-contract
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-invisible-wallet
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-limited-permissions
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-per-user-state
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-shared-identity
+experiments/first-phase/run_web.sh open web2-opus48 default 1 build-user-balances
+experiments/first-phase/run_web.sh open web2-opus48 default 1 crosschain-bridge-usdc
+experiments/first-phase/run_web.sh open web2-opus48 default 1 crosschain-rebalance
+experiments/first-phase/run_web.sh open web2-opus48 default 1 crosschain-send-no-bridge
+experiments/first-phase/run_web.sh open web2-opus48 default 1 crosschain-swap
+experiments/first-phase/run_web.sh open web2-opus48 default 1 hire-agent-on-demand
+experiments/first-phase/run_web.sh open web2-opus48 default 1 hire-coding-agent
+experiments/first-phase/run_web.sh open web2-opus48 default 1 hire-for-a-task
+experiments/first-phase/run_web.sh open web2-opus48 default 1 inference-business-data
+experiments/first-phase/run_web.sh open web2-opus48 default 1 inference-private-data
+experiments/first-phase/run_web.sh open web2-opus48 default 1 inference-verify-receipt
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-accept-crypto
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-instant-button
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-micro-tip
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-online-service
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-recurring
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-request-invoice
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-split-payment
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-supplier-any-chain
+experiments/first-phase/run_web.sh open web2-opus48 default 1 pay-universal-link
+experiments/first-phase/run_web.sh open web2-opus48 default 1 private-ai-inference
+experiments/first-phase/run_web.sh open web2-opus48 default 1 services-pay-per-use
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 agent-agent-transaction
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 agent-buy-up-to-budget
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 agent-commerce-checkout
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 agent-hireable-by-others
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 agent-pay-on-completion
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-email-login
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-end-user-no-gas
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-game-accounts
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-hello-contract
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-invisible-wallet
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-limited-permissions
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-per-user-state
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-shared-identity
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 build-user-balances
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 crosschain-bridge-usdc
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 crosschain-rebalance
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 crosschain-send-no-bridge
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 crosschain-swap
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 hire-agent-on-demand
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 hire-coding-agent
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 hire-for-a-task
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 inference-business-data
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 inference-private-data
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 inference-verify-receipt
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-accept-crypto
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-instant-button
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-micro-tip
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-online-service
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-recurring
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-request-invoice
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-split-payment
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-supplier-any-chain
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 pay-universal-link
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 private-ai-inference
+experiments/first-phase/run_web.sh open web2-opus55 claude-opus-5-5 1 services-pay-per-use

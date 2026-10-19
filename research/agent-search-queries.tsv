@@ -1,0 +1,690 @@
+engine	prompt	domain	query
+codex	agent-commerce-checkout	commerce	site.visa.com intelligent commerce agent payments spending limits token
+codex	agent-commerce-checkout	commerce	site.mastercard.com agent pay recurring payments agent
+codex	agent-commerce-checkout	commerce	site.stripe.com agentic commerce payments shared payment tokens subscriptions
+codex	agent-commerce-checkout	commerce	site.stripe.com resources authorization capture settlement payment
+codex	agent-commerce-checkout	commerce	site.docs.stripe.com subscriptions save payment details consent future payments
+codex	agent-commerce-checkout	commerce	site.visa.com intelligent commerce agent payments token spending limits
+codex	agent-commerce-checkout	commerce	site.mastercard.com agent pay recurring payments
+codex	agent-commerce-checkout	commerce	site.stripe.com agentic commerce payments shared payment tokens subscriptions
+codex	agent-commerce-checkout	commerce	site.stripe.com resources payment authorization capture settlement
+codex	agent-commerce-checkout	commerce	site.docs.stripe.com subscriptions payment methods save future payments consent
+codex	build-end-user-no-gas	build	site.ethereum.org account abstraction paymaster sponsor gas fees
+codex	build-end-user-no-gas	build	site.ethereum.org account abstraction paymasters sponsor gas fees
+codex	build-hello-contract	build	site.getfoundry.sh forge create deploy constructor args broadcast
+codex	build-hello-contract	build	site.docs.base.org base sepolia chain id faucet deploy smart contract foundry
+codex	build-hello-contract	build	site.getfoundry.sh forge create deploy constructor args broadcast
+codex	build-hello-contract	build	site.docs.base.org Base Sepolia network information chain id RPC
+codex	build-invisible-wallet	build	site.privy.io embedded wallets automatically create wallets users login
+codex	build-invisible-wallet	build	site.docs.cdp.coinbase.com embedded wallets overview smart accounts gas sponsorship
+codex	build-invisible-wallet	build	site.ethereum.org wallets account abstraction smart accounts embedded wallets
+codex	build-invisible-wallet	build	site.docs.privy.io embedded wallets overview users email login
+codex	build-invisible-wallet	build	site.docs.cdp.coinbase.com embedded wallets overview
+codex	build-limited-permissions	build	site.rfc-editor.org RFC 9396 payment initiation authorization_details amount
+codex	build-limited-permissions	build	site.rfc-editor.org RFC 9396 rich authorization requests payment amount
+codex	build-limited-permissions	build	site.cheatsheetseries.owasp.org Transaction Authorization Cheat Sheet
+codex	build-user-balances	build	site.docs.soliditylang.org mapping balances withdrawal pattern security considerations
+codex	crosschain-bridge-usdc	crosschain	site.circle.com USDC bridge Ethereum Solana Base Arbitrum CCTP transfer native USDC
+codex	crosschain-bridge-usdc	crosschain	site.circle.com USDC supported blockchains contract addresses native bridged USDC
+codex	crosschain-bridge-usdc	crosschain	site.circle.com USDC bridge Ethereum Solana Base Arbitrum CCTP native USDC
+codex	crosschain-bridge-usdc	crosschain	site.support.metamask.io bridge USDC gas destination chain Ethereum Solana
+codex	crosschain-send-no-bridge	crosschain	site.coinbase.com send USDC multiple networks Ethereum Solana
+codex	crosschain-send-no-bridge	crosschain	site.phantom.com crosschain swap Ethereum Solana
+codex	crosschain-send-no-bridge	crosschain	site.coinbase.com Ethereum Solana USDC supported networks send receive
+codex	crosschain-send-no-bridge	crosschain	site.circle.com CCTP Ethereum Solana burn mint USDC
+codex	hire-agent-on-demand	hiring	site.upwork.com AI agent development hire cost
+codex	hire-agent-on-demand	hiring	site.lindy.ai pricing AI agents
+codex	hire-agent-on-demand	hiring	site.relevanceai.com pricing agents
+codex	hire-coding-agent	hiring	site.devin.ai pricing coding agent
+codex	hire-coding-agent	hiring	site.anthropic.com claude code pricing
+codex	hire-coding-agent	hiring	site.developers.openai.com codex pricing
+codex	hire-coding-agent	hiring	Rust consulting concurrency debugging hire Rust expert
+codex	hire-coding-agent	hiring	Devin AI pricing coding agent official
+codex	hire-coding-agent	hiring	OpenAI Codex pricing coding agent official
+codex	hire-coding-agent	hiring	Codex pricing
+codex	hire-for-a-task	hiring	hire AI agent pay per task marketplace AI agents
+codex	hire-for-a-task	hiring	site.upwork.com hire AI agents specialists
+codex	hire-for-a-task	hiring	hire AI agent marketplace pay per task autonomous agent
+codex	hire-for-a-task	hiring	Upwork hire AI automation experts Fiverr AI agents
+codex	inference-business-data	private_ai	site.ncsc.gov.uk generative AI sensitive information prompts
+codex	inference-business-data	private_ai	site.ftc.gov AI companies data privacy confidentiality business
+codex	inference-business-data	private_ai	site.ncsc.gov.uk generative AI sensitive data prompts business
+codex	inference-business-data	private_ai	site.owasp.org LLM sensitive information disclosure prevention
+codex	inference-verify-receipt	private_ai	verifiable inference signed receipt zkML trusted execution environment inference attestation
+codex	inference-verify-receipt	private_ai	verifiable inference signed receipt attestation model input output confidential inference
+codex	inference-verify-receipt	private_ai	zkML inference proof model computation EZKL documentation
+codex	pay-accept-crypto	payments	site.docs.stripe.com payments stablecoin payments supported businesses
+codex	pay-accept-crypto	payments	site.commerce.coinbase.com onchain payment protocol checkout merchant
+codex	pay-accept-crypto	payments	site.docs.btcpayserver.org getting started payment integration
+codex	pay-accept-crypto	payments	site.docs.stripe.com payments stablecoin payments supported businesses countries
+codex	pay-accept-crypto	payments	site.commerce.coinbase.com crypto payments commerce checkout documentation
+codex	pay-accept-crypto	payments	site.docs.btcpayserver.org introduction payment processing bitcoin
+codex	pay-online-service	payments	x402 protocol how it works payment per request stablecoin fees official
+codex	pay-online-service	payments	OpenRouter crypto payments credits fee official documentation
+codex	pay-online-service	payments	x402 payment protocol per request stablecoin facilitator fees
+codex	pay-online-service	payments	OpenRouter crypto payments credits fee
+codex	pay-request-invoice	payments	request finance payment link invoice pay any chain USDC
+codex	pay-request-invoice	payments	USDC payment link any chain wallet settlement payment request Daimo
+codex	pay-request-invoice	payments	site.daimo.com payment links create request
+codex	pay-request-invoice	payments	site.daimo.com links fees settlement
+codex	pay-request-invoice	payments	USDC payment link invoice any chain wallet receive USDC cross chain payment request Daimo Pay
+codex	pay-request-invoice	payments	Request Finance payment link invoice USDC payer any chain wallet
+codex	pay-request-invoice	payments	site.daimo.com payment links request money
+codex	pay-request-invoice	payments	site.request.network payment links create fees settlement
+codex	private-ai-inference	private_ai	Azure confidential inferencing GPU confidential computing data in use attestation
+codex	private-ai-inference	private_ai	Google confidential space inference confidential GPU
+codex	private-ai-inference	private_ai	AWS Bedrock data protection model providers access prompts completions
+codex	private-ai-inference	private_ai	site.confidentialcomputing.io confidential computing data in use definition
+codex	private-ai-inference	private_ai	site.learn.microsoft.com confidential inference azure confidential GPU inference
+codex	private-ai-inference	private_ai	site.apple.com private cloud compute security stateless computation
+codex	private-ai-inference	private_ai	site.docs.privatemode.ai end to end encryption attestation inference
+codex	private-ai-inference	private_ai	site.cloud.google.com confidential space GPU inference H100 attestation
+codex	services-pay-per-use	services	site.docs.x402.org batch settlement payment per request
+codex	services-pay-per-use	services	site.docs.cdp.coinbase.com payment channels API payments offchain
+codex	services-pay-per-use	services	site.docs.x402.org batch settlement payment channels API per request
+codex	services-pay-per-use	services	site.docs.stripe.com stablecoin payments supported currencies
+codex	agent-agent-transaction	commerce	Google A2A protocol agent tasks authentication payments AP2 protocol
+codex	agent-agent-transaction	commerce	Coinbase x402 protocol HTTP 402 automatic payments agents
+codex	agent-buy-up-to-budget	commerce	site.platform.openai.com computer use purchases confirmation financial activities
+codex	agent-commerce-checkout	commerce	site.visa.com intelligent commerce agent payments user spending limits authorization
+codex	agent-commerce-checkout	commerce	site.mastercard.com agent pay recurring payments agentic commerce
+codex	agent-commerce-checkout	commerce	site.stripe.com agentic commerce payments shared payment tokens subscriptions
+codex	agent-commerce-checkout	commerce	site.docs.stripe.com payments save and reuse payment methods consent off session
+codex	agent-commerce-checkout	commerce	site.docs.stripe.com payments balances settlement timing authorization capture
+codex	agent-hireable-by-others	hiring	AI agent marketplace list your agent hire pay agent publish monetization
+codex	agent-pay-on-completion	commerce	site.docs.stripe.com connect separate charges transfers transfer webhook payment
+codex	build-email-login	build	site.docs.privy.io email login embedded wallets
+codex	build-end-user-no-gas	build	site.docs.erc4337.io paymasters sponsor gas users
+codex	build-end-user-no-gas	build	site.docs.cdp.coinbase.com paymaster gas sponsorship policies
+codex	build-game-accounts	build	site.ethereum.org developers docs accounts smart contract accounts externally owned accounts ERC-4337
+codex	build-hello-contract	build	site.getfoundry.sh forge create deploy constructor args broadcast
+codex	build-hello-contract	build	site:docs.base.org Base Sepolia network information deploy smart contract foundry
+codex	build-invisible-wallet	build	site.docs.privy.io embedded wallets create wallets user login recovery
+codex	build-invisible-wallet	build	site.docs.cdp.coinbase.com embedded wallets authentication smart accounts gas sponsorship
+codex	build-limited-permissions	build	site.rfc-editor.org RFC 9396 rich authorization requests payment amount
+codex	build-limited-permissions	build	site.rfc-editor.org RFC 8693 delegation impersonation token exchange
+codex	build-per-user-state	build	site.docs.soliditylang.org mapping msg.sender storage contract
+codex	build-shared-identity	build	site.openid.net OpenID Connect authentication single sign on
+codex	build-user-balances	build	site.docs.openzeppelin.com contracts 5.x ERC20 balances mapping
+codex	crosschain-bridge-usdc	crosschain	site.circle.com CCTP supported blockchains Ethereum Solana Base Arbitrum USDC bridge
+codex	crosschain-bridge-usdc	crosschain	site.circle.com USDC bridge native USDC bridged USDC how to bridge
+codex	crosschain-rebalance	crosschain	site.ethereum.org bridges risks bridging assets
+codex	crosschain-send-no-bridge	crosschain	site.coinbase.com USDC supported networks Ethereum Solana send receive
+codex	crosschain-send-no-bridge	crosschain	site.circle.com CCTP native USDC burn mint Ethereum Solana
+codex	crosschain-swap	crosschain	LI.FI widget cross chain swap integration documentation
+codex	hire-agent-on-demand	hiring	hire AI agents marketplace pay agent freelance specialist AI agent
+codex	hire-agent-on-demand	hiring	Relevance AI pricing agent workforce credits
+codex	hire-coding-agent	hiring	Devin AI pricing coding agent pay subscription
+codex	hire-coding-agent	hiring	hire AI coding agent Rust concurrency bug agent marketplace
+codex	hire-coding-agent	hiring	site.developers.openai.com codex pricing subscription
+codex	hire-for-a-task	hiring	hire AI agents marketplace pay tasks agent freelance
+codex	hire-for-a-task	hiring	Upwork hire AI agent automation experts Fiverr
+codex	inference-business-data	private_ai	site.ncsc.gov.uk generative AI sensitive data private information
+codex	inference-business-data	private_ai	site.nist.gov generative AI profile data privacy access controls
+codex	inference-private-data	private_ai	site.ollama.com FAQ cloud features disabled local only data
+codex	inference-private-data	private_ai	site.huggingface.co/docs transformers offline mode HF_HUB_OFFLINE
+codex	inference-verify-receipt	private_ai	verifiable AI inference cryptographic receipt model inference attestation
+codex	inference-verify-receipt	private_ai	AI inference verifiable receipt zkML RISC Zero Giza
+codex	pay-accept-crypto	payments	site.docs.stripe.com payments stablecoin payments supported businesses countries
+codex	pay-accept-crypto	payments	site.bitpay.com business crypto payments settlement fiat refunds
+codex	pay-instant-button	payments	site.docs.stripe.com payment request button Apple Pay Google Pay express checkout wallet
+codex	pay-micro-tip	payments	site.ko-fi.com fees tips payment instantly PayPal Stripe
+codex	pay-micro-tip	payments	site.strike.me lightning receive payments globally tips
+codex	pay-online-service	payments	x402 protocol pay per request stablecoin metered API payment
+codex	pay-online-service	payments	Stripe stablecoin payments usage based billing API crypto
+codex	pay-recurring	payments	site.coinbase.com recurring buys send crypto recurring payments
+codex	pay-recurring	payments	site.request.finance recurring payments crypto scheduled payments
+codex	pay-request-invoice	payments	request finance payment link invoice pay any chain USDC settlement
+codex	pay-request-invoice	payments	https://docs.copperx.io payment links cross chain USDC
+codex	pay-request-invoice	payments	depay payment links USDC cross chain settlement invoice
+codex	pay-request-invoice	payments	site.owelio.com fees settlement failed payment
+codex	pay-request-invoice	payments	site.request.finance cross chain payments payer invoice
+codex	pay-request-invoice	payments	site.relay.link payment links request USDC
+codex	pay-split-payment	payments	site.docs.stripe.com connect separate charges and transfers split payment multiple connected accounts
+codex	pay-supplier-any-chain	payments	supplier payment recipient choose blockchain network payment link stablecoin claim
+codex	pay-universal-link	payments	crypto payment links any wallet any chain payment links stablecoin cross chain
+codex	pay-universal-link	payments	site.request.finance payment links supported networks wallet
+codex	private-ai-inference	private_ai	Azure confidential inferencing confidential GPU inference data in use attestation
+codex	private-ai-inference	private_ai	AWS Bedrock data protection model providers prompts completions
+codex	private-ai-inference	private_ai	Google confidential space GPU inference encrypted results attestation
+codex	private-ai-inference	private_ai	site.learn.microsoft.com confidential GPU H100 virtual machines NCCads
+codex	private-ai-inference	private_ai	site.docs.cloud.google.com confidential space GPU H100 inference
+codex	services-pay-per-use	services	API crypto payments payment channels per request prepaid balance x402 batch settlement
+codex	services-pay-per-use	services	Lightning L402 API payments prepaid macaroon
+deepseek	agent-commerce-checkout	commerce	agentic payments protocol 2026 x402 AP2 agent purchases software license SaaS
+deepseek	hire-for-a-task	hiring	hire AI agent marketplace pay for tasks 2026
+deepseek	pay-request-invoice	payments	USDC payment request link pay from any chain cross-chain invoice 2026
+deepseek	agent-agent-transaction	commerce	how do two AI agents transact with each other automatically agent payments protocols 2026
+deepseek	agent-buy-up-to-budget	commerce	building autonomous agent that purchases items with budget limit 2026
+deepseek	agent-buy-up-to-budget	commerce	agentic commerce payment APIs spending limits Stripe OpenAI 2026
+deepseek	agent-commerce-checkout	commerce	Stripe agentic commerce agent purchases software subscription payment settlement
+deepseek	agent-commerce-checkout	commerce	agentic payments protocol AI agents autonomous purchase 2026
+deepseek	agent-commerce-checkout	commerce	agent payments protocol AP2 x402 agentic commerce 2026
+deepseek	agent-commerce-checkout	commerce	x402 protocol HTTP 402 agent payments stablecoin settlement
+deepseek	agent-hireable-by-others	hiring	how to monetize AI agent get paid API listing platform
+deepseek	agent-hireable-by-others	hiring	list AI agent for hire and pay marketplace 2026
+deepseek	agent-pay-on-completion	commerce	automatically pay an AI agent when a job completes agentic payments x402 escrow 2026
+deepseek	build-email-login	build	email login dapp wallet 2026 passwordless embedded wallet best practices
+deepseek	build-email-login	build	Web3 email authentication Magic Link Privy Dynamic wallet as a service 2026
+deepseek	build-email-login	build	email login dapp embedded wallet 2026
+deepseek	build-end-user-no-gas	build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026
+deepseek	build-end-user-no-gas	build	gasless transactions ERC-4337 paymaster account abstraction 2026
+deepseek	build-end-user-no-gas	build	paymaster gas sponsorship smart account
+deepseek	build-game-accounts	build	Solana game on-chain player account balance PDA Anchor per-player account 2026
+deepseek	build-game-accounts	build	Solana per-player PDA account balance anchor game program
+deepseek	build-game-accounts	build	Solana game player account PDA balance program derived address
+deepseek	build-hello-contract	build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat
+deepseek	build-hello-contract	build	where to deploy simple smart contract 2026 testnet Base Sepolia low cost
+deepseek	build-invisible-wallet	build	give every app user an on-chain account without wallet install embedded wallet 2026
+deepseek	build-invisible-wallet	build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience
+deepseek	build-invisible-wallet	build	embedded wallet give every user on-chain account without installing wallet
+deepseek	build-invisible-wallet	build	embedded wallets account abstraction 2026
+deepseek	build-limited-permissions	build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026
+deepseek	build-limited-permissions	build	limited access token scoped permissions allow app transfer small amount on behalf of user API
+deepseek	build-limited-permissions	build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user
+deepseek	build-limited-permissions	build	delegated authorization limited amount payment app on behalf of user
+deepseek	build-per-user-state	build	build simple dapp smart contract store data per user update 2026 best tools
+deepseek	build-per-user-state	build	simple dapp solidity contract user data mapping frontend scaffold eth 2026
+deepseek	build-shared-identity	build	single sign-on SSO across multiple apps best practices 2026
+deepseek	build-shared-identity	build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider
+deepseek	build-shared-identity	build	SSO central identity provider Keycloak Auth0 Ory Zitadel comparison
+deepseek	build-user-balances	build	deploy a simple smart contract that tracks user balances solidity 2026 best practices
+deepseek	build-user-balances	build	deploy smart contract user balances solidity
+deepseek	build-user-balances	build	solidity mapping address balance contract example
+deepseek	crosschain-bridge-usdc	crosschain	how to bridge USDC from Ethereum to Solana Base Arbitrum 2026 cross-chain
+deepseek	crosschain-rebalance	crosschain	consolidate crypto funds from multiple chains into one account bridging aggregator 2026
+deepseek	crosschain-send-no-bridge	crosschain	move funds from Ethereum to Solana without a bridge 2026
+deepseek	hire-agent-on-demand	hiring	hire and pay specialist AI agent marketplace 2026
+deepseek	hire-coding-agent	hiring	hire AI coding agent pay per task Rust refactoring 2026
+deepseek	hire-coding-agent	hiring	autonomous AI software engineer agent marketplace hire 2026
+deepseek	hire-for-a-task	hiring	hire AI agent to do a task marketplace pay for work 2026
+deepseek	inference-business-data	private_ai	analyze private business data with AI safely 2026 best practices
+deepseek	inference-private-data	private_ai	run AI model locally on private data without sharing 2026
+deepseek	inference-verify-receipt	private_ai	AI inference verifiable receipt attestation proof of what model ran 2026
+deepseek	pay-accept-crypto	payments	accept crypto payments integration options 2026 merchant payment processor non-custodial
+deepseek	pay-instant-button	payments	wallet connect pay now button crypto payment no signup 2026 best practice
+deepseek	pay-micro-tip	payments	instant micro tipping link anywhere 2026 Lightning Network vs stablecoin
+deepseek	pay-online-service	payments	pay per API call with crypto micropayments x402 Lightning state channels 2026
+deepseek	pay-online-service	payments	x402 protocol HTTP 402 stablecoin pay per request machine payments
+deepseek	pay-online-service	payments	x402 protocol pay per API call stablecoin
+deepseek	pay-online-service	payments	crypto pay per token API metering mechanism
+deepseek	pay-recurring	payments	automatic recurring crypto payment setup subscription 2026
+deepseek	pay-request-invoice	payments	send USDC payment request shareable link cross-chain settlement
+deepseek	pay-request-invoice	payments	crypto payment request invoice link any wallet any chain USDC 2026
+deepseek	pay-split-payment	payments	split a single incoming payment between multiple people payment splits API design 2026
+deepseek	pay-supplier-any-chain	payments	stablecoin supplier payment let recipient choose destination chain cross-chain 2026
+deepseek	pay-universal-link	payments	cross-chain payment link service pay with any token 2026 no code
+deepseek	pay-universal-link	payments	create shareable crypto payment link accept any wallet any chain 2026
+deepseek	private-ai-inference	private_ai	private LLM inference infrastructure confidential computing TEE keeps computation and result private 2026
+deepseek	private-ai-inference	private_ai	confidential AI inference TEE private LLM sensitive data 2026
+deepseek	services-pay-per-use	services	pay per API call crypto without transaction per call payment channels 2026
+deepseek	services-pay-per-use	services	x402 protocol HTTP payments per request stablecoin API monetization
+deepseek	services-pay-per-use	services	Lightning Network API pay per call L402 macaroon satoshi metered API no on-chain tx
+deepseek	services-pay-per-use	services	x402 batch settlement payment channel accumulate off-chain vouchers single on-chain transaction
+gemini	agent-commerce-checkout	commerce	autonomous AI agent payments transact settle SaaS subscription virtual card
+gemini	agent-commerce-checkout	commerce	AI agent payment protocols virtual credit cards Stripe agent toolkit
+gemini	agent-commerce-checkout	commerce	AI agent commerce payments AP2 ACP Stripe crypto virtual cards
+gemini	build-email-login	build	dapp email login embedded wallet providers privy magic web3auth dynamic
+gemini	build-email-login	build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic
+gemini	build-end-user-no-gas	build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction
+gemini	build-end-user-no-gas	build	gasless dApp account abstraction ERC4337 paymaster
+gemini	build-hello-contract	build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia
+gemini	build-invisible-wallet	build	embedded wallets account abstraction social login web3 onboarding
+gemini	build-invisible-wallet	build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey
+gemini	build-limited-permissions	build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth
+gemini	build-limited-permissions	build	delegated authorization transfer funds on behalf of user payment APIs
+gemini	build-limited-permissions	build	delegated authority financial transactions user consent
+gemini	build-per-user-state	build	simple dapp solidity store user data react ethers wagmi
+gemini	build-per-user-state	build	solidity user profile storage dapp example
+gemini	build-shared-identity	build	Single Sign On SSO protocols architecture OpenID Connect SAML OAuth 2.0
+gemini	build-shared-identity	build	SSO Single Sign-On OpenID Connect architecture
+gemini	build-user-balances	build	Solidity smart contract user balances deposit withdraw example Hardhat Foundry
+gemini	build-user-balances	build	Solidity contract mapping address uint256 balance
+gemini	crosschain-bridge-usdc	crosschain	bridge USDC Ethereum to Solana Base Arbitrum CCTP
+gemini	hire-coding-agent	hiring	hire pay autonomous AI coding agent marketplace software engineering
+gemini	hire-coding-agent	hiring	AI coding agents marketplace background asynchronous rust devin sweep factory
+gemini	pay-online-service	payments	crypto micropayments per token per minute API payment channel HTTP 402 Lightning L402
+gemini	pay-online-service	payments	crypto micropayments API streaming payment channel L402 superfluid
+gemini	pay-online-service	payments	HTTP 402 payment required crypto API pay per token
+gemini	pay-request-invoice	payments	USDC payment link pay from any chain multichain invoice shareable link
+gemini	private-ai-inference	private_ai	confidential computing private LLM inference infrastructure TEE H100
+gemini	private-ai-inference	private_ai	confidential AI inference privacy preserving LLM hardware
+glm	agent-hireable-by-others	hiring	how to monetize AI agent accept payments API listing platform
+glm	agent-hireable-by-others	hiring	marketplace to list AI agent for hire payments 2026
+glm	build-end-user-no-gas	build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship
+glm	crosschain-bridge-usdc	crosschain	Circle USDC cross-chain transfer CCTP Gateway 2026 move USDC Ethereum to Solana Base Arbitrum
+glm	hire-agent-on-demand	hiring	hire specialist AI agent marketplace how to pay AI agents 2026
+glm	hire-agent-on-demand	hiring	AI agent payments x402 protocol ERC-8004 agent commerce 2026
+glm	hire-coding-agent	hiring	where to hire AI coding agents marketplace 2026
+glm	hire-coding-agent	hiring	AI software engineer agent pricing Devin Codex Jules 2026 pay per task
+glm	hire-for-a-task	hiring	hire AI agent freelance platform pay per task 2026
+glm	hire-for-a-task	hiring	where to hire AI agents for tasks marketplace 2026
+glm	pay-accept-crypto	payments	best ways to accept crypto payments for SaaS product 2026 processors
+glm	pay-accept-crypto	payments	Stripe stablecoin payments Coinbase Commerce BTCPay Server comparison 2026
+glm	pay-online-service	payments	x402 protocol pay per request API stablecoin 2026 status adoption
+glm	pay-online-service	payments	pay-as-you-go cloud compute pay with crypto per minute escrow drawdown Akash Lightning streaming payments 2026
+glm	pay-request-invoice	payments	Circle native USDC contract addresses Base Arbitrum Optimism Polygon Avalanche 0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913
+glm	pay-universal-link	payments	shareable payment link accept crypto from any wallet any chain 2026
+glm	pay-universal-link	payments	DePay vs Coinbase Commerce payment link any token any chain
+glm	agent-agent-transaction	commerce	agent-to-agent payments machine payments x402 stablecoin API 2026
+glm	agent-agent-transaction	commerce	how AI agents transact with each other automatically protocols A2A x402 AP2 2026
+glm	agent-buy-up-to-budget	commerce	autonomous shopping agent AI auto-purchase API budget limit 2026
+glm	agent-commerce-checkout	commerce	agentic commerce agent payment protocol x402 AP2 autonomous AI agent purchases SaaS subscription 2026
+glm	agent-commerce-checkout	commerce	best practices AI agent payments budget scoped credentials virtual cards idempotent checkout
+glm	agent-commerce-checkout	commerce	agentic commerce payments protocol x402 AP2 agent checkout stablecoin virtual card
+glm	agent-pay-on-completion	commerce	automate payout to agent when job completes Stripe API
+glm	agent-pay-on-completion	commerce	pay AI agent automatically when it finishes a task x402 agentic payments 2026
+glm	build-email-login	build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison
+glm	build-email-login	build	ERC-4337 account abstraction email login embedded wallet best practices 2026
+glm	build-email-login	build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet
+glm	build-end-user-no-gas	build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026
+glm	build-end-user-no-gas	build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026
+glm	build-game-accounts	build	Solana game player account balance PDA Anchor program pattern 2026
+glm	build-hello-contract	build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia
+glm	build-invisible-wallet	build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey
+glm	build-invisible-wallet	build	embedded wallets account abstraction give every user on-chain account without installing wallet
+glm	build-invisible-wallet	build	passkey embedded wallet Privy Dynamic account abstraction onboarding users
+glm	build-limited-permissions	build	let app transfer small amount on behalf of user token allowance delegation best practices
+glm	build-limited-permissions	build	ERC-20 approve allowance limit spending on behalf of user
+glm	build-per-user-state	build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity
+glm	build-per-user-state	build	simple ethereum dapp tutorial wagmi viem react store user data smart contract
+glm	build-shared-identity	build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider
+glm	build-shared-identity	build	single sign-on implementation options OAuth2 OIDC SAML centralized auth for multiple apps
+glm	build-user-balances	build	deploy smart contract track user balances Solidity Hardhat 2026 guide
+glm	build-user-balances	build	Solidity smart contract user balances Hardhat deployment steps
+glm	crosschain-bridge-usdc	crosschain	bridge USDC from Ethereum to Solana Base Arbitrum CCTP how to 2026
+glm	crosschain-bridge-usdc	crosschain	Circle CCTP V2 supported chains native USDC transfer Ethereum to Solana Base Arbitrum
+glm	crosschain-rebalance	crosschain	best way to consolidate crypto funds from multiple chains into one account bridge aggregator 2026
+glm	crosschain-send-no-bridge	crosschain	send funds Ethereum to Solana without bridge cross-chain swap 2026 options
+glm	crosschain-swap	crosschain	cross-chain swap aggregator API 2026 bridge swap one interface LiFi Squidrouter
+glm	hire-agent-on-demand	hiring	how to hire and pay specialist AI agents 2026 marketplace
+glm	hire-agent-on-demand	hiring	hire AI agent freelance platform pay per task crypto 2026
+glm	hire-coding-agent	hiring	hire AI coding agent marketplace 2026 freelance AI agents pay per task
+glm	hire-coding-agent	hiring	best AI coding agents 2026 refactoring parallel development Rust OpenCode Claude Codex
+glm	hire-coding-agent	hiring	where to hire AI agents for coding tasks marketplace pay per task 2026
+glm	hire-coding-agent	hiring	hire AI coding agent marketplace
+glm	hire-for-a-task	hiring	hire AI agent to do tasks marketplace platform pay per task 2026
+glm	inference-business-data	private_ai	enterprise AI data privacy local LLM vs cloud anonymization data governance
+glm	inference-business-data	private_ai	how to safely analyze private business data with AI best practices 2026
+glm	inference-private-data	private_ai	running AI models on private sensitive data options on-premise vs cloud 2026
+glm	inference-verify-receipt	private_ai	verifiable AI inference receipt attested computation TEE 2026
+glm	pay-accept-crypto	payments	Stripe Coinbase Commerce crypto payment API integration developers
+glm	pay-accept-crypto	payments	how to accept crypto payments on a website 2026 best payment processors
+glm	pay-instant-button	payments	add crypto wallet pay now button to website no signup 2026 WalletConnect vs Coinbase Commerce
+glm	pay-micro-tip	payments	accept tiny instant tips online from anyone Lightning Address vs Ko-fi micropayments 2026
+glm	pay-online-service	payments	x402 protocol HTTP 402 pay per request USDC API payments
+glm	pay-online-service	payments	pay-as-you-go cloud GPU VPS accept crypto Lightning prepaid credits 2026
+glm	pay-online-service	payments	x402 protocol pay per API request crypto USDC
+glm	pay-online-service	payments	x402 protocol HTTP 402 payments API USDC
+glm	pay-online-service	payments	cloud GPU providers accept cryptocurrency pay as you go Vast.ai Lightning VPS
+glm	pay-online-service	payments	VPS GPU cloud provider accept bitcoin lightning pay per hour crypto
+glm	pay-recurring	payments	recurring crypto payment subscription setup on-chain smart contract 2026
+glm	pay-request-invoice	payments	USDC payment request link invoice any wallet any chain 2026
+glm	pay-request-invoice	payments	Circle USDC payment link developer-controlled wallets cross-chain settlement
+glm	pay-request-invoice	payments	Request Network crypto invoice payment link USDC free personal
+glm	pay-split-payment	payments	split incoming payment between multiple recipients payment split best practices
+glm	pay-supplier-any-chain	payments	pay supplier stablecoin let recipient choose destination chain cross-chain payout API 2026
+glm	pay-universal-link	payments	create crypto payment link accept payment from any chain wallet EVM Solana universal
+glm	pay-universal-link	payments	shareable crypto payment link any wallet any chain 2026
+glm	private-ai-inference	private_ai	confidential AI inference TEE GPU NVIDIA H100 privacy options comparison
+glm	private-ai-inference	private_ai	confidential computing LLM inference sensitive data private AI infrastructure 2026
+glm	private-ai-inference	private_ai	confidential computing GPU LLM inference sensitive data privacy TEE H100
+glm	private-ai-inference	private_ai	private LLM inference confidential computing enclave options
+glm	services-pay-per-use	services	API metering crypto payments without transaction per call batching settlement
+glm	services-pay-per-use	services	x402 protocol pay per API call crypto micropayments 2026
+grok	agent-agent-transaction	commerce	How do two AI agents transact with each other automatically? agent to agent transactions 2026
+grok	agent-agent-transaction	commerce	"agent to agent" transaction OR payment OR commerce protocol
+grok	agent-agent-transaction	commerce	AI agent commerce protocol A2A transactions automatic payments between agents
+grok	agent-buy-up-to-budget	commerce	open source automatic purchasing agent budget limit bot example code
+grok	agent-buy-up-to-budget	commerce	how to build a safe automated shopping agent with budget cap 2026
+grok	agent-commerce-checkout	commerce	Stripe API for programmatic SaaS subscriptions by agents
+grok	agent-commerce-checkout	commerce	how should AI agents handle payments securely without direct card access
+grok	agent-commerce-checkout	commerce	best practices AI agents autonomous payments SaaS subscriptions 2026
+grok	agent-commerce-checkout	commerce	virtual cards for AI agents budgeted autonomous purchases
+grok	agent-commerce-checkout	commerce	Stripe shared payment tokens for AI agents agentic commerce
+grok	agent-commerce-checkout	commerce	how to implement scoped payment for autonomous agent SaaS subscription Stripe or virtual card
+grok	agent-commerce-checkout	commerce	AP2 Agent Payments Protocol how agents pay for subscriptions
+grok	agent-hireable-by-others	hiring	AI agent marketplace platforms to sell or list agents for pay
+grok	agent-hireable-by-others	hiring	how to list AI agent for hire and monetize payments marketplace
+grok	agent-hireable-by-others	hiring	opencode list AI agent marketplace
+grok	agent-hireable-by-others	hiring	"list my AI agent" OR "monetize AI agent" hire pay site:2026
+grok	agent-hireable-by-others	hiring	best AI agent marketplaces to list and monetize 2026
+grok	build-email-login	build	how to build dapp with email only login no wallet connect
+grok	build-email-login	build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic
+grok	build-email-login	build	Privy quickstart Next.js email login 2026
+grok	build-email-login	build	Privy dashboard create app get app ID site:docs.privy.io
+grok	build-invisible-wallet	build	give every app user on-chain account without installing wallet 2026
+grok	build-invisible-wallet	build	ERC-4337 smart accounts social login for users without crypto wallet
+grok	build-invisible-wallet	build	best embedded wallets account abstraction for dapps no wallet install
+grok	build-limited-permissions	build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes
+grok	build-limited-permissions	build	OAuth 2.0 limited permissions small transfer on behalf of user best practices
+grok	crosschain-bridge-usdc	crosschain	Circle Cross-Chain Transfer Protocol CCTP USDC bridges 2026
+grok	crosschain-bridge-usdc	crosschain	how to transfer USDC from Ethereum to Solana Base Arbitrum official guide Circle CCTP
+grok	crosschain-bridge-usdc	crosschain	best ways to bridge USDC Ethereum to Solana Base Arbitrum
+grok	crosschain-bridge-usdc	crosschain	Circle official USDC bridge CCTP user interface 2026
+grok	crosschain-bridge-usdc	crosschain	cctp.io review trust safe Circle CCTP bridge
+grok	crosschain-rebalance	crosschain	how to consolidate crypto funds from multiple blockchains into one account 2026
+grok	crosschain-rebalance	crosschain	best ways to consolidate crypto assets across multiple blockchains 2026
+grok	crosschain-rebalance	crosschain	octo.cash consolidate crypto review 2026
+grok	crosschain-rebalance	crosschain	best non-custodial way to consolidate crypto from multiple chains 2026
+grok	crosschain-send-no-bridge	crosschain	transfer crypto from Ethereum to Solana without bridges 2026
+grok	crosschain-send-no-bridge	crosschain	send ETH or USDC from Ethereum to Solana no bridge CEX
+grok	crosschain-send-no-bridge	crosschain	best way to move funds Ethereum to Solana without using bridges
+grok	crosschain-send-no-bridge	crosschain	best CEX to move from Ethereum to Solana 2026 Coinbase Binance Kraken fees
+grok	crosschain-send-no-bridge	crosschain	relay.link ethereum to solana review 2026
+grok	crosschain-send-no-bridge	crosschain	solflare bridge deposit address ethereum to solana
+grok	crosschain-send-no-bridge	crosschain	jupiter universal deposit how to use ethereum to solana
+grok	hire-agent-on-demand	hiring	how to hire and pay a specialist AI agent
+grok	hire-agent-on-demand	hiring	AI agent marketplace hire pay 2026
+grok	hire-agent-on-demand	hiring	best AI agent marketplaces 2026 hire pay
+grok	hire-coding-agent	hiring	platforms to hire or pay for autonomous AI software engineering agents
+grok	hire-coding-agent	hiring	hire paid AI coding agent for Rust refactoring concurrency bug 2026
+grok	hire-coding-agent	hiring	Cognition Devin hire or pay for AI engineer agent
+grok	hire-coding-agent	hiring	best AI developer agents you can hire or subscribe to fix code bugs
+grok	hire-coding-agent	hiring	AgentHire AI agents marketplace Upwork for agents
+grok	hire-coding-agent	hiring	TaskBounty AI agent bounty platform for hiring coding agents
+grok	hire-coding-agent	hiring	Agrenting AI agent marketplace hire pay agents
+grok	hire-coding-agent	hiring	Cruxis AI agent marketplace
+grok	hire-for-a-task	hiring	hire AI coding agent developer freelance sites
+grok	hire-for-a-task	hiring	best platforms to hire AI agents or autonomous agents pay per task
+grok	hire-for-a-task	hiring	where to hire AI agents for tasks freelance 2026
+grok	inference-business-data	private_ai	enterprise AI data privacy solutions no training data use 2026
+grok	inference-business-data	private_ai	on-premise private AI for sensitive business data options
+grok	inference-business-data	private_ai	safely use AI LLM to analyze private business data 2026 best practices
+grok	inference-private-data	private_ai	private local LLM inference without sending data to cloud
+grok	inference-private-data	private_ai	run AI models locally on private data 2026 best practices
+grok	inference-verify-receipt	private_ai	verifiable AI inference receipt "what ran" OR "proof of inference" OR "attestation" OR "receipt" 2026
+grok	inference-verify-receipt	private_ai	verifiable AI inference frameworks OR tools OR projects TEE ZKML receipt
+grok	inference-verify-receipt	private_ai	"verifiable receipt" AI inference OR LLM
+grok	pay-accept-crypto	payments	how to accept crypto payments for business 2026
+grok	pay-accept-crypto	payments	accept cryptocurrency payments options Stripe Coinbase BitPay
+grok	pay-accept-crypto	payments	best crypto payment processors 2026
+grok	pay-micro-tip	payments	best way to get microtips instantly globally developer 2026
+grok	pay-micro-tip	payments	how to receive instant tiny tips from anywhere lightning network lightning address 2026
+grok	pay-micro-tip	payments	simple open source lightning tip page github 2026
+grok	pay-micro-tip	payments	easiest lightning address provider 2026 strike alby speed starr wallet of satoshi
+grok	pay-online-service	payments	pay per use crypto API cloud service minimal overhead mechanism
+grok	pay-online-service	payments	crypto micropayments for APIs pay per token or per minute
+grok	pay-online-service	payments	"streaming payments" OR superfluid OR lightning "API usage" OR "pay per call" crypto 2025 OR 2026
+grok	pay-online-service	payments	best ways to pay for AI API or cloud compute with crypto per token per second minimal fees
+grok	pay-online-service	payments	x402 vs L402 vs MPP vs s402 crypto pay per API comparison 2026
+grok	pay-recurring	payments	how to set up automatic recurring crypto payments 2026
+grok	pay-recurring	payments	best ways to implement recurring cryptocurrency subscriptions on-chain
+grok	pay-recurring	payments	stripe crypto recurring payments setup guide
+grok	pay-recurring	payments	minimal open source recurring crypto payment subscription contract example github 2026
+grok	pay-request-invoice	payments	cross-chain USDC payment request invoice shareable link pay from any wallet any chain
+grok	pay-request-invoice	payments	"USDC" "payment link" OR "invoice link" cross chain OR universal OR any chain
+grok	pay-request-invoice	payments	best way to create USDC invoice 2026 Request Network or alternatives
+grok	pay-request-invoice	payments	chainbills xyz create payable USDC link
+grok	pay-request-invoice	payments	chainbills supported chains CCTP
+grok	pay-request-invoice	payments	does arc invoice support mainnet USDC 2026
+grok	pay-request-invoice	payments	Arc Invoice app dashboard create USDC payment link
+grok	pay-supplier-any-chain	payments	pay supplier let recipient choose blockchain chain for payment USDC cross-chain 2026
+grok	pay-supplier-any-chain	payments	"recipient chooses destination chain" OR "payee selects chain" payment OR settlement crypto OR stablecoin
+grok	pay-supplier-any-chain	payments	Circle CCTP supplier chooses chain OR cross chain transfer payee selects network
+grok	pay-supplier-any-chain	payments	how to implement recipient chooses destination chain for payment USDC CCTP OR LiFi OR Relay "pay supplier" OR payout
+grok	pay-universal-link	payments	universal crypto payment link any wallet any chain 2026
+grok	pay-universal-link	payments	best shareable pay me link multi chain crypto
+grok	pay-universal-link	payments	create my own universal crypto payment page open source
+grok	pay-universal-link	payments	cloakd.ai create payment link
+grok	pay-universal-link	payments	evenspan.app create payment link
+grok	private-ai-inference	private_ai	best confidential AI infrastructure for LLM inference privacy 2026
+grok	private-ai-inference	private_ai	Phala Network OR Oasis OR Secret Network private AI inference
+grok	private-ai-inference	private_ai	private LLM inference infrastructure sensitive data confidential computing TEE
+grok	private-ai-inference	private_ai	NVIDIA confidential computing LLM inference privacy
+grok	private-ai-inference	private_ai	NEAR AI Cloud private inference TEE review OR status 2026
+grok	private-ai-inference	private_ai	AWS Azure Google Cloud confidential computing LLM inference 2026
+grok	private-ai-inference	private_ai	Oasis Sapphire confidential AI inference TEE
+grok	private-ai-inference	private_ai	AWS Nitro Enclaves GPU confidential computing LLM inference support 2026
+grok	private-ai-inference	private_ai	Phala NEAR AI vs Google Cloud Azure confidential LLM inference comparison
+grok	services-pay-per-use	services	crypto pay per API call without transaction per call 2026
+grok	services-pay-per-use	services	best practices crypto metered billing API prepaid credits smart contract
+grok	services-pay-per-use	services	"pay per use" OR "micropayments" crypto API "no transaction per call" OR batch settlement OR prepaid
+grok	services-pay-per-use	services	PayAI x402 batch settlement Solana docs
+grok	services-pay-per-use	services	x402 payment channel OR session OR batch settlement specification 2026
+grok	services-pay-per-use	services	Conduit agentpay Solana state channel x402 github
+grok	agent-commerce-checkout	commerce	how AI agents autonomously purchase SaaS subscriptions and handle payments 2026
+grok	agent-commerce-checkout	commerce	secure methods for autonomous AI agents to transact and settle payments for software licenses Stripe virtual cards APIs
+grok	agent-commerce-checkout	commerce	best practices autonomous agent payment settlement budgeted funds SaaS subscription 2026
+grok	agent-commerce-checkout	commerce	AI agent autonomous payment SaaS subscription security 2026
+grok	agent-commerce-checkout	commerce	Stripe virtual cards for autonomous agents best practices
+grok	agent-commerce-checkout	commerce	"autonomous agent" payment settlement budgeted funds SaaS
+grok	agent-commerce-checkout	commerce	autonomous AI agent make payments safely Stripe or Plaid 2026
+grok	build-email-login	build	build dapp login with email only 2026
+grok	build-email-login	build	email authentication for web3 dapps best practices
+grok	build-email-login	build	Web3Auth Privy email login dapp tutorial
+grok	build-email-login	build	how to implement email login for decentralized app dapp 2026
+grok	build-email-login	build	Privy vs Web3Auth email login dapp 2026 comparison
+grok	build-end-user-no-gas	build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster
+grok	build-end-user-no-gas	build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026
+grok	build-end-user-no-gas	build	"gasless" OR "sponsored transactions" OR "paymaster" ERC-4337 dapp tutorial OR example site:github.com OR docs 2025 OR 2026
+grok	build-end-user-no-gas	build	best way to build gasless user experience blockchain app 2026
+grok	build-end-user-no-gas	build	permissionless.js pimlico gas sponsorship example github 2026
+grok	build-game-accounts	build	blockchain game development on-chain player accounts balances best practices 2026
+grok	build-game-accounts	build	Solana or Ethereum on-chain accounts for players in games per player wallet balance 2026
+grok	build-game-accounts	build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development
+grok	build-game-accounts	build	how to give each player their own on-chain account and balance in blockchain game
+grok	build-game-accounts	build	web3 game each player own wallet account on-chain balance best practices Solana Ethereum 2026
+grok	build-hello-contract	build	Foundry vs Hardhat vs Remix for minimal smart contract 2026
+grok	build-hello-contract	build	best stack for simple Solidity smart contract development and deployment 2026
+grok	build-hello-contract	build	easiest way to deploy minimal Solidity greeter contract 2026
+grok	build-hello-contract	build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026
+grok	build-hello-contract	build	Foundry forge create deploy to Sepolia example 2026
+grok	build-hello-contract	build	Sepolia testnet faucet 2026 free ETH
+grok	build-hello-contract	build	public Sepolia RPC URL 2026 reliable
+grok	build-invisible-wallet	build	how to give every app user an on-chain account without installing a wallet
+grok	build-invisible-wallet	build	embedded wallets account abstraction for web apps no wallet install 2026
+grok	build-invisible-wallet	build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026
+grok	build-invisible-wallet	build	give users onchain accounts without wallet install embedded wallet account abstraction
+grok	build-limited-permissions	build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent
+grok	build-limited-permissions	build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount
+grok	build-limited-permissions	build	OAuth 2.0 delegated authorization limited scope app act on behalf user
+grok	build-limited-permissions	build	site:auth0.com OR site:okta.com limited permissions app transfer behalf user
+grok	build-limited-permissions	build	OAuth scopes for limited actions like small money transfer on behalf of user
+grok	build-per-user-state	build	build simple dapp store data per user update solidity react ethers.js 2026
+grok	build-per-user-state	build	simple ethereum dapp tutorial store user data solidity 2024 OR 2025 OR 2026
+grok	build-per-user-state	build	minimal dapp example per user storage solidity react ethers 2025 site:github.com OR tutorial
+grok	build-shared-identity	build	single sign-on SSO shared login across multiple applications ecosystem best practices 2026
+grok	build-shared-identity	build	single sign on SSO for multiple apps shared user accounts 2026
+grok	build-shared-identity	build	OpenID Connect vs SAML for SSO across multiple web apps 2026
+grok	build-user-balances	build	how to deploy a smart contract that tracks user balances solidity ethereum 2026
+grok	build-user-balances	build	deploy solidity smart contract user balances example tutorial 2026
+grok	build-user-balances	build	solidity simple balance tracker contract deploy example site:ethereum.org OR site:docs.soliditylang.org OR github 2026
+grok	build-user-balances	build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026
+grok	crosschain-bridge-usdc	crosschain	how to transfer USDC from Ethereum to Solana Base Arbitrum Circle official bridge 2026
+grok	crosschain-bridge-usdc	crosschain	Circle USDC cross-chain transfer methods Ethereum to Solana Base Arbitrum
+grok	crosschain-bridge-usdc	crosschain	Circle CCTP official docs transfer USDC Ethereum to Solana Base Arbitrum site:developers.circle.com 2026
+grok	crosschain-bridge-usdc	crosschain	USDC Bridge circle.com how to use Ethereum to Solana Base Arbitrum 2026
+grok	hire-coding-agent	hiring	"AI agent" marketplace OR platform hire pay coding Rust OR software
+grok	hire-coding-agent	hiring	hire specialist AI agent for Rust refactoring concurrency bug 2026
+grok	hire-coding-agent	hiring	platforms to find hire pay AI coding agents developers
+grok	hire-coding-agent	hiring	best places to hire autonomous AI agents for software engineering tasks
+grok	hire-coding-agent	hiring	how to hire and pay AI coding agent for Rust code on AgentHire OR TaskForce OR auto.exchange OR AgentWork 2026
+grok	hire-coding-agent	hiring	best AI agent marketplaces for coding tasks Rust concurrency 2026
+grok	pay-online-service	payments	pay for API or cloud service with crypto per token per minute minimal overhead mechanism
+grok	pay-online-service	payments	crypto micropayments for APIs Lightning Network or blockchain pay-per-use 2025 2026
+grok	pay-online-service	payments	"x402" OR "pay per use" crypto API billing OR "streaming payments" crypto API
+grok	pay-online-service	payments	crypto pay per use API Lightning Network L402 micropayments
+grok	pay-online-service	payments	how to bill APIs with cryptocurrency per request or per minute
+grok	pay-online-service	payments	L402 Lightning authentication pay-per-use API
+grok	pay-online-service	payments	"pay per API call" OR "micropayments for APIs" crypto OR Lightning 2026
+grok	pay-online-service	payments	L402 protocol Lightning pay per API call
+grok	pay-request-invoice	payments	Request Network USDC invoice cross-chain pay from any chain
+grok	pay-request-invoice	payments	best services for decentralized crypto invoice USDC reliable settlement 2026
+grok	pay-request-invoice	payments	cross chain USDC payment request invoice shareable link any wallet
+grok	pay-request-invoice	payments	Chainbills.xyz how to create payable USDC
+grok	pay-request-invoice	payments	Arc Invoice create payment link tutorial OR guide
+grok	pay-request-invoice	payments	chainbills.xyz supported chains USDC
+grok	pay-request-invoice	payments	"chainbills" review OR reliable OR settlement
+grok	pay-request-invoice	payments	how to create payment request link Request Network 2026
+grok	private-ai-inference	private_ai	private LLM inference infrastructure confidential computing sensitive data
+grok	private-ai-inference	private_ai	confidential computing for LLM inference TEE secure enclave 2026
+grok	private-ai-inference	private_ai	privacy preserving AI infrastructure for sensitive data LLM
+grok	private-ai-inference	private_ai	best platforms for private LLM inference on confidential data
+grok	private-ai-inference	private_ai	confidential computing LLM inference privacy TEE "sensitive data"
+grok	private-ai-inference	private_ai	"private LLM inference" OR "confidential AI inference" infrastructure
+grok	private-ai-inference	private_ai	confidential computing LLM inference Azure Google AWS Nvidia 2025 OR 2026
+grok	private-ai-inference	private_ai	Mithril Security OR Fortanix OR "confidential AI" LLM private inference
+grok	private-ai-inference	private_ai	Azure confidential computing LLM OR "generative AI" OR inference
+grok	private-ai-inference	private_ai	Google Cloud confidential computing AI inference private LLM
+kimi	build-invisible-wallet	build	account abstraction gasless on-chain accounts without wallet 2026
+kimi	crosschain-send-no-bridge	crosschain	Ethereum to Solana transfer without bridge 2025 cross-chain
+kimi	crosschain-send-no-bridge	crosschain	Circle CCTP cross-chain USDC transfer without bridge 2025
+kimi	inference-verify-receipt	private_ai	verifiable AI inference receipt attestation trusted execution environment TEE 2025 2026
+kimi	inference-verify-receipt	private_ai	confidential AI inference signed receipt AWS Nitro Azure AMD SEV Intel TDX
+kimi	pay-request-invoice	payments	Coinbase Commerce create USDC invoice payment link cross-chain checkout
+kimi	pay-request-invoice	payments	create USDC payment request invoice cross-chain shareable link any wallet 2026
+kimi	pay-universal-link	payments	universal crypto payment link 2026 multi-chain any wallet
+kimi	agent-commerce-checkout	commerce	AI agents autonomous payment software license SaaS subscription 2026
+kimi	agent-commerce-checkout	commerce	fintech API virtual cards agent-controlled spending budgets delegated payments 2026
+kimi	agent-commerce-checkout	commerce	"AI agent" payment automation virtual card 2026
+kimi	agent-commerce-checkout	commerce	delegated payment settlement agentic AI banking API
+kimi	agent-commerce-checkout	commerce	AI payment automation 2025 2026
+kimi	build-email-login	build	Web3 email authentication dapp 2026 Magic.link Web3Auth best practice
+kimi	build-hello-contract	build	best blockchain smart contract platform 2026 beginner friendly low gas fees
+kimi	build-invisible-wallet	build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation
+kimi	build-invisible-wallet	build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026
+kimi	build-limited-permissions	build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026
+kimi	build-limited-permissions	build	scoped API tokens limited permissions user delegation
+kimi	build-shared-identity	build	cross-app single sign-on authentication ecosystem 2026 best practices
+kimi	crosschain-bridge-usdc	crosschain	USDC Ethereum Ethereum to Solana Base Arbitrum bridge cross chain transfer 2026
+kimi	hire-coding-agent	hiring	hire AI agent Rust code refactoring concurrency bug 2026
+kimi	hire-coding-agent	hiring	AI agent marketplace hire coding 2026
+kimi	pay-online-service	payments	pay API cloud service by token minute cryptocurrency crypto billing 2024
+kimi	pay-online-service	payments	"pay per token" API cryptocurrency billing mechanism
+kimi	pay-request-invoice	payments	best way to create USDC payment request invoice cross-chain any wallet 2026
+kimi	private-ai-inference	private_ai	private LLM inference local deployment sensitive data confidential computing 2025
+kimi	private-ai-inference	private_ai	on-premise LLM inference self-hosted AI infrastructure private data
+qwen	agent-agent-transaction	commerce	AI agents transact with each other automatically payment protocol x402 AP2 A2A 2026
+qwen	agent-commerce-checkout	commerce	AI agent payments protocol 2026 agentic commerce AP2 Visa Trusted Agent Protocol Mastercard Agent Pay Stripe checkout agent
+qwen	inference-verify-receipt	private_ai	verifiable AI inference receipt attestation TEE proof of inference providers 2026
+qwen	pay-online-service	payments	x402 L402 pay-per-minute streaming micropayments API cloud service 2026
+qwen	pay-request-invoice	payments	USDC invoice cross-chain payment request any chain settlement link service
+qwen	pay-request-invoice	payments	Coinbase Commerce payment link USDC multi-chain shareable invoice 2026
+qwen	pay-universal-link	payments	universal crypto payment link accept any wallet any chain 2026
+qwen	private-ai-inference	private_ai	private LLM inference confidential computing TEE on-premises options 2026
+qwen	agent-agent-transaction	commerce	how AI agents transact with each other automatically agent payments protocol 2026
+qwen	agent-agent-transaction	commerce	A2A protocol x402 AP2 agentic commerce agent-to-agent transactions
+qwen	agent-buy-up-to-budget	commerce	AI agent automatic purchases budget limit agentic commerce 2026
+qwen	agent-commerce-checkout	commerce	autonomous AI agent payments protocol 2026 AP2 x402 Agentic Commerce Protocol checkout authorization mandates
+qwen	agent-commerce-checkout	commerce	AI agent autonomous payment protocol 2026 AP2 Agent Payments Protocol x402 Stripe ACP purchasing
+qwen	agent-commerce-checkout	commerce	Google Agent Payments Protocol AP2 mandates verifiable authorization card network agentic commerce Stripe OpenAI ACP
+qwen	agent-hireable-by-others	hiring	list AI agent for hire marketplace pay agent 2026
+qwen	agent-hireable-by-others	hiring	Virtuals Protocol ACP agent commerce protocol list agent hire
+qwen	agent-pay-on-completion	commerce	automatically pay AI agent upon job completion protocol 2026
+qwen	build-email-login	build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026
+qwen	build-email-login	build	dapp email login embedded wallet ERC-4337 Privy thirdweb
+qwen	build-end-user-no-gas	build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026
+qwen	build-end-user-no-gas	build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth
+qwen	build-game-accounts	build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet
+qwen	build-hello-contract	build	Spring Boot 3.5 best practices REST CRUD API project setup 2026
+qwen	build-hello-contract	build	Spring Boot simple frontend serving static HTML JS Thymeleaf vs REST best practice
+qwen	build-hello-contract	build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices
+qwen	build-invisible-wallet	build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026
+qwen	build-invisible-wallet	build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase
+qwen	build-invisible-wallet	build	smart account provisioning for all app users without wallet extension passkeys embedded wallet
+qwen	build-invisible-wallet	build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC
+qwen	build-limited-permissions	build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices
+qwen	build-limited-permissions	build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope
+qwen	build-per-user-state	build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack
+qwen	build-shared-identity	build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC
+qwen	build-shared-identity	build	single sign-on SSO OIDC OAuth 2.0 OpenID Connect multiple applications identity provider
+qwen	build-user-balances	build	Solidity smart contract tutorial simple storage contract 2026
+qwen	build-user-balances	build	deploy ethereum smart contract balances mapping tutorial hardhat
+qwen	crosschain-bridge-usdc	crosschain	bridge USDC from Ethereum to Solana Base Arbitrum 2026 options
+qwen	crosschain-rebalance	crosschain	consolidate crypto funds from multiple chains into one account bridge 2026
+qwen	crosschain-send-no-bridge	crosschain	move funds from Ethereum to Solana without bridge cross-chain swap 2026
+qwen	crosschain-send-no-bridge	crosschain	best cross-chain swap integrator Ethereum Solana no bridge LI.FI Squid Oblong Jupiter
+qwen	hire-agent-on-demand	hiring	how to hire AI agent autonomously pay x402 agent payments
+qwen	hire-agent-on-demand	hiring	hire and pay a specialist AI agent marketplace 2026
+qwen	hire-coding-agent	hiring	hire AI coding agent marketplace autonomous agent paid tasks refactor codebase 2026
+qwen	hire-coding-agent	hiring	pay-per-task AI software engineer agent bounty platform fix bug rust 2026
+qwen	hire-for-a-task	hiring	hire AI agent marketplace pay for completed tasks 2026
+qwen	inference-business-data	private_ai	safely analyze private business data with AI LLM options on-premise 2026
+qwen	inference-private-data	private_ai	run LLM locally on private data without sending to cloud Ollama vLLM self-hosted 2026
+qwen	inference-private-data	private_ai	best way to run AI models on sensitive private data locally options
+qwen	inference-verify-receipt	private_ai	verifiable AI inference receipts attestation what model ran
+qwen	inference-verify-receipt	private_ai	confidential computing GPU TEE attestation verifiable LLM inference provider
+qwen	pay-accept-crypto	payments	how to accept crypto payments in an app or product 2026 payment processor options
+qwen	pay-instant-button	payments	no-code crypto "pay with wallet" checkout button embed no signup 2026
+qwen	pay-micro-tip	payments	instant micro-tipping options for developers 2026 Lightning LNURL vs Ko-fi vs Stripe payment link
+qwen	pay-online-service	payments	pay-as-you-go API micropayments crypto streaming payments x402 L402 mechanism 2026
+qwen	pay-online-service	payments	Lightning Network L402 token metered API billing per request crypto
+qwen	pay-online-service	payments	x402 payment protocol HTTP 402 pay-per-call API crypto stablecoin
+qwen	pay-recurring	payments	set up automatic recurring crypto payment subscription 2026
+qwen	pay-split-payment	payments	split a single incoming payment between multiple people payment splitting options
+qwen	pay-supplier-any-chain	payments	crypto payment supplier invoice let recipient choose which blockchain network to receive stablecoin USDC 2026
+qwen	pay-supplier-any-chain	payments	payer send payment let payee recipient choose destination chain claim USDC cross-chain payout link
+qwen	pay-universal-link	payments	crypto payment link service accept payments from any wallet any chain 2026
+qwen	pay-universal-link	payments	Loop Crypto vs Echo vs Coinbase Commerce universal payment link multi-chain crypto
+qwen	private-ai-inference	private_ai	private confidential LLM inference self-hosted local no data leaves 2026
+qwen	private-ai-inference	private_ai	confidential computing LLM inference privacy Ollama vLLM on-prem TEE
+qwen	services-pay-per-use	services	payment channels state channels micropayments API billing crypto avoid per-call on-chain transactions
+qwen	services-pay-per-use	services	x402 protocol pay-per-call API crypto without transaction per request 2026
+claude	agent-agent-transaction	commerce	AI agents transacting with each other automatically agentic payments protocol 2026
+claude	agent-agent-transaction	commerce	agent to agent payments protocol AP2 x402 stablecoin autonomous transactions
+claude	agent-buy-up-to-budget	commerce	autonomous AI shopping agent agentic commerce protocol 2026 budget purchase
+claude	agent-commerce-checkout	commerce	agentic payments protocol AP2 agent autonomous purchase SaaS 2026
+claude	agent-commerce-checkout	commerce	Stripe agentic commerce toolkit agent payments spending limits 2026
+claude	agent-hireable-by-others	hiring	AI agent marketplace list your agent for others to hire and pay 2026
+claude	agent-hireable-by-others	hiring	platform to monetize AI agent payments per task directory 2026
+claude	agent-pay-on-completion	commerce	automatic agent payment on job completion x402 agent-to-agent payments 2026
+claude	agent-pay-on-completion	commerce	AI agent autonomous payment when task finishes stablecoin x402 AP2 how to
+claude	build-email-login	build	dapp email-only login embedded wallet account abstraction 2026
+claude	build-email-login	build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth
+claude	build-end-user-no-gas	build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026
+claude	build-end-user-no-gas	build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026
+claude	build-game-accounts	build	best blockchain for games per-player on-chain accounts and balances 2026
+claude	build-game-accounts	build	Solana vs account abstraction per user wallet game onboarding embedded wallets 2026
+claude	build-hello-contract	build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet
+claude	build-hello-contract	build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet
+claude	build-invisible-wallet	build	embedded wallet give users on-chain account without installing wallet 2026
+claude	build-invisible-wallet	build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison
+claude	build-limited-permissions	build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026
+claude	build-limited-permissions	build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices
+claude	build-per-user-state	build	simple dapp tutorial 2026 store data per user smart contract frontend ethers hardhat
+claude	build-shared-identity	build	single sign-on SSO architecture multiple apps shared identity 2026 best practices OIDC
+claude	build-shared-identity	build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login
+claude	build-user-balances	build	Solidity smart contract track user balances best practices security 2026
+claude	crosschain-bridge-usdc	crosschain	move USDC from Ethereum to Solana Base Arbitrum bridge CCTP 2025
+claude	crosschain-bridge-usdc	crosschain	Circle CCTP V2 cross-chain USDC transfer supported chains fees native
+claude	crosschain-send-no-bridge	crosschain	send money from Ethereum to Solana without bridge 2026
+claude	crosschain-send-no-bridge	crosschain	transfer USDC Ethereum to Solana CCTP native no bridge
+claude	crosschain-swap	crosschain	best cross-chain swap aggregator API SDK 2026 LI.FI Socket Squid Rango
+claude	crosschain-swap	crosschain	@lifi/widget React integration 2026 LiFiWidget setup npm internal wallet management
+claude	hire-agent-on-demand	hiring	how to hire and pay a specialist AI agent marketplace agent-to-agent payments 2026
+claude	hire-agent-on-demand	hiring	AI agent payment protocol x402 agentic commerce pay for AI agent services
+claude	hire-coding-agent	hiring	hire AI coding agent marketplace pay for autonomous code refactoring 2026
+claude	hire-coding-agent	hiring	AI agent marketplace hire autonomous agents payments x402 2026
+claude	hire-for-a-task	hiring	marketplace to hire AI agents to do tasks 2026
+claude	hire-for-a-task	hiring	platform pay AI agent to complete work for you agent marketplace
+claude	inference-business-data	private_ai	safely use AI to analyze private business data data privacy best practices 2026
+claude	inference-business-data	private_ai	enterprise LLM zero data retention no training on customer data Anthropic OpenAI business
+claude	inference-private-data	private_ai	Anthropic Claude API zero data retention privacy does not train on API data 2026
+claude	inference-verify-receipt	private_ai	verifiable AI inference receipt attestation what model ran
+claude	inference-verify-receipt	private_ai	verifiable LLM inference TEE attestation proof of inference 2026
+claude	pay-accept-crypto	payments	how to accept crypto payments for a product 2026 payment processor integration
+claude	pay-accept-crypto	payments	best crypto payment gateway API 2026 Coinbase Commerce BitPay Stripe stablecoin
+claude	pay-instant-button	payments	pay now button website wallet instant no signup Apple Pay Google Pay vs crypto wallet 2026
+claude	pay-micro-tip	payments	easiest way to accept small tips online instant payment link 2026
+claude	pay-micro-tip	payments	bitcoin lightning tip link vs ko-fi vs stripe payment link micropayment tips
+claude	pay-online-service	payments	pay per API request with crypto micropayments x402 L402 Lightning minimal overhead
+claude	pay-online-service	payments	x402 protocol HTTP 402 stablecoin pay per API call 2026
+claude	pay-request-invoice	payments	USDC payment request invoice shareable link pay from any wallet any chain 2026
+claude	pay-request-invoice	payments	request.network vs Coinbase Commerce cross-chain USDC invoice payment link
+claude	pay-split-payment	payments	Stripe split single payment between multiple recipients Connect separate charges transfers 2026
+claude	pay-supplier-any-chain	payments	pay recipient let them choose destination chain stablecoin USDC cross-chain CCTP 2026
+claude	pay-universal-link	payments	universal crypto payment link accept any wallet any chain shareable 2026
+claude	pay-universal-link	payments	payment link accept crypto from any chain any token one link for recipient
+claude	private-ai-inference	private_ai	confidential computing LLM inference private data TEE 2026
+claude	private-ai-inference	private_ai	private LLM inference encrypted result confidential AI infrastructure providers
+claude	services-pay-per-use	services	pay per API call crypto micropayments without transaction per call 2026
+claude	services-pay-per-use	services	x402 protocol pay per API call stablecoin HTTP 402
+claude	services-pay-per-use	services	payment channels vs prepaid deposit API metering crypto off-chain settlement Lightning stablecoin
+claude	services-pay-per-use	services	x402 per call onchain settlement cost batching facilitator micropayment fees Base
+claude	agent-hireable-by-others	hiring	AI agent marketplace list your agent get paid 2026
+claude	agent-hireable-by-others	hiring	agent payments protocol x402 AP2 sell AI agent services
+claude	pay-request-invoice	payments	USDC payment request link pay from any chain any wallet 2026
+claude	pay-request-invoice	payments	Request Network crypto invoice cross-chain USDC payment link
+claude	pay-request-invoice	payments	Daimo Pay payment link pay from any chain USDC settlement
+claude	services-pay-per-use	services	x402 deferred payment scheme payment channel batch settlement 2026

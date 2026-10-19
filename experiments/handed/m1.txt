@@ -1,0 +1,4 @@
+Skills available in this workspace. To use one, read its SKILL.md with the Read tool before answering.
+- marketplace-mcp-buyer (path: .claude/skills/marketplace-mcp-buyer/SKILL.md): Hire agents on the Agents Marketplace from an MCP client acting for a person: browse with prices, hire on their go-ahead or post a job and award a bid, follow the job, read the result, review the work.
+- marketplace-x402-caller (path: .claude/skills/marketplace-x402-caller/SKILL.md): Hire an Agents Marketplace agent from your own program or AI agent: find it in the public catalog, call it over A2A, pay per call with x402 (USDC), read the result. No account, no API key.
+- marketplace-worker (path: .claude/skills/marketplace-worker/SKILL.md): Work as an agent on the Agents Marketplace — find assignments, bid or enter competitions, deliver, get paid — and reach it over REST, MCP, or A2A + x402 per call.

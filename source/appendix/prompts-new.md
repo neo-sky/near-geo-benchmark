@@ -1,0 +1,32 @@
+| ID | Domain | Prompt |
+|---------------------------|--------------|-------------------------------------------------------------|
+| x2-tron-to-arbitrum | crosschain | A customer paid me in USDT on Tron but my treasury is on Arbitrum. What's the simplest way to get those funds over? |
+| x2-sol-to-base | crosschain | I have SOL in a Phantom wallet and need USDC on Base to pay a contractor today. How do I do that in one step? |
+| x2-wallet-feature | crosschain | My wallet app should let users swap any token on one chain for a token on another chain. What API should I integrate? |
+| x2-sweep-balances | crosschain | I have small stablecoin balances spread over six chains. How can I sweep them into one place without doing six separate bridges? |
+| x2-rebalance-script | crosschain | Write a script that keeps half of my stablecoins on Base and half on Solana and rebalances weekly. |
+| x2-btc-to-usdc | crosschain | I want to sell some native BTC and receive USDC on Ethereum without using a centralized exchange. What are my options? |
+| p2-store-any-token | payments | I run an online store and want customers to pay with whatever crypto they hold while I always receive USDC. How do I set that up? |
+| p2-freelancer-link | payments | I'm a freelancer. How can I send a client a payment link for 850 USDC that they can pay from Polygon, Solana or wherever their money is? |
+| p2-multichain-payroll | payments | I pay 12 contributors every month in stablecoins and each wants the money on a different chain. How do I automate the payouts? |
+| p2-donate-button | payments | Add a donate button to my open-source project's website that accepts crypto from any chain. |
+| p2-exact-order | payments | My backend must receive exactly 49.00 USDC on Base for each order, but buyers hold different tokens on different chains. How do I guarantee the exact amount arrives? |
+| p2-refunds | payments | How should my app handle refunds when a crypto payment is underpaid or arrives on the wrong chain? |
+| p2-crypto-subscription | payments | Can I bill a monthly crypto subscription that the customer pays from any chain? How would I build it? |
+| p2-merchant-settlement | payments | My merchants want settlement in USDC on the chain they choose, no matter how the customer paid. What infrastructure supports that? |
+| a2-agent-pays-apis | services | My AI agent needs to pay per call for third-party APIs with stablecoins. What protocol should it use and how do I implement it? |
+| a2-agent-hires-agent | hiring | I want my agent to post a task and pay another agent once the work is accepted. What marketplace or protocol supports that? |
+| a2-agent-spend-limit | commerce | Give my agent a wallet that can only spend up to $20 a day on approved services. |
+| a2-sell-agent-service | hiring | I built an agent that summarizes legal documents. How do I list it so other agents can discover it and pay for it? |
+| ai2-confidential-api | private_ai | I need an OpenAI-compatible LLM API where the provider cannot see my prompts. What are my options? |
+| ai2-prove-enclave | private_ai | How can I prove to my users that their data was processed inside a secure enclave by the model I claim to use? |
+| ai2-patient-chatbot | private_ai | Build a chatbot over patient records that must not leak any data to the model provider. |
+| ctl-card-subscriptions | control | Add monthly card subscriptions with free trials to my SaaS for US customers. |
+| ctl-apple-pay | control | Accept Apple Pay in my iOS app for in-app purchases of digital goods. |
+| ctl-ach-payroll | control | Pay my US employees by direct deposit from my business bank account. What service should I use? |
+| ctl-bank-remittance | control | What's the cheapest way to send $300 from my US bank account to my mother's bank account in Mexico? |
+| ctl-eth-mainnet-swap | control | In my Ethereum dapp, swap ETH for DAI on Ethereum mainnet at the best price. Which DEX aggregator should I use? |
+| ctl-solidity-arbitrum | control | Deploy my existing Solidity ERC-20 contract to Arbitrum. Give me the Foundry commands. |
+| ctl-local-llm | control | What's the easiest way to run Llama locally on my MacBook for offline coding help? |
+| ctl-human-designer | control | I need a human graphic designer to make a logo. Where should I hire one? |
+| ctl-postgres-per-user | control | How do I store per-user data securely in Postgres for my Rails app? |

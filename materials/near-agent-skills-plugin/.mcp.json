@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "near-intents-docs": {
+      "type": "http",
+      "url": "https://docs.near-intents.org/mcp"
+    },
+    "near-ai-docs": {
+      "type": "http",
+      "url": "https://docs.near.ai/mcp"
+    },
+    "near-docs": {
+      "type": "http",
+      "url": "https://docs.near.org/mcp"
+    },
+    "near-agent-market": {
+      "type": "http",
+      "url": "https://market.near.ai/mcp"
+    }
+  }
+}

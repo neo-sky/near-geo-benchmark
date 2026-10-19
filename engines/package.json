@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "@github/copilot": "1.0.98",
+    "opencode-ai": "1.19.3"
+  }
+}

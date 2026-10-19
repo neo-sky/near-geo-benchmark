@@ -1,0 +1,17 @@
+{
+  "name": "near",
+  "owner": {
+    "name": "NEAR"
+  },
+  "metadata": {
+    "description": "NEAR's skills and MCP servers for AI coding agents",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "near",
+      "source": "./",
+      "description": "Move tokens across chains and accept payments in any token with NEAR Intents, run private verifiable inference on NEAR AI Cloud, hire and pay agents on NEAR Agent Market, and build NEAR accounts and contracts."
+    }
+  ]
+}

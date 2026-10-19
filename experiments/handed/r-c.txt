@@ -1,0 +1,118 @@
+Web search results retrieved for the user's question. Use them if they are relevant.
+
+[1] Accept stablecoin payments | Stripe Documentation | https://docs.stripe.com/payments/accept-stablecoin-payments
+# Accept stablecoin payments
+Start accepting stablecoins by enabling the Crypto payment method.
+You can accept *stablecoin* (A cryptocurrency pegged to a fiat currency or other asset to limit volatility. Stripe supports OUSD and USDC for stablecoin balances, although transfers on the Tempo network use USDC.e) payments through *Payment Links* (A link to a secure, hosted payment page that you can generate without code. Share it directly with your customers, or point them to it with a button or QR code), *Checkout* (A low-code payment integration that creates a customizable form for collecting payments. You can embed Checkout directly in your website, redirect customers to a Stripe-hosted payment page, or create a customized checkout page with Stripe Elements), *Elements* (A set of UI components for building a web checkout flow. They adapt to your customer's locale, validate input, and use tokenization, keeping sensitive customer data from touching your server), or the *Payment Intents API* (The Payment Intents API tracks the lifecycle of a customer checkout flow and triggers additional authentication steps when required by regulatory mandates, custom Radar fraud rules, or redirect-based payment methods). When paying with stablecoins such as USDC, customers get redirected to **crypto.stripe.com** to connect their crypto wallet and complete the transaction. Funds settle in your Stripe balance in USD.
+## Before you begin
+To start accepting stablecoin payments:
+1. Make sure you’ve [set up your Stripe account](https://dashboard.stripe.com/register).
+2. Go to your [Payment methods](https://dashboard.stripe.com/settings/payment_methods) settings in the Dashboard and request the **Stablecoins and Crypto** payment method.
+3. Stripe reviews your access request and contacts you for more details if necessary. The payment method appears as **Pending** while we review your request.
+4. After we approve your request, the **Stablecoins and Crypto** payment method becomes active in the Dashboard.
+## Use with dynamic payment methods (Recommended)
+If you use Stripe’s default [dynamic payment methods](https://docs.stripe.com/payments/payment-methods/dynamic-payment-methods.md) with Payment Links, Hosted Checkout, Embedded Checkout Forms, or Elements, then you don’t need to make any further updates. Stripe automatically displays stablecoin payment options to eligible customers.
+
+[2] NEAR Intents payment links | NEAR Intents | https://docs.near-intents.org/guides/payment-links
+# NEAR Intents payment links: get paid from any chain, in the token you want
+
+Create a payment link or invoice for an exact amount, in the token and chain you want to receive. Share the link. The payer opens a hosted checkout page, connects whatever wallet they have, and pays from any supported chain and token. Solvers convert the payment and you receive the exact amount. No account or API key is needed.
+
+As of 2026-10-15, payers can pay with 205 assets on 37 chains, including Ethereum and other EVM chains, Solana, Bitcoin, NEAR, TON, Tron, Stellar, Sui and XRP.
+
+## How it works
+
+1. Create a link at pay.near-intents.org or with one API call: set the amount, the token and chain you want to receive, and your address.
+2. Share the link or show its QR code. It works as an invoice, a pay-now button or a tip jar.
+3. The payer opens the hosted page and pays from their own wallet and chain.
+4. You receive the exact amount. If the payer sends too little or the link expires, the deposit is refunded to them.
+
+## What it costs
+
+- Links created without a partner key carry an extra 0.25% fee.
+- With a partner key, the fee is typically 0.20%, or 0.01% on stablecoin and same-asset routes.
+
+## When to use something else
+
+- You want dollars in a bank account rather than tokens: use a fiat processor such as Stripe or Coinbase payment acceptance.
+- Payer and recipient already hold the same token on the same chain: a direct transfer is cheaper.
+
+[3] Payment Acceptance overview | Coinbase Developer Platform | https://docs.cdp.coinbase.com/payments/payment-acceptance/overview
+# Payment Acceptance
+Payment Acceptance is a full, enterprise-grade payments stack — not just transfers. Authorizations, captures, refunds, voids, disbursements, and fiat settlement — the same primitives your systems already use for cards, built for stablecoins. Increase conversion and tap a global customer base you can't reach today.
+## Choose your integration
+Both paths give your buyers the same experience — pay with any wallet, any supported chain, and no gas fees. The difference is how much control you need over the payment lifecycle.
+  <Card title="Coinbase Business" icon="bolt">
+    Start accepting payments in hours — self-serve, hosted checkout, settlement with bank offramps.
+    Best for: businesses accepting payments directly.
+  </Card>
+  <Card title="Payment Acceptance" icon="sliders">
+    Full control over the payment lifecycle — auth, capture, void, refund, fee splits, embeddable checkout.
+    Best for: PSPs, marketplaces, and enterprise platforms.
+  </Card>
+| | **Coinbase Business** | **Payment Acceptance** |
+| - | - | - |
+| **Onboarding** | Self-serve, start in hours | Enhanced due diligence, \~1 month |
+| **Integration** | Dashboard UI + API | API-only, embeddable web component available |
+| **Payment flow** | Create checkout/invoice/payment link, get a hosted URL | Create session, authorize, capture, void, refund |
+| **Control** | Coinbase manages the lifecycle | You control auth, capture timing, partial captures, voids |
+| **Fee configuration** | Standard pricing | Configurable fee splits, custom billing models |
+| **Settlement** | To your Coinbase account, with bank offramps | Configurable — Fedwire, SWIFT, USDC |
+| **Buyer experience** | Hosted payment page | Hosted page, redirect, or embeddable web component |
+| **Get started** | [Sign up and start building](/coinbase-business/checkout-apis/overview) | [Contact our team](mailto:coinbase.payments@coinbase.com) |
+***
+## Payment Acceptance
+  Payment Acceptance requires onboarding with our team. [Get in touch](mailto:coinbase.payments@coinbase.com) to start the process.
+Payment Acceptance gives you the same stablecoin checkout experience that powers Coinbase Business, with full control over the payment lifecycle. Authorization, capture, void, and refund work like the card networks your systems already support. Configure expiries, split fees, embed the checkout in your own UI, and settle to your bank on your schedule.
+
+[4] Request Network Docs | https://docs.request.network/
+# Request Network Docs
+  <div style={{ marginBottom: '2rem' }}>
+    <h1 className="text-zinc-950 dark:text-white" style={{ fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '1rem' }}>Request Network Docs</h1>
+    <p style={{ fontSize: '1.125rem', color: 'var(--text-secondary)', lineHeight: '1.75' }}>
+      Request Network is a protocol for creating and settling payments directly between two parties on <strong className="text-zinc-950 dark:text-white">EVM chains and Tron</strong>. Generate a payment link, route the payment across chains, and get a webhook the moment it settles. No custodial hold, no manual matching against your invoices.
+    </p>
+  </div>
+  <h2 className="text-zinc-950 dark:text-white" style={{ fontSize: '1.75rem', fontWeight: 'bold', marginTop: '3rem', marginBottom: '2rem' }}>
+    Three Products
+  </h2>
+  <p style={{ fontSize: '1.125rem', color: 'var(--text-secondary)', lineHeight: '1.75', marginBottom: '2rem' }}>
+    We ship Request Network as three products: the Dashboard, the Secure Payment Page, and the API.
+  </p>
+  <div style={{ marginBottom: '3rem' }}>
+    <CardGroup cols={3}>
+      <Card title="Dashboard" href="/tools/dashboard" icon="gauge">
+        No-code home for payment destinations, Client IDs, and incoming/outgoing payment links. EVM and Tron sign-in.
+      </Card>
+      <Card title="Secure Payment Page" href="/tools/secure-payments" icon="lock">
+        Hosted payment links at <code>pay.request.network</code>. Cross-chain swap-to-pay. Tron and EVM payer wallets.
+      </Card>
+      <Card title="API" href="/api-setup/getting-started" icon="code">
+        Programmatic creation of payment destinations, Client IDs, secure payments, payouts, and webhooks.
+      </Card>
+    </CardGroup>
+  </div>
+  <h2 className="text-zinc-950 dark:text-white" style={{ fontSize: '1.75rem', fontWeight: 'bold', marginTop: '3rem', marginBottom: '2rem' }}>
+    Get Started
+  </h2>
+  <div style={{ marginBottom: '0.5rem' }}>
+    <CardGroup cols={3}>
+      <Card title="🚀 Quickstart" href="/use-cases/quickstart" icon="rocket">
+        End-to-end: sign in to the Dashboard, create a payment destination, register a webhook, ship a payment link.
+      </Card>
+      <Card title="Use Cases" href="/use-cases/no-code-payment-links" icon="briefcase">
+        No-code links, programmatic links, multi-chain checkout, batch payouts, webhook reconciliation, KYT-screened payments.
+      </Card>
+      <Card title="API Features" href="/api-features/payment-types-overview" icon="code">
+        Payment types, secure payment pages, payouts, webhooks, fees, and more.
+      </Card>
+    </CardGroup>
+  </div>
+  <div style={{ marginBottom: '3rem' }}>
+    <CardGroup cols={1}>
+      <Card title="🌐 Resources" href="/resources/supported-chains-and-currencies" icon="globe">
+        Supported chains (8 networks including Tron), currencies, smart contracts, and feature matrix.
+      </Card>
+    </CardGroup>
+  </div>
+## Related topics

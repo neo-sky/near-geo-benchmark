@@ -1,0 +1,949 @@
+domain	query	rank	url
+build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026	1	https://ethereum.org/roadmap/account-abstraction/
+build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026	2	https://docs.metamask.io/embedded-wallets/features/smart-accounts/
+build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026	3	https://developers.fireblocks.com/docs/dynamic-embedded-wallets
+build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026	4	https://docs.arc.io/arc/tools/account-abstraction
+build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026	5	https://www.dynamic.xyz/docs/embedded-wallets/mpc/overview
+build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026	6	https://docs.getpara.com/v3/server/guides/account-abstraction
+build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026	7	https://docs.okto.tech/docs/system-capabilities/embedded-wallets
+build	account abstraction ERC-4337 smart contract wallets embedded MPC 2026	8	https://developers.particle.network/intro/account-abstraction
+build	account abstraction gasless on-chain accounts without wallet 2026	1	https://ethereum.org/roadmap/account-abstraction/
+build	account abstraction gasless on-chain accounts without wallet 2026	2	https://developers.particle.network/intro/account-abstraction
+build	account abstraction gasless on-chain accounts without wallet 2026	3	https://docs.metamask.io/smart-accounts-kit/guides/smart-accounts/send-gasless-transaction/
+build	account abstraction gasless on-chain accounts without wallet 2026	4	https://docs.celo.org/tooling/libraries-sdks/jaw
+build	account abstraction gasless on-chain accounts without wallet 2026	5	https://docs.avax.network/integrations/jaw
+build	account abstraction gasless on-chain accounts without wallet 2026	6	https://viem.sh/account-abstraction
+build	account abstraction gasless on-chain accounts without wallet 2026	7	https://www.plasma.org/learn/account-abstraction
+build	account abstraction gasless on-chain accounts without wallet 2026	8	https://docs.abstraxn.com/guides/Accounts/SmartAccounts/Accounts
+build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison	1	https://faun.dev/toolbox/metamask-embedded-wallets-vs-privy/
+build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison	2	https://docs.metamask.io/embedded-wallets/authentication/
+build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison	3	https://docs.privy.io/wallets/overview/types
+build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison	4	https://docs.privy.io/recipes/account-abstraction/custom-implementation
+build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison	5	https://markaicode.com/web3/developer-tools/wallets-and-account-abstraction/
+build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison	6	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison	7	https://dev.to/heyradcode/comparing-web3-wallet-onboarding-dynamicxyz-web3authio-and-privyio-1018
+build	account abstraction smart accounts social login embedded wallet Privy Web3Auth comparison	8	https://www.fluidrwa.com/blog/privy-vs-dynamic-vs-web3auth-wallet-onboarding
+build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026	1	https://datatracker.ietf.org/doc/html/draft-mishra-oauth-agent-grants-01
+build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026	2	https://dev.proof.com/docs/delegate-authority
+build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026	3	https://docs.grantex.dev/protocol/specification
+build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026	4	https://github.com/legant-dev/legant
+build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026	5	https://www.eniyantrust.com/docs/enterprise/consumer-delegation
+build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026	6	https://upcube.ai/resources/research/agent-mandates
+build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026	7	https://github.com/priyansh-x/agent-passport
+build	AI agent act on behalf of user scoped permissions spending limit delegated authorization 2026	8	https://trooth.co/docs/agent-authority
+build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC	1	https://codeagency.be/blog/oidc-sso-self-hosted-stack
+build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC	2	https://selfhosting.sh/foundations/sso-authentication/
+build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC	3	https://github.com/ooiyeefei/ccc/blob/main/skills/cross-app-shared-auth/SKILL.md
+build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC	4	https://medium.com/homelab-as-production/6-sso-for-everything-keycloak-and-oauth2-proxy-9d7778efa9f9
+build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC	5	https://www.bstjohn.net/blog/homelab-sso-authentik/
+build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC	6	https://micropyramid.com/blog/django-single-sign-on-sso-to-multiple-applications/
+build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC	7	https://cloudos.ca/en/blog/open-source-sso-which-solution
+build	best approach single sign-on SSO across multiple apps self-hosted 2026 OAuth2 OIDC	8	https://woitzik.dev/blog/authelia-oidc-kubernetes-25-services/
+build	best blockchain for games per-player on-chain accounts and balances 2026	1	https://docs.immutable.com/docs/products/asset-contracts/erc20.md
+build	best blockchain for games per-player on-chain accounts and balances 2026	2	https://www.immutable.com/chain
+build	best blockchain for games per-player on-chain accounts and balances 2026	3	https://docs.onbeam.com/sdk/beam-player-vs-automation
+build	best blockchain for games per-player on-chain accounts and balances 2026	4	https://suiplay.sui.io/home-v2
+build	best blockchain for games per-player on-chain accounts and balances 2026	5	https://www.gate.com/learn/articles/ronin-vs-immutable-gaming-ecosystem-compared
+build	best blockchain for games per-player on-chain accounts and balances 2026	6	https://cryptogames.gg/top-10-gaming-blockchains-for-2026/
+build	best blockchain for games per-player on-chain accounts and balances 2026	7	https://deltanfts.com/articles/gaming-blockchain-how-to-choose/
+build	best blockchain for games per-player on-chain accounts and balances 2026	8	https://www.fluidrwa.com/blog/immutable-vs-ronin-vs-oasys-web3-gaming-infrastructure
+build	best blockchain smart contract platform 2026 beginner friendly low gas fees	1	https://www.techtarget.com/it-strategy/tip/Top-9-smart-contract-platforms-to-consider-in-2026
+build	best blockchain smart contract platform 2026 beginner friendly low gas fees	2	https://peiko.space/blog/article/blockchain-platforms
+build	best blockchain smart contract platform 2026 beginner friendly low gas fees	3	https://voivoinfotech.com/best-blockchain-development-platforms/
+build	best blockchain smart contract platform 2026 beginner friendly low gas fees	4	https://www.secondstate.io/buidl/
+build	best blockchain smart contract platform 2026 beginner friendly low gas fees	5	https://vegavid.com/blog/smart-contract-platforms-comparison
+build	best blockchain smart contract platform 2026 beginner friendly low gas fees	6	https://www.qie.digital/best-blockchain-for-dapp-development
+build	best blockchain smart contract platform 2026 beginner friendly low gas fees	7	https://trendeth.com/dapp-development-frameworks-hardhat-truffle-substrate-hyperledger-guide
+build	best blockchain smart contract platform 2026 beginner friendly low gas fees	8	https://bestweb3apps.com/layer1-blockchains/
+build	best embedded wallets account abstraction for dapps no wallet install	1	https://docs.metamask.io/embedded-wallets/features/smart-accounts/
+build	best embedded wallets account abstraction for dapps no wallet install	2	https://www.openfort.io/embedded-wallet
+build	best embedded wallets account abstraction for dapps no wallet install	3	https://www.openfort.io/blog/best-account-abstraction-providers
+build	best embedded wallets account abstraction for dapps no wallet install	4	https://www.dynamic.xyz/docs/overview/wallets/embedded-wallets/mpc/overview
+build	best embedded wallets account abstraction for dapps no wallet install	5	https://www.openfort.io/blog/top-10-embedded-wallets
+build	best embedded wallets account abstraction for dapps no wallet install	6	https://www.dynamic.xyz/features/embedded-wallets
+build	best embedded wallets account abstraction for dapps no wallet install	7	https://developers.fireblocks.com/docs/dynamic-embedded-wallets
+build	best embedded wallets account abstraction for dapps no wallet install	8	https://dapps.alchemy.com/dapps/best/embedded-wallets
+build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth	1	https://docs.privy.io/authentication/overview
+build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth	2	https://www.dynamic.xyz/docs/auth/dynamic-auth/auth-methods
+build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth	3	https://www.fluidrwa.com/blog/privy-vs-dynamic-vs-web3auth-wallet-onboarding
+build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth	4	https://dappatlas.com/best/wallet-sdks/
+build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth	5	https://www.dynamic.xyz/docs/javascript/reference/quickstart
+build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth	6	https://docs.metamask.io/embedded-wallets/
+build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth	7	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	best embedded wallet SDK email login web3 2026 Privy Dynamic Web3Auth	8	https://apidog.com/blog/best-crypto-wallet-api/
+build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026	1	https://www.upshift.finance/blog/wallet-as-a-service-providers
+build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026	2	https://steyble.com/blog/embedded-wallets-2026-comparison
+build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026	3	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026	4	https://apidog.com/blog/best-crypto-wallet-api/
+build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026	5	https://www.openfort.io/blog/top-10-embedded-wallets
+build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026	6	https://www.alchemy.com/dapps/best/embedded-wallets
+build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026	7	https://dappatlas.com/best/wallet-sdks/
+build	best embedded wallet solutions for dapps Privy Web3Auth Magic 2026	8	https://www.openfort.io/blog/best-wallet-authentication-providers
+build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet	1	https://www.alchemy.com/faucets/base-sepolia
+build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet	2	https://ethereum.org/developers/docs/networks/
+build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet	3	https://faucet.quicknode.com/base
+build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet	4	https://docs.optimism.io/app-developers/tools-sdks/faucets
+build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet	5	https://docs.chainstack.com/docs/base-tutorial-deploy-an-erc-721-contract-with-hardhat
+build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet	6	https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet	7	https://thirdweb.com/base-sepolia-testnet
+build	best Ethereum L2 testnet to deploy 2026 Base Sepolia faucet	8	https://ethfaucet.com/
+build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia	1	https://idealogic.io/blog/developing-dapp-blockchain-development-guide
+build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia	2	https://cryptorbix.com/en/b/how-to-deploy-smart-contracts-on-ethereum
+build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia	3	https://metlabs.io/en/blog/hardhat-vs-foundry/
+build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia	4	https://devoracles.com/articles/web3-development-tools-a-lead/
+build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia	5	https://ethereum.org/developers/tools/foundry/
+build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia	6	https://blockchainsv.com/articles/hardhat-vs-foundry-choosing-the/
+build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia	7	https://dev.to/pavelespitia/foundry-vs-hardhat-in-2026-which-solidity-toolchain-wins-20jd
+build	best smart contract development stack 2026 Foundry vs Hardhat deploy testnet Sepolia	8	https://irsolutions.tech/blogs/smart-contract-development-tools
+build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat	1	https://ethereum.org/developers/tutorials/hello-world-smart-contract-fullstack/
+build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat	2	https://docs.connext.network/developers/quickstart.md
+build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat	3	https://github.com/chainstacklabs/foundry-vs-hardhat/
+build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat	4	https://hardhat.org/
+build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat	5	https://github.com/cryptopunkstar/arc-testnet-tutoriel
+build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat	6	https://www.getfoundry.sh/
+build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat	7	https://metlabs.io/en/blog/hardhat-vs-foundry/
+build	best stack for simple beginner smart contract greeting store update 2026 Foundry Hardhat	8	https://ahmedalishah.vercel.app/blog/foundry-vs-hardhat
+build	best stack for simple Solidity smart contract development and deployment 2026	1	https://evmtools.dev/guides/how-to-deploy-smart-contract
+build	best stack for simple Solidity smart contract development and deployment 2026	2	https://dappatlas.com/best/smart-contract-tools/
+build	best stack for simple Solidity smart contract development and deployment 2026	3	https://faun.dev/toolbox/compare-smart-contract-dev-frameworks/
+build	best stack for simple Solidity smart contract development and deployment 2026	4	https://dev.to/pavelespitia/foundry-vs-hardhat-in-2026-which-solidity-toolchain-wins-20jd
+build	best stack for simple Solidity smart contract development and deployment 2026	5	https://www.codex.io/blog/web3-development-tools
+build	best stack for simple Solidity smart contract development and deployment 2026	6	https://dev.to/lacey_glenn_e95da24922778/building-your-first-smart-contract-with-solidity-a-beginners-guide-2026-edition-2a72
+build	best stack for simple Solidity smart contract development and deployment 2026	7	https://dev.to/ottoaria/solidity-for-beginners-build-your-first-smart-contract-in-2026-no-blockchain-experience-needed-c83
+build	best stack for simple Solidity smart contract development and deployment 2026	8	https://umatechnology.org/ethereum-development-with-remix-build-a-smart-contract-and-connect-it-to-a-dapp/
+build	best way to build gasless user experience blockchain app 2026	1	https://ethereum.org/developers/tutorials/gasless/
+build	best way to build gasless user experience blockchain app 2026	2	https://www.chainscorelabs.com/en/guides/web3-ux-account-abstraction-on-off-ramps-etc/wallet-and-dapp-connectivity/how-to-design-a-gasless-transaction-experience
+build	best way to build gasless user experience blockchain app 2026	3	https://docs.biconomy.io/faq/build-gasless-web3-app
+build	best way to build gasless user experience blockchain app 2026	4	https://www.7blocklabs.com/blog/dapp-developer-guide-building-a-gas-abstracted-ux-with-session-keys-and-wallet-as-a-service-waas
+build	best way to build gasless user experience blockchain app 2026	5	https://eco.com/support/en/articles/14797814-smart-wallet-ux-patterns-gasless-batched
+build	best way to build gasless user experience blockchain app 2026	6	https://chainscorelabs.com/guides/developer-experience-dx-blockchain-tools-and-analytics/dapp-architecture-patterns/how-to-design-a-dapp-frontend-for-wallet-abstraction
+build	best way to build gasless user experience blockchain app 2026	7	https://www.autheo.com/blog/gasless-stablecoin-transfers-ux-security-playbook-2026
+build	best way to build gasless user experience blockchain app 2026	8	https://metamask.io/news/how-to-build-gasless-dapps
+build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026	1	https://www.fluidrwa.com/blog/chainlink-automation-vs-gelato-vs-openzeppelin
+build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026	2	https://hackers.tools/explore/relayers
+build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026	3	https://chainscorelabs.com/comparisons/dao-governance-on-chain-vs-off-chain/gasless-voting-solutions/dao-specific-relay-vs-generalized-gasless-infrastructure
+build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026	4	https://www.nadcab.com/blog/gasless-transactions-web3
+build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026	5	https://docs-gasless.biconomy.io/products/enable-gasless-transactions
+build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026	6	https://github.com/OpenZeppelin/openzeppelin-relayer
+build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026	7	https://chainscorelabs.com/comparisons/restaking-protocols-and-avs/avs-operator-software-providers/gelato-network-vs-biconomy-automation-and-relaying-for-avs
+build	Biconomy Gelato Relay OpenZeppelin relayer gasless dapp comparison 2026	8	https://chainscorelabs.com/guides/governance-operations-architecture/on-chain-voting-mechanisms/architecting-a-gasless-voting-system-with-meta-transactions
+build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction	1	https://docs.metamask.io/tutorials/sending-gasless-transaction/
+build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction	2	https://docs.openzeppelin.com/community-contracts/paymasters
+build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction	3	https://docs.cdp.coinbase.com/paymaster/guides/quickstart
+build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction	4	https://docs.zerodev.app/smart-accounts/sponsor-gas/evm
+build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction	5	https://www.alchemy.com/blog/account-abstraction-paymasters
+build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction	6	https://github.com/zerodevapp/omni-sdk-swift-example
+build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction	7	https://docs.biconomy.io/faq/gasless-transactions-evm
+build	blockchain app gasless transactions ERC-4337 paymaster gas sponsorship account abstraction	8	https://github.com/t402-io/t402/blob/main/services/docs/pages/advanced/gasless.mdx
+build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026	1	https://docs.metamask.io/smart-accounts-kit/guides/smart-accounts/send-gasless-transaction/
+build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026	2	https://ethereum.org/developers/tutorials/gasless/
+build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026	3	https://docs.metamask.io/tutorials/sending-gasless-transaction/
+build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026	4	https://developers.circle.com/paymaster
+build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026	5	https://docs.cdp.coinbase.com/paymaster/faqs
+build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026	6	https://www.paydirect.com/developers/api/smart-wallets
+build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026	7	https://www.spark.money/research/ethereum-gasless-paymaster-transaction-design
+build	blockchain app users never pay gas fees account abstraction paymaster ERC-4337 gasless transactions 2026	8	https://docs.biconomy.io/faq/gasless-transactions-evm
+build	blockchain game development on-chain player accounts balances best practices 2026	1	https://docs.sui.io/sui-stack/suiplay0x1/best-practices
+build	blockchain game development on-chain player accounts balances best practices 2026	2	https://docs.immutable.com/docs/products/asset-contracts/erc20
+build	blockchain game development on-chain player accounts balances best practices 2026	3	https://docs.uniblock.dev/guides/use-cases/gaming-and-in-app-assets
+build	blockchain game development on-chain player accounts balances best practices 2026	4	https://docs.sui.io/sui-stack/suiplay0x1/wallet-integration
+build	blockchain game development on-chain player accounts balances best practices 2026	5	https://solana.com/developers/cookbook/games/saving-game-state
+build	blockchain game development on-chain player accounts balances best practices 2026	6	https://docs.shinami.com/product-overviews/aptos/gaming
+build	blockchain game development on-chain player accounts balances best practices 2026	7	https://dojoengine.org/blog/building-games-starknet
+build	blockchain game development on-chain player accounts balances best practices 2026	8	https://born.mt/insights/blockchain-gaming-development/
+build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster	1	https://docs.cdp.coinbase.com/paymaster/guides/build-sponsored-transaction-component
+build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster	2	https://docs.cdp.coinbase.com/paymaster/introduction/quickstart
+build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster	3	https://docs.metamask.io/tutorials/sending-gasless-transaction/
+build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster	4	https://docs.biconomy.io/faq/build-gasless-web3-app
+build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster	5	https://docs.metamask.io/smart-accounts-kit/guides/smart-accounts/send-gasless-transaction/
+build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster	6	https://developers.particle.network/aa/sdks/desktop/web
+build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster	7	https://github.com/privy-io/base-paymaster-example/blob/main/README.md
+build	build blockchain dapp gasless transactions no fees for end users 2026 account abstraction paymaster	8	https://wdk.tether.io/blog/gasless-transactions-in-wdk-evm
+build	build dapp login with email only 2026	1	https://docs.metamask.io/embedded-wallets/authentication/basic-logins/email-passwordless/
+build	build dapp login with email only 2026	2	https://docs.katana.network/katana/how-to/add-privy/
+build	build dapp login with email only 2026	3	https://docs.zerodev.app/wallets/auth/email-otp
+build	build dapp login with email only 2026	4	https://support.opensea.io/en/articles/14995335-how-do-i-create-an-account-on-the-opensea-app
+build	build dapp login with email only 2026	5	https://authjs.dev/getting-started/authentication/email
+build	build dapp login with email only 2026	6	https://github.com/holkexyz/maearth-demo
+build	build dapp login with email only 2026	7	https://medium.com/@heimlabs/build-a-dapp-with-coinbase-embedded-wallets-from-scratch-next-js-wagmi-3fcecae7c183
+build	build dapp login with email only 2026	8	https://docs.zk.email/login-with-zk-email-oauth-api
+build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity	1	https://github.com/burnt-labs/docs/blob/main/developers/computation/use-cases/building-a-per-user-data-storage-dapp.md
+build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity	2	https://judy.hashnode.dev/write-your-first-user-profile-smart-contract
+build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity	3	https://dev.to/hemapriya_kanagala/how-i-built-a-blockchain-user-profile-with-solidity-and-you-can-too-11mc
+build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity	4	https://github.com/DennohKim/Expendi
+build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity	5	https://github.com/edwinosky/evm-tools
+build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity	6	https://github.com/obedgyamfi/GrimStake
+build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity	7	https://github.com/Consensys/web3-fullstack-starter
+build	build simple dapp 2026 wagmi viem smart contract store data per user mapping solidity	8	https://github.com/kikik27/moantap
+build	build simple dapp smart contract store data per user update 2026 best tools	1	https://github.com/burnt-labs/docs/blob/main/developers/computation/use-cases/building-a-per-user-data-storage-dapp.md
+build	build simple dapp smart contract store data per user update 2026 best tools	2	https://docs.genlayer.com/developers/intelligent-contracts/examples/user-storage
+build	build simple dapp smart contract store data per user update 2026 best tools	3	https://simple-storage-dapp.readthedocs.io/en/latest/
+build	build simple dapp smart contract store data per user update 2026 best tools	4	https://docs.icetea.io/developer/
+build	build simple dapp smart contract store data per user update 2026 best tools	5	https://docs.kynesys.xyz/sdk/cookbook/storage-programs/examples
+build	build simple dapp smart contract store data per user update 2026 best tools	6	https://github.com/burnt-labs/docs/blob/main/developers/computation/use-cases/build-a-todo-mobile-app-using-the-docustore-contract.md
+build	build simple dapp smart contract store data per user update 2026 best tools	7	https://store.aicerts.ai/blog/practical-dapp-guide-with-on-chain-data-storage/
+build	build simple dapp smart contract store data per user update 2026 best tools	8	https://github.com/coredao-org/dapp-tutorial
+build	build simple dapp store data per user update solidity react ethers.js 2026	1	https://store.aicerts.ai/blog/practical-dapp-guide-with-on-chain-data-storage/
+build	build simple dapp store data per user update solidity react ethers.js 2026	2	https://github.com/bungandy/smart-contract
+build	build simple dapp store data per user update solidity react ethers.js 2026	3	https://medium.com/@nag.ratul1/building-decentralized-applications-dapps-on-ethereum-with-react-js-solidity-and-ethers-js-a4aefc2140bb
+build	build simple dapp store data per user update solidity react ethers.js 2026	4	https://judy.hashnode.dev/write-your-first-user-profile-smart-contract
+build	build simple dapp store data per user update solidity react ethers.js 2026	5	https://markaicode.com/full-stack-blockchain-application/
+build	build simple dapp store data per user update solidity react ethers.js 2026	6	https://dev.to/hemapriya_kanagala/how-i-built-a-blockchain-user-profile-with-solidity-and-you-can-too-11mc
+build	build simple dapp store data per user update solidity react ethers.js 2026	7	https://dev.to/yaalfred/web3-store-4c15
+build	build simple dapp store data per user update solidity react ethers.js 2026	8	https://soosweb3.hashnode.dev/create-your-first-dapp-using-ethersjs
+build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack	1	https://ethereum.org/developers/docs/frameworks/
+build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack	2	https://github.com/ChristianChiarulli/intro-fullstack-ethereum
+build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack	3	https://github.com/Consensys/web3-fullstack-starter/blob/main/README.md
+build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack	4	https://peiko.space/blog/article/build-dapp-ethereum-2026
+build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack	5	https://github.com/Outlier1217/MNEE-Stablecoin-Hackathon-2026
+build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack	6	https://markaicode.com/full-stack-blockchain-application/
+build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack	7	https://github.com/dabit3/full-stack-ethereum-workshop
+build	build simple ethereum dapp store user data smart contract 2026 hardhat react best stack	8	https://github.com/tomhirst/solidity-nextjs-starter
+build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login	1	https://zairalabs.ai/guide/compare/auth0-vs-keycloak/
+build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login	2	https://github.com/ooiyeefei/ccc/blob/main/skills/cross-app-shared-auth/SKILL.md
+build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login	3	https://zairalabs.ai/guide/compare/keycloak-vs-workos/
+build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login	4	https://imti.co/keycloak-sso/
+build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login	5	https://unsubbed.co/tools/keycloak/
+build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login	6	https://www.authgear.com/post/authentication-solutions-guide/
+build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login	7	https://clerk.com/articles/federated-identity-for-enterprise-saas-saml-oidc-and-scim
+build	centralized authentication service vs auth provider Auth0 Keycloak Clerk WorkOS 2026 multiple apps one login	8	https://www.andesdigital.com/en/servicios/keycloak/
+build	cross-app single sign-on authentication ecosystem 2026 best practices	1	https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Patterns_Cheat_Sheet.html
+build	cross-app single sign-on authentication ecosystem 2026 best practices	2	https://www.opensecurityarchitecture.org/patterns/sp-032/
+build	cross-app single sign-on authentication ecosystem 2026 best practices	3	https://github.com/ooiyeefei/ccc/blob/main/skills/cross-app-shared-auth/references/architecture.md
+build	cross-app single sign-on authentication ecosystem 2026 best practices	4	https://www.idmanagement.gov/playbooks/sso/
+build	cross-app single sign-on authentication ecosystem 2026 best practices	5	https://github.com/ooiyeefei/ccc/blob/main/skills/cross-app-shared-auth/SKILL.md
+build	cross-app single sign-on authentication ecosystem 2026 best practices	6	https://sohanmanju.com/writings/unified-auth-with-passkeys-across-multiple-apps
+build	cross-app single sign-on authentication ecosystem 2026 best practices	7	https://news.lavx.hu/article/system-design-sso-authentication-using-shared-wildcard-cookies-for-multiple-internal-apps
+build	cross-app single sign-on authentication ecosystem 2026 best practices	8	https://roniam.dev/blog/sso-for-integrations/
+build	dapp email login embedded wallet ERC-4337 Privy thirdweb	1	https://docs.privy.io/recipes/account-abstraction/custom-implementation
+build	dapp email login embedded wallet ERC-4337 Privy thirdweb	2	https://portal.thirdweb.com/wallets/users
+build	dapp email login embedded wallet ERC-4337 Privy thirdweb	3	https://portal.thirdweb.com/react/v5/inAppWallet
+build	dapp email login embedded wallet ERC-4337 Privy thirdweb	4	https://docs.privy.io/basics/react-native/quickstart
+build	dapp email login embedded wallet ERC-4337 Privy thirdweb	5	https://www.privy.io/user-wallets
+build	dapp email login embedded wallet ERC-4337 Privy thirdweb	6	https://thirdweb.com/in-app-wallets
+build	dapp email login embedded wallet ERC-4337 Privy thirdweb	7	https://portal.thirdweb.com/react/v5/ConnectEmbed
+build	dapp email login embedded wallet ERC-4337 Privy thirdweb	8	https://github.com/privy-io/base-paymaster-example
+build	dapp email login embedded wallet providers privy magic web3auth dynamic	1	https://docs.metamask.io/embedded-wallets/authentication/
+build	dapp email login embedded wallet providers privy magic web3auth dynamic	2	https://docs.metamask.io/embedded-wallets/authentication/basic-logins/email-passwordless/
+build	dapp email login embedded wallet providers privy magic web3auth dynamic	3	https://docs.magic.link/embedded-wallets/quickstart/integration
+build	dapp email login embedded wallet providers privy magic web3auth dynamic	4	https://docs.magic.link/embedded-wallets/authentication/customization/login-ui
+build	dapp email login embedded wallet providers privy magic web3auth dynamic	5	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	dapp email login embedded wallet providers privy magic web3auth dynamic	6	https://docs.magic.link/embedded-wallets/authentication/login/wallet-kit
+build	dapp email login embedded wallet providers privy magic web3auth dynamic	7	https://www.alchemy.com/dapps/best/embedded-wallets
+build	dapp email login embedded wallet providers privy magic web3auth dynamic	8	https://www.openfort.io/blog/best-wallet-authentication-providers
+build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison	1	https://steyble.com/blog/embedded-wallets-2026-comparison
+build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison	2	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison	3	https://www.openfort.io/blog/best-wallet-authentication-providers
+build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison	4	https://apidog.com/blog/best-crypto-wallet-api/
+build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison	5	https://blocsafe.com/blog/waas-comparison-privy-magic-dynamic
+build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison	6	https://faun.dev/toolbox/magic-vs-privy/
+build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison	7	https://www.openfort.io/blog/top-10-embedded-wallets
+build	dapp email login passwordless wallet Privy Magic Web3Auth 2026 comparison	8	https://www.fluidrwa.com/blog/privy-vs-dynamic-vs-web3auth-wallet-onboarding
+build	dapp email-only login embedded wallet account abstraction 2026	1	https://docs.privy.io/authentication/overview
+build	dapp email-only login embedded wallet account abstraction 2026	2	https://portal.thirdweb.com/typescript/v5/inAppWallet
+build	dapp email-only login embedded wallet account abstraction 2026	3	https://docs.metamask.io/embedded-wallets/authentication/basic-logins/email-passwordless/
+build	dapp email-only login embedded wallet account abstraction 2026	4	https://docs.startale.com/aa-sdk/auth-providers/privy
+build	dapp email-only login embedded wallet account abstraction 2026	5	https://docs.metamask.io/embedded-wallets/dashboard/authentication/
+build	dapp email-only login embedded wallet account abstraction 2026	6	https://metamask.io/news/embedded-wallets-developer-platform
+build	dapp email-only login embedded wallet account abstraction 2026	7	https://docs.startale.com/aa-sdk/auth-providers/dynamic
+build	dapp email-only login embedded wallet account abstraction 2026	8	https://community.arc.io/public/blogs/dynamic-x-arc
+build	delegated authority financial transactions user consent	1	https://standards.openbanking.org.uk/customer-experience-guidelines/payment-initiation-services/multi-authorisation-payments/v3-1-9/
+build	delegated authority financial transactions user consent	2	https://ap2-protocol.org/ap2/agent_authorization/
+build	delegated authority financial transactions user consent	3	https://standards.openbanking.org.uk/customer-experience-guidelines/payment-initiation-services/vrp-payments-with-delegated-sca/v3-1-9/
+build	delegated authority financial transactions user consent	4	https://www.openbanking.org.uk/wp-content/uploads/2021/04/Customer-Experience-Guidelines.pdf
+build	delegated authority financial transactions user consent	5	https://www.federalreserve.gov/frrs/regulations/section-1104-customer-authorizations.htm
+build	delegated authority financial transactions user consent	6	https://nebras-open-finance.com/tech/tpp-standards/v2.1/banking/service-initiation
+build	delegated authority financial transactions user consent	7	https://sofpact.com/how-ai-agents-are-powering-the-rise-of-super-apps/
+build	delegated authority financial transactions user consent	8	https://cheatsheetseries.owasp.org/cheatsheets/Transaction_Authorization_Cheat_Sheet.html
+build	delegated authorization limited amount payment app on behalf of user	1	https://ap2-protocol.org/ap2/agent_authorization/
+build	delegated authorization limited amount payment app on behalf of user	2	https://delegare.mintlify.app/concepts/intent-mandates
+build	delegated authorization limited amount payment app on behalf of user	3	https://docs.metamask.io/llms-smart-accounts-kit-full.txt
+build	delegated authorization limited amount payment app on behalf of user	4	https://nevermined.ai/docs/solutions/card-delegation
+build	delegated authorization limited amount payment app on behalf of user	5	https://delegare.dev/
+build	delegated authorization limited amount payment app on behalf of user	6	https://agenticcommerce.pro/docs/guides/delegated-payment/
+build	delegated authorization limited amount payment app on behalf of user	7	https://www.useharbor.io/products/approve
+build	delegated authorization limited amount payment app on behalf of user	8	https://github.com/delegare/delegare
+build	delegated authorization transfer funds on behalf of user payment APIs	1	https://opentransact.org/
+build	delegated authorization transfer funds on behalf of user payment APIs	2	https://developer.amazon.com/docs/amazon-pay-checkout/delegated-authorization.html
+build	delegated authorization transfer funds on behalf of user payment APIs	3	https://openpayments.dev/identity/grants/
+build	delegated authorization transfer funds on behalf of user payment APIs	4	https://docs.hub2.io/integration/en/processing_only/processing_only_integration
+build	delegated authorization transfer funds on behalf of user payment APIs	5	https://openbanking.em.bank/documentation/user-guide/payments
+build	delegated authorization transfer funds on behalf of user payment APIs	6	https://docs.natural.com/guides/connect/move-money-for-customer
+build	delegated authorization transfer funds on behalf of user payment APIs	7	https://www.agenticcommerce.dev/docs/reference/payments
+build	delegated authorization transfer funds on behalf of user payment APIs	8	https://docs.finqware.com/api/payments
+build	deploy a simple smart contract that tracks user balances solidity 2026 best practices	1	https://scs.owasp.org/SCWE/SCSVS-GOV/SCWE-075/
+build	deploy a simple smart contract that tracks user balances solidity 2026 best practices	2	https://docs.solidity.org/en/latest/introduction-to-smart-contracts.html
+build	deploy a simple smart contract that tracks user balances solidity 2026 best practices	3	https://dev.to/ottoaria/solidity-for-beginners-build-your-first-smart-contract-in-2026-no-blockchain-experience-needed-c83
+build	deploy a simple smart contract that tracks user balances solidity 2026 best practices	4	https://docs.initia.xyz/hackathon/examples/evm-bank
+build	deploy a simple smart contract that tracks user balances solidity 2026 best practices	5	https://github.com/Siddheshwar-cloud/SimpleETHVault
+build	deploy a simple smart contract that tracks user balances solidity 2026 best practices	6	https://nownodes.io/blog/how-to-write-and-deploy-a-solidity-smart-contract-in-2026/
+build	deploy a simple smart contract that tracks user balances solidity 2026 best practices	7	https://mudassirkhan.me/blog/solidity-mapping-address-type
+build	deploy a simple smart contract that tracks user balances solidity 2026 best practices	8	https://github.com/SimSimButDifferent/SimpleEthWallet
+build	deploy ethereum smart contract balances mapping tutorial hardhat	1	https://v2.hardhat.org/tutorial/writing-and-compiling-contracts
+build	deploy ethereum smart contract balances mapping tutorial hardhat	2	https://github.com/wighawag/tutorial-hardhat-deploy/blob/main/README.md
+build	deploy ethereum smart contract balances mapping tutorial hardhat	3	https://decimalchain.com/docs/evm/deploy-tutorial/
+build	deploy ethereum smart contract balances mapping tutorial hardhat	4	https://guide.dem.exchange/evm/deployment-tutorial
+build	deploy ethereum smart contract balances mapping tutorial hardhat	5	https://www.web3.university/tracks/create-a-smart-contract/deploy-your-first-smart-contract
+build	deploy ethereum smart contract balances mapping tutorial hardhat	6	https://www.blockchainguide.biz/tutorial/hardhat.html
+build	deploy ethereum smart contract balances mapping tutorial hardhat	7	https://github.com/GGRIGORAS/hardhat_vault_smartcontract-master
+build	deploy ethereum smart contract balances mapping tutorial hardhat	8	https://blog.logrocket.com/develop-solidity-smart-contracts-hardhat/
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	1	https://v2.hardhat.org/tutorial/writing-and-compiling-contracts
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	2	https://www.youtube.com/watch?v=-LHrQXNTIo0
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	3	https://github.com/davidweb3-ctrl/my-dapp-project
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	4	http://127.0.0.1:8545
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	5	https://hardhat.org/docs/guides/deployment/using-ignition
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	6	https://ethereum.org/developers/tutorials/hello-world-smart-contract/
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	7	https://jamesbachini.com/intermediate-solidity-tutorial/
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	8	https://github.com/Siddheshwar-cloud/SimpleETHVault
+build	deploy smart contract track user balances Solidity Hardhat 2026 guide	9	https://github.com/wangyi12358/hardhat-example
+build	deploy smart contract user balances solidity	1	https://docs.solidity.org/en/latest/introduction-to-smart-contracts.html
+build	deploy smart contract user balances solidity	2	https://programtheblockchain.com/posts/2018/01/05/writing-a-banking-contract/
+build	deploy smart contract user balances solidity	3	https://docs.initia.xyz/hackathon/examples/evm-bank
+build	deploy smart contract user balances solidity	4	https://learnxinyminutes.com/files/learnSolidity.sol
+build	deploy smart contract user balances solidity	5	https://github.com/Play3rZer0/DepositContractV2
+build	deploy smart contract user balances solidity	6	https://github.com/OpenZeppelin/ethernaut/blob/a89c8f7832258655c09fde16e6602c78e5e99dbd/contracts/src/levels/Token.sol
+build	deploy smart contract user balances solidity	7	https://github.com/MarsIfeanyi/Mappings-SaveUserBalance/blob/main/README.md
+build	deploy smart contract user balances solidity	8	https://github.com/raineorshine/solidity-by-example
+build	deploy solidity smart contract user balances example tutorial 2026	1	https://docs.initia.xyz/hackathon/examples/evm-bank
+build	deploy solidity smart contract user balances example tutorial 2026	2	https://dev.to/ottoaria/solidity-for-beginners-build-your-first-smart-contract-in-2026-no-blockchain-experience-needed-c83
+build	deploy solidity smart contract user balances example tutorial 2026	3	https://nownodes.io/blog/how-to-write-and-deploy-a-solidity-smart-contract-in-2026/
+build	deploy solidity smart contract user balances example tutorial 2026	4	https://www.web3.university/tracks/create-a-smart-contract/deploy-your-first-smart-contract
+build	deploy solidity smart contract user balances example tutorial 2026	5	https://learnxinyminutes.com/solidity/
+build	deploy solidity smart contract user balances example tutorial 2026	6	https://github.com/SimSimButDifferent/SimpleEthWallet
+build	deploy solidity smart contract user balances example tutorial 2026	7	https://mudassirkhan.me/blog/solidity-mapping-address-type
+build	deploy solidity smart contract user balances example tutorial 2026	8	https://dev.to/sauravkumar8178/day-6-of-30-days-of-solidity-build-a-digital-piggy-bank-5ab4
+build	easiest way to deploy minimal Solidity greeter contract 2026	1	https://docs.chain.link/quickstarts/deploy-your-first-contract
+build	easiest way to deploy minimal Solidity greeter contract 2026	2	https://evmtools.dev/guides/how-to-deploy-smart-contract
+build	easiest way to deploy minimal Solidity greeter contract 2026	3	https://docs.sei.io/evm/evm-general
+build	easiest way to deploy minimal Solidity greeter contract 2026	4	https://docs.inkonchain.com/build/tutorials/deploying-a-smart-contract/remix
+build	easiest way to deploy minimal Solidity greeter contract 2026	5	https://docs.monad.xyz/guides/deploy-smart-contract/remix
+build	easiest way to deploy minimal Solidity greeter contract 2026	6	https://docs.optimism.io/app-developers/tutorials/deploy-a-contract
+build	easiest way to deploy minimal Solidity greeter contract 2026	7	https://nownodes.io/blog/how-to-write-and-deploy-a-solidity-smart-contract-in-2026/
+build	easiest way to deploy minimal Solidity greeter contract 2026	8	https://developers.gather.network/gather-developement-stack/smart-contracts-and-dapps/deploying-your-first-smart-contract
+build	email authentication for web3 dapps best practices	1	https://portal.thirdweb.com/wallets/users
+build	email authentication for web3 dapps best practices	2	https://docs.cdp.coinbase.com/wallets/authentication/implementation-guide
+build	email authentication for web3 dapps best practices	3	https://dfns.co/article/the-magic-link-vulnerability
+build	email authentication for web3 dapps best practices	4	https://www.turnkey.com/blog/introducing-user-email-authentication-on-turnkey
+build	email authentication for web3 dapps best practices	5	https://github.com/zkemail/ether-email-auth
+build	email authentication for web3 dapps best practices	6	https://thirdweb.com/learn/guides/web3-authentication-explained
+build	email authentication for web3 dapps best practices	7	https://docs.zk.email/login-with-zk-email-oauth-api
+build	email authentication for web3 dapps best practices	8	https://x-docs.moonpay.com/get-started/dashboard/login-methods
+build	email login dapp embedded wallet 2026	1	https://docs.metamask.io/embedded-wallets/authentication/basic-logins/email-passwordless/
+build	email login dapp embedded wallet 2026	2	https://metamask.io/news/embedded-wallets-developer-platform
+build	email login dapp embedded wallet 2026	3	https://docs.metamask.io/embedded-wallets/authentication/
+build	email login dapp embedded wallet 2026	4	https://docs.magic.link/embedded-wallets/authentication/customization/login-ui
+build	email login dapp embedded wallet 2026	5	https://playground.thirdweb.com/wallets/in-app-wallet
+build	email login dapp embedded wallet 2026	6	https://docs.katana.network/katana/how-to/add-privy/
+build	email login dapp embedded wallet 2026	7	https://apidog.com/blog/how-to-use-privy-api/
+build	email login dapp embedded wallet 2026	8	https://human.tech/blog/waap-is-live-on-sui
+build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026	1	https://docs.privy.io/authentication/overview
+build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026	2	https://docs.privy.io/recipes/account-abstraction/custom-implementation
+build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026	3	https://docs.privy.io/wallets/using-wallets/evm-smart-wallets/overview
+build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026	4	https://portal.thirdweb.com/wallets/users
+build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026	5	https://thirdweb.com/account-abstraction
+build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026	6	https://portal.thirdweb.com/react/v5/inAppWallet
+build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026	7	https://web3auth.io/
+build	email login dapp smart wallet account abstraction Privy thirdweb Web3Auth 2026	8	https://thirdweb.com/learn/guides/thirdweb-web3-authentication-solution-auth
+build	email login dapp wallet 2026 passwordless embedded wallet best practices	1	https://docs.metamask.io/embedded-wallets/authentication/basic-logins/email-passwordless/
+build	email login dapp wallet 2026 passwordless embedded wallet best practices	2	https://docs.0xkey.io/production-checklist/embedded-wallet
+build	email login dapp wallet 2026 passwordless embedded wallet best practices	3	https://docs.metamask.io/embedded-wallets/dashboard/authentication/
+build	email login dapp wallet 2026 passwordless embedded wallet best practices	4	https://docs.magic.link/embedded-wallets/authentication/customization/login-ui
+build	email login dapp wallet 2026 passwordless embedded wallet best practices	5	https://docs.magic.link/embedded-wallets/introduction
+build	email login dapp wallet 2026 passwordless embedded wallet best practices	6	https://docs.metamask.io/embedded-wallets/authentication/
+build	email login dapp wallet 2026 passwordless embedded wallet best practices	7	https://docs.cdp.coinbase.com/wallets/authentication/overview
+build	email login dapp wallet 2026 passwordless embedded wallet best practices	8	https://docs.sequence.xyz/sdk/headless-wallet/authentication
+build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic	1	https://steyble.com/blog/embedded-wallets-2026-comparison
+build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic	2	https://faun.dev/toolbox/magic-vs-privy/
+build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic	3	https://apidog.com/blog/best-crypto-wallet-api/
+build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic	4	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic	5	https://blocsafe.com/blog/waas-comparison-privy-magic-dynamic
+build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic	6	https://costbench.com/best/web3-wallet-sdk-for-consumer-apps/
+build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic	7	https://startupik.com/magic-vs-privy-vs-walletconnect-which-auth-solution-is-better/
+build	email login for web3 dapp 2026 best practices Privy vs Web3Auth vs Magic	8	https://www.openfort.io/blog/top-10-embedded-wallets
+build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026	1	https://docs.privy.io/wallets/overview/embedded
+build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026	2	https://docs.privy.io/wallets/using-wallets/evm-smart-wallets/overview
+build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026	3	https://www.dynamic.xyz/features/embedded-wallets
+build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026	4	https://docs.privy.io/wallets/accounts/overview
+build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026	5	https://docs.turnkey.com/solutions/embedded-wallets/embedded-waas
+build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026	6	https://www.turnkey.com/embedded-wallets
+build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026	7	https://www.privy.io/features
+build	embedded wallet custodial SDK turnkey privy dynamic smart account abstraction on-chain accounts for app users 2026	8	https://blog.privy.io/blog/how-privy-embedded-wallets-work
+build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic	1	https://docs.pimlico.io/guides/how-to/signers/social-logins
+build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic	2	https://steyble.com/blog/embedded-wallets-2026-comparison
+build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic	3	https://docs.metamask.io/embedded-wallets/authentication/
+build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic	4	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic	5	https://docs.katana.network/katana/how-to/add-privy/
+build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic	6	https://www.dynamic.xyz/
+build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic	7	https://www.openfort.io/blog/best-wallet-authentication-providers
+build	"embedded wallet" email login dapp Privy Magic Web3Auth Dynamic	8	https://docs.avax.network/integrations/privy
+build	embedded wallet give every user on-chain account without installing wallet	1	https://docs.privy.io/wallets/overview/embedded
+build	embedded wallet give every user on-chain account without installing wallet	2	https://polygon.technology/wallets/embedded
+build	embedded wallet give every user on-chain account without installing wallet	3	https://www.alchemy.com/blog/introducing-account-kit
+build	embedded wallet give every user on-chain account without installing wallet	4	https://docs.cdp.coinbase.com/wallets/non-custodial-wallets/overview
+build	embedded wallet give every user on-chain account without installing wallet	5	https://docs.zafeguard.com/examples/embedded-wallet-solution/smart-account
+build	embedded wallet give every user on-chain account without installing wallet	6	https://www.dynamic.xyz/docs/overview/wallets/embedded-wallets/mpc/overview
+build	embedded wallet give every user on-chain account without installing wallet	7	https://metamask.io/news/metamask-embedded-wallets-frictionless-web3-onboarding-built-in
+build	embedded wallet give every user on-chain account without installing wallet	8	https://developers.stellar.org/docs/platforms/stellar-disbursement-platform/admin-guide/embedded-wallets
+build	embedded wallet give users on-chain account without installing wallet 2026	1	https://polygon.technology/wallets/embedded
+build	embedded wallet give users on-chain account without installing wallet 2026	2	https://www.dynamic.xyz/docs/overview/wallets/embedded-wallets/mpc/overview
+build	embedded wallet give users on-chain account without installing wallet 2026	3	https://metamask.io/news/embedded-wallets-developer-platform
+build	embedded wallet give users on-chain account without installing wallet 2026	4	https://www.privy.io/user-wallets
+build	embedded wallet give users on-chain account without installing wallet 2026	5	https://www.dynamic.xyz/features/embedded-wallets
+build	embedded wallet give users on-chain account without installing wallet 2026	6	https://www.coinbase.com/blog/evolving-wallets-to-bring-a-billion-users-onchain
+build	embedded wallet give users on-chain account without installing wallet 2026	7	https://www.getpara.com/blog-posts/embedded-wallets-101
+build	embedded wallet give users on-chain account without installing wallet 2026	8	https://docs.oko.app/docs/
+build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey	1	https://docs.privy.io/wallets/overview/embedded
+build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey	2	https://docs.privy.io/wallets/using-wallets/evm-smart-wallets/overview
+build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey	3	https://docs.privy.io/recipes/account-abstraction/custom-implementation
+build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey	4	https://www.turnkey.com/blog/what-are-embedded-wallets-in-crypto
+build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey	5	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey	6	https://blog.privy.io/blog/how-privy-embedded-wallets-work
+build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey	7	https://7702.zerodev.app/turnkey
+build	embedded wallet onboarding account abstraction smart accounts privy dynamic turnkey	8	https://docs.privy.io/recipes/account-abstraction/native-mobile
+build	embedded wallets account abstraction 2026	1	https://docs.metamask.io/embedded-wallets/features/smart-accounts/
+build	embedded wallets account abstraction 2026	2	https://blog.thirdweb.com/erc-4337-account-abstraction-in-2026-how-smart-wallets-are-reshaping-web3-ux/
+build	embedded wallets account abstraction 2026	3	https://esso.dev/blog-posts/embedded-wallets-in-2026-trends-and-market-consolidation
+build	embedded wallets account abstraction 2026	4	https://docs.privy.io/wallets/overview/embedded
+build	embedded wallets account abstraction 2026	5	https://docs.okto.tech/docs/system-capabilities/embedded-wallets
+build	embedded wallets account abstraction 2026	6	https://www.coinbase.com/developer-platform/products/embeddedwallets
+build	embedded wallets account abstraction 2026	7	https://bloclabs.com/blog/privy-alternatives-2026
+build	embedded wallets account abstraction 2026	8	https://abstract-docs.vercel.app/new/getting-started/enable-mee-eoa-7702/
+build	embedded wallets account abstraction for web apps no wallet install 2026	1	https://docs.metamask.io/embedded-wallets/features/smart-accounts/
+build	embedded wallets account abstraction for web apps no wallet install 2026	2	https://metamask.io/news/embedded-wallets-developer-platform
+build	embedded wallets account abstraction for web apps no wallet install 2026	3	https://www.dynamic.xyz/features/embedded-wallets
+build	embedded wallets account abstraction for web apps no wallet install 2026	4	https://developers.fireblocks.com/docs/dynamic-embedded-wallets
+build	embedded wallets account abstraction for web apps no wallet install 2026	5	https://docs.averer.co/wallet/
+build	embedded wallets account abstraction for web apps no wallet install 2026	6	https://docs.privy.io/wallets/overview/embedded
+build	embedded wallets account abstraction for web apps no wallet install 2026	7	https://docs.phantom.com/phantom-connect
+build	embedded wallets account abstraction for web apps no wallet install 2026	8	https://dynamic-docs-feat-sidebar-revamp.mintlify.app/wallets/embedded-wallets/mpc/overview
+build	embedded wallets account abstraction give every user on-chain account without installing wallet	1	https://docs.metamask.io/embedded-wallets/features/smart-accounts/
+build	embedded wallets account abstraction give every user on-chain account without installing wallet	2	https://docs.turnkey.com/solutions/embedded-wallets/embedded-consumer-wallet
+build	embedded wallets account abstraction give every user on-chain account without installing wallet	3	https://www.alchemy.com/blog/introducing-account-kit
+build	embedded wallets account abstraction give every user on-chain account without installing wallet	4	https://docs.privy.io/wallets/overview/embedded
+build	embedded wallets account abstraction give every user on-chain account without installing wallet	5	https://docs.zafeguard.com/examples/embedded-wallet-solution/smart-account
+build	embedded wallets account abstraction give every user on-chain account without installing wallet	6	https://docs.startale.com/concepts/smart-accounts
+build	embedded wallets account abstraction give every user on-chain account without installing wallet	7	https://www.zerodev.app/embedded-wallet
+build	embedded wallets account abstraction give every user on-chain account without installing wallet	8	https://polygon.technology/wallets/embedded
+build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey	1	https://docs.privy.io/wallets/overview/embedded
+build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey	2	https://docs.privy.io/recipes/account-abstraction/custom-implementation
+build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey	3	https://www.dynamic.xyz/features/embedded-wallets
+build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey	4	https://www.turnkey.com/embedded-wallets
+build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey	5	https://blog.privy.io/blog/how-privy-embedded-wallets-work
+build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey	6	https://www.fireblocks.com/report/compare-embedded-wallet-infrastructure
+build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey	7	https://account-abstraction-docs.biconomy.io/smartAccountsV2/account/signers/privy/
+build	embedded wallets account abstraction onboard users without wallet extension 2026 Privy Dynamic Turnkey	8	https://www.turnkey.com/blog/what-are-embedded-wallets-in-crypto
+build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation	1	https://docs.metamask.io/embedded-wallets/features/smart-accounts/
+build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation	2	https://www.openfort.io/embedded-wallet
+build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation	3	https://www.zerodev.app/embedded-wallet
+build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation	4	https://www.openfort.io/blog/top-10-embedded-wallets
+build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation	5	https://docs.privy.io/wallets/overview/embedded
+build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation	6	https://developers.fireblocks.com/docs/dynamic-embedded-wallets
+build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation	7	https://www.dynamic.xyz/features/embedded-wallets
+build	embedded wallets account abstraction smart contract wallets 2026 no wallet installation	8	https://metamask.io/news/embedded-wallets-developer-platform
+build	embedded wallets account abstraction social login web3 onboarding	1	https://docs.metamask.io/embedded-wallets/authentication/
+build	embedded wallets account abstraction social login web3 onboarding	2	https://developers.particle.network/social-logins/overview
+build	embedded wallets account abstraction social login web3 onboarding	3	https://metamask.io/developer/embedded-wallets
+build	embedded wallets account abstraction social login web3 onboarding	4	https://thirdweb.com/in-app-wallets
+build	embedded wallets account abstraction social login web3 onboarding	5	https://portal.thirdweb.com/typescript/v5/inAppWallet
+build	embedded wallets account abstraction social login web3 onboarding	6	https://www.alchemy.com/overviews/the-ultimate-guide-to-embedded-wallets-with-social-login
+build	embedded wallets account abstraction social login web3 onboarding	7	https://blog.particle.network/account-abstraction-social-login-feature-taiko/
+build	embedded wallets account abstraction social login web3 onboarding	8	https://www.zerodev.app/embedded-wallet
+build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience	1	https://www.coinbase.com/blog/state-of-wallets
+build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience	2	https://www.coinbase.com/blog/state-of-wallets-2
+build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience	3	https://www.blockdaemon.com/blog/account-abstraction-or-mpc-which-is-best-for-your-application
+build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience	4	https://docs.monad.xyz/tooling-and-infra/wallet-infra
+build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience	5	https://docs.zerodev.app/blog/hello-capabilities
+build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience	6	https://blog.rallyprotocol.com/eoas-vs-smart-accounts-vs-mpcs-choosing-the-best-embedded-wallet-for-your-mobile-dapp-in-2025
+build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience	7	https://www.turnkey.com/blog/externally-owned-wallets-eoas-vs-smart-contract-wallets-vs-embedded-wallets
+build	embedded wallet vs MPC vs smart account passkey ERC-4337 account abstraction developer experience	8	https://blog.particle.network/particle-network-101-developer-experience-edition/
+build	ERC-20 approve allowance limit spending on behalf of user	1	https://eips.ethereum.org/EIPS/eip-20
+build	ERC-20 approve allowance limit spending on behalf of user	2	https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol
+build	ERC-20 approve allowance limit spending on behalf of user	3	https://ethereum.org/en/developers/tutorials/transfers-and-approval-of-erc-20-tokens-from-a-solidity-smart-contract
+build	ERC-20 approve allowance limit spending on behalf of user	4	https://ethereum.stackexchange.com/questions/164113/automate-the-use-of-approve-without-having-to-do-it-manually
+build	ERC-20 approve allowance limit spending on behalf of user	5	https://docs.openzeppelin.com/contracts/5.x/api/token/ERC20
+build	ERC-20 approve allowance limit spending on behalf of user	6	https://docs.li.fi/agents/workflows/approvals
+build	ERC-20 approve allowance limit spending on behalf of user	7	https://docs.getpara.com/v3/react/guides/web3-operations/evm/manage-allowances
+build	ERC-20 approve allowance limit spending on behalf of user	8	https://docs.hgraph.com/token-standards-library/erc-20
+build	ERC-4337 account abstraction email login embedded wallet best practices 2026	1	https://docs.privy.io/recipes/account-abstraction/custom-implementation
+build	ERC-4337 account abstraction email login embedded wallet best practices 2026	2	https://docs.metamask.io/embedded-wallets/authentication/basic-logins/email-passwordless/
+build	ERC-4337 account abstraction email login embedded wallet best practices 2026	3	https://docs.0xkey.io/production-checklist/embedded-wallet
+build	ERC-4337 account abstraction email login embedded wallet best practices 2026	4	https://portal.thirdweb.com/typescript/v5/inAppWallet
+build	ERC-4337 account abstraction email login embedded wallet best practices 2026	5	https://www.openfort.io/blog/embedded-wallet-explained
+build	ERC-4337 account abstraction email login embedded wallet best practices 2026	6	https://www.turnkey.com/blog/embedded-wallet-authentication
+build	ERC-4337 account abstraction email login embedded wallet best practices 2026	7	https://blog.thirdweb.com/erc-4337-account-abstraction-in-2026-how-smart-wallets-are-reshaping-web3-ux/
+build	ERC-4337 account abstraction email login embedded wallet best practices 2026	8	https://www.chainscorelabs.com/en/guides/web3-ux-account-abstraction-on-off-ramps-etc/wallet-and-dapp-connectivity/how-to-architect-an-embedded-wallet-solution
+build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase	1	https://docs.zerodev.app/onboarding/passkeys/overview
+build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase	2	https://docs.citrate.ai/aa/passkeys
+build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase	3	https://docs.zerodev.app/wallets/auth/passkeys
+build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase	4	https://www.alchemy.com/docs/wallets/react/login-methods/onchain-passkeys.md
+build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase	5	https://docs.candide.dev/wallet/plugins/passkeys/
+build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase	6	https://web3.hanzo.ai/products/wallets
+build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase	7	https://mera.category.xyz/
+build	ERC-4337 account abstraction passkeys session keys onboard users without seed phrase	8	https://getvela.app/docs/whitepaper
+build	ERC-4337 smart accounts social login for users without crypto wallet	1	https://account-abstraction-docs.biconomy.io/smartAccountsV2/account/signers/privy/
+build	ERC-4337 smart accounts social login for users without crypto wallet	2	https://docs.cometh.io/advanced/other-signers-auth-providers/web3auth-signer
+build	ERC-4337 smart accounts social login for users without crypto wallet	3	https://flare.network/news/getting-started-on-account-abstraction-on-flare-with-etherspot-and-web3auth
+build	ERC-4337 smart accounts social login for users without crypto wallet	4	https://gitbook.opensocial.co/features/opensocial-account
+build	ERC-4337 smart accounts social login for users without crypto wallet	5	https://blog.0xpass.io/p/the-developers-stack-for-frictionless
+build	ERC-4337 smart accounts social login for users without crypto wallet	6	https://chainscorelabs.com/en/guides/web3-ux-account-abstraction-on-off-ramps-etc/wallet-and-dapp-connectivity/how-to-implement-social-login-for-web3-wallets
+build	ERC-4337 smart accounts social login for users without crypto wallet	7	https://github.com/eerkaijun/keyless-accounts
+build	ERC-4337 smart accounts social login for users without crypto wallet	8	https://chainscorelabs.com/guides/decentralized-social-media-and-communication/cross-platform-social-interoperability/launching-a-universal-social-wallet-integration-strategy
+build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia	1	https://www.getfoundry.sh/guides/deploying-contracts
+build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia	2	https://github.com/yemosoft/solidity-foundry-boilerplate
+build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia	3	https://docs.optimism.io/app-developers/tutorials/deploy-a-contract
+build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia	4	https://paritytech.github.io/foundry-book-polkadot/guides/scripting-with-solidity.html
+build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia	5	https://github.com/nyilynnhtwe/FirstSmartContract
+build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia	6	https://buildwithdonnie.hashnode.dev/build-and-deploy-a-simple-sepolia-faucet-with-solidity-and-foundry
+build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia	7	https://github.com/Built-by-Sign/foundry-deployer-template
+build	Foundry Ethereum smart contract minimal Greeter deploy commands Sepolia	8	https://codeberg.org/BenDoubleU/signers-contract
+build	Foundry forge create deploy to Sepolia example 2026	1	https://www.getfoundry.sh/guides/deploying-contracts
+build	Foundry forge create deploy to Sepolia example 2026	2	https://paritytech.github.io/foundry-book-polkadot/guides/scripting-with-solidity.html
+build	Foundry forge create deploy to Sepolia example 2026	3	https://docs.whitechain.io/build/deploy/deploy-with-foundry
+build	Foundry forge create deploy to Sepolia example 2026	4	https://docs.linea.build/network/build/launch-an-app/deploy
+build	Foundry forge create deploy to Sepolia example 2026	5	https://docs.shape.network/quick-start/deploy-a-contract
+build	Foundry forge create deploy to Sepolia example 2026	6	https://docs.scroll.io/en/developers/guides/contract-deployment-tutorial/
+build	Foundry forge create deploy to Sepolia example 2026	7	https://codezup.com/how-to-write-and-deploy-smart-contracts-a-step-by-step-guide/
+build	Foundry forge create deploy to Sepolia example 2026	8	https://awesamarth.hashnode.dev/how-to-deploy-smart-contracts-using-foundry
+build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet	1	https://hardhat.org/docs/migrate-from-foundry.md
+build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet	2	https://www.blockchain-council.org/smart-contracts/building-testing-deploying-smart-contracts-hardhat-foundry/
+build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet	3	https://tryethernal.com/blog/evm-dev-frameworks-compared-2026
+build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet	4	https://metlabs.io/en/blog/hardhat-vs-foundry/
+build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet	5	https://www.blockchain-council.org/smart-contracts/smart-contract-testing-guide-unit-integration-test-coverage/
+build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet	6	https://chainscorelabs.com/guides/developer-experience-dx-blockchain-tools-and-analytics/developer-toolchain-setup/how-to-architect-a-development-toolchain-for-defi-protocols
+build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet	7	https://devoracles.com/articles/web3-development-tools-a-lead/
+build	Foundry vs Hardhat 2026 best stack deploy smart contract testnet	8	https://www.nadcab.com/blog/build-dapp-on-ethereum-complete-guide
+build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices	1	https://hardhat.org/docs/guides/deployment.md
+build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices	2	https://hardhat.org/docs/migrate-from-foundry.md
+build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices	3	https://www.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet
+build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices	4	https://metlabs.io/en/blog/hardhat-vs-foundry/
+build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices	5	https://ethereum.org/developers/tools/foundry/
+build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices	6	https://evmtools.dev/guides/how-to-deploy-smart-contract
+build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices	7	https://idealogic.io/blog/developing-dapp-blockchain-development-guide
+build	Foundry vs Hardhat 2026 deploy Solidity smart contract Sepolia testnet best practices	8	https://findweb3.com/blog/deploy-smart-contract
+build	Foundry vs Hardhat vs Remix for minimal smart contract 2026	1	https://www.blockchain-council.org/blockchain/how-to-build-and-deploy-a-smart-contract-hardhat-foundry-remix/
+build	Foundry vs Hardhat vs Remix for minimal smart contract 2026	2	https://evmtools.dev/guides/how-to-deploy-smart-contract
+build	Foundry vs Hardhat vs Remix for minimal smart contract 2026	3	https://dappatlas.com/best/smart-contract-tools/
+build	Foundry vs Hardhat vs Remix for minimal smart contract 2026	4	https://docs.xrplevm.org/pages/developers/interacting-with-evm/deploy-the-smart-contract
+build	Foundry vs Hardhat vs Remix for minimal smart contract 2026	5	https://www.blockchain-council.org/smart-contracts/best-smart-contract-development-tools-solidity-testing-auditing/
+build	Foundry vs Hardhat vs Remix for minimal smart contract 2026	6	https://www.codex.io/blog/web3-development-tools
+build	Foundry vs Hardhat vs Remix for minimal smart contract 2026	7	https://markaicode.com/web3/developer-tools/smart-contract-frameworks/
+build	Foundry vs Hardhat vs Remix for minimal smart contract 2026	8	https://docs.peaq.xyz/peaqchain/build/basic-operations/smart-contracts/build-smart-contract
+build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth	1	https://docs.notus.team/docs/guides/authentication/web3auth
+build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth	2	https://docs.metamask.io/tutorials/sending-gasless-transaction/
+build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth	3	https://docs.biconomy.io/faq/gasless-transactions-evm
+build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth	4	https://github.com/gelatodigital/gasless-wallet
+build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth	5	https://portal.thirdweb.com/engine/v2/features/relayers
+build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth	6	https://metamask.io/news/how-to-build-gasless-dapps
+build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth	7	https://giozaarour.medium.com/passivum-playing-around-with-account-abstraction-a49bfd01983f
+build	gasless blockchain app ERC-4337 paymaster meta-transaction relayer web3auth	8	https://github.com/arunabha003/PYPay
+build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026	1	https://docs.metamask.io/smart-accounts-kit/guides/smart-accounts/send-gasless-transaction/
+build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026	2	https://docs.erc4337.io/paymasters/index.html
+build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026	3	https://developers.particle.network/aa/sdks/desktop/web
+build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026	4	https://docs.metamask.io/tutorials/sending-gasless-transaction/
+build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026	5	https://developers.circle.com/paymaster
+build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026	6	https://metamask.io/news/how-to-build-gasless-dapps
+build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026	7	https://docs.cdp.coinbase.com/paymaster/faqs
+build	gasless blockchain dapp account abstraction ERC-4337 paymaster 2026	8	https://www.spark.money/research/ethereum-gasless-paymaster-transaction-design
+build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026	1	https://docs.openzeppelin.com/community-contracts/paymasters
+build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026	2	https://docs.erc4337.io/paymasters/index.html
+build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026	3	https://docs.metamask.io/smart-accounts-kit/guides/smart-accounts/send-gasless-transaction/
+build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026	4	https://docs.metamask.io/tutorials/sending-gasless-transaction/
+build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026	5	https://www.spark.money/research/ethereum-gasless-paymaster-transaction-design
+build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026	6	https://docs.cdp.coinbase.com/paymaster/faqs
+build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026	7	https://arxiv.org/html/2605.05774v1
+build	gasless blockchain transactions account abstraction ERC-4337 paymaster 2026	8	https://www.openfort.io/account-abstraction
+build	gasless dApp account abstraction ERC4337 paymaster	1	https://docs.openzeppelin.com/community-contracts/paymasters
+build	gasless dApp account abstraction ERC4337 paymaster	2	https://metamask.io/news/how-to-build-gasless-dapps
+build	gasless dApp account abstraction ERC4337 paymaster	3	https://www.alchemy.com/blog/account-abstraction-paymasters
+build	gasless dApp account abstraction ERC4337 paymaster	4	https://docs.erc4337.io/paymasters/index.html
+build	gasless dApp account abstraction ERC4337 paymaster	5	https://docs.metamask.io/smart-accounts-kit/guides/smart-accounts/send-gasless-transaction/
+build	gasless dApp account abstraction ERC4337 paymaster	6	https://docs.metamask.io/tutorials/sending-gasless-transaction/
+build	gasless dApp account abstraction ERC4337 paymaster	7	https://developers.circle.com/paymaster
+build	gasless dApp account abstraction ERC4337 paymaster	8	https://docs.biconomy.io/faq/gasless-transactions-evm
+build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship	1	https://ethereum.org/roadmap/pectra/7702/
+build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship	2	https://eco.com/support/en/articles/15254045-gas-sponsorship-2026-how-apps-sponsor-user-fees
+build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship	3	https://www.arc.io/blog/sponsored-transactions-on-arc-with-usdc-as-gas
+build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship	4	https://portal.thirdweb.com/bundler
+build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship	5	https://www.7blocklabs.com/blog/paymasters-bundlers-or-native-choosing-your-post-pectra-aa-stack
+build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship	6	https://www.7blocklabs.com/blog/gasless-ux-real-constraints-a-production-checklist-for-smart-accounts-2025-edition
+build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship	7	https://www.ercsolved.dev/gasless-transactions/
+build	gasless dapp architecture 2026 ERC-4337 paymaster vs EIP-7702 best practice sponsorship	8	https://blog.thirdweb.com/account-abstraction-in-2026-how-eip-7702-and-erc-4337-are-transforming-ethereum-wallets-for-developers/
+build	gasless transactions ERC-4337 paymaster account abstraction 2026	1	https://docs.openzeppelin.com/community-contracts/paymasters
+build	gasless transactions ERC-4337 paymaster account abstraction 2026	2	https://docs.metamask.io/smart-accounts-kit/guides/smart-accounts/send-gasless-transaction/
+build	gasless transactions ERC-4337 paymaster account abstraction 2026	3	https://docs.metamask.io/tutorials/sending-gasless-transaction/
+build	gasless transactions ERC-4337 paymaster account abstraction 2026	4	https://www.spark.money/research/ethereum-gasless-paymaster-transaction-design
+build	gasless transactions ERC-4337 paymaster account abstraction 2026	5	https://docs.cdp.coinbase.com/paymaster/faqs
+build	gasless transactions ERC-4337 paymaster account abstraction 2026	6	https://metamask.io/news/how-to-build-gasless-dapps
+build	gasless transactions ERC-4337 paymaster account abstraction 2026	7	https://abstraxn.com/blogs/erc-4337-paymasters-gasless-transactions
+build	gasless transactions ERC-4337 paymaster account abstraction 2026	8	https://www.openfort.io/account-abstraction
+build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026	1	https://docs.openzeppelin.com/community-contracts/paymasters
+build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026	2	https://ethereum.org/developers/tutorials/gasless/
+build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026	3	https://docs.erc4337.io/paymasters/index.html
+build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026	4	https://www.openfort.io/blog/technical-dive-gas-sponsorship
+build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026	5	https://www.alchemy.com/blog/account-abstraction-paymasters
+build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026	6	https://eco.com/support/en/articles/15254045-gas-sponsorship-2026-how-apps-sponsor-user-fees
+build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026	7	https://docs.biconomy.io/faq/gasless-transactions-evm
+build	gasless transactions ERC-4337 paymaster sponsorship how it works 2026	8	https://www.arc.io/blog/sponsored-transactions-on-arc-with-usdc-as-gas
+build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026	1	https://eips.ethereum.org/EIPS/eip-4337
+build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026	2	https://ethereum.org/developers/tools/erc-4337-documentation/
+build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026	3	https://docs.biconomy.io/faq/gasless-transactions-evm
+build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026	4	https://docs.relay.link/features/gasless-swaps
+build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026	5	https://www.chainscorelabs.com/en/guides/web3-ux-account-abstraction-on-off-ramps-etc/wallet-and-dapp-connectivity/how-to-design-a-gasless-transaction-experience
+build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026	6	https://docs.arc.io/integrate/relayers-and-paymasters
+build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026	7	https://docs.relay.link/references/api/api_guides/smart-accounts
+build	gasless transactions meta-transactions account abstraction ERC-4337 paymaster relay operator pattern 2026	8	https://docs.erc4337.io/
+build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026	1	https://www.alchemy.com/overviews/4337-vs-2771
+build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026	2	https://ethereum.org/developers/tutorials/gasless/
+build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026	3	https://www.alchemy.com/blog/zero-fees-infinite-complexity-building-gasless-transactions-at-scale
+build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026	4	https://docs.lukso.tech/learn/why-lukso/architecture/gasless-onboarding-patterns/
+build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026	5	https://eco.com/support/en/articles/15254045-gas-sponsorship-2026-how-apps-sponsor-user-fees
+build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026	6	https://gatekick.com/insights/articles/gas-abstraction-sponsored-transactions/
+build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026	7	https://eco.com/support/en/articles/14797814-smart-wallet-ux-patterns-gasless-batched
+build	gas sponsorship paymaster vs meta-transactions gasless UX best practices 2026	8	https://osec.io/blog/paymasters-evm/
+build	give every app user an on-chain account without wallet install embedded wallet 2026	1	https://docs.turnkey.com/solutions/embedded-wallets/embedded-consumer-wallet
+build	give every app user an on-chain account without wallet install embedded wallet 2026	2	https://polygon.technology/wallets/embedded
+build	give every app user an on-chain account without wallet install embedded wallet 2026	3	https://metamask.io/developer/embedded-wallets
+build	give every app user an on-chain account without wallet install embedded wallet 2026	4	https://www.privy.io/user-wallets
+build	give every app user an on-chain account without wallet install embedded wallet 2026	5	https://docs.startale.com/concepts/smart-accounts
+build	give every app user an on-chain account without wallet install embedded wallet 2026	6	https://www.openfort.io/embedded-wallet
+build	give every app user an on-chain account without wallet install embedded wallet 2026	7	https://docs.base.org/base-account/overview/what-is-base-account
+build	give every app user an on-chain account without wallet install embedded wallet 2026	8	https://docs.zafeguard.com/examples/embedded-wallet-solution/smart-account
+build	give every app user on-chain account without installing wallet 2026	1	https://docs.turnkey.com/solutions/embedded-wallets/embedded-consumer-wallet
+build	give every app user on-chain account without installing wallet 2026	2	https://docs.base.org/base-account/overview/what-is-base-account
+build	give every app user on-chain account without installing wallet 2026	3	https://docs.zafeguard.com/examples/embedded-wallet-solution/smart-account
+build	give every app user on-chain account without installing wallet 2026	4	https://www.pimlico.io/solutions/consumer-apps
+build	give every app user on-chain account without installing wallet 2026	5	https://www.getpara.com/ecosystems
+build	give every app user on-chain account without installing wallet 2026	6	https://docs.metamask.io/embedded-wallets/features/wallet-pregeneration/
+build	give every app user on-chain account without installing wallet 2026	7	https://web3.hanzo.ai/products/wallets
+build	give every app user on-chain account without installing wallet 2026	8	https://www.openfort.io/blog/telegram-mini-apps
+build	give users onchain accounts without wallet install embedded wallet account abstraction	1	https://docs.privy.io/wallets/overview/embedded
+build	give users onchain accounts without wallet install embedded wallet account abstraction	2	https://docs.privy.io/recipes/account-abstraction/custom-implementation
+build	give users onchain accounts without wallet install embedded wallet account abstraction	3	https://docs.metamask.io/embedded-wallets/features/smart-accounts/
+build	give users onchain accounts without wallet install embedded wallet account abstraction	4	https://www.zerodev.app/embedded-wallet
+build	give users onchain accounts without wallet install embedded wallet account abstraction	5	https://account-abstraction-docs.biconomy.io/smartAccountsV2/account/signers/privy/
+build	give users onchain accounts without wallet install embedded wallet account abstraction	6	https://www.coinbase.com/developer-platform/products/embedded-wallets
+build	give users onchain accounts without wallet install embedded wallet account abstraction	7	https://docs.startale.com/concepts/smart-accounts
+build	give users onchain accounts without wallet install embedded wallet account abstraction	8	https://www.openfort.io/embedded-wallet
+build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth	1	https://docs.rhinestone.dev/smart-wallet/tutorials/session-keys
+build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth	2	https://doc.bunq.com/basics/authentication/oauth
+build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth	3	https://guides.getalby.com/developer-guide/developer-guide/alby-wallet-api/reference/authorization
+build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth	4	https://developers.100pay.co/docs/oauth
+build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth	5	https://docs.cdp.coinbase.com/coinbase-business/authentication-authorization/authorization
+build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth	6	https://docs.privy.io/wallets/using-wallets/signers/quickstart
+build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth	7	https://developers.shine.fr/docs/strong-customer-authentication
+build	how to allow app to transfer money on behalf of user scoped authorization session keys oauth	8	https://auth0.com/docs/secure/highly-regulated-identity/transactional-authorization-with-authorization-code-flow
+build	how to build dapp with email only login no wallet connect	1	https://docs.katana.network/katana/how-to/add-privy/
+build	how to build dapp with email only login no wallet connect	2	https://dynamic-docs-feat-sidebar-revamp.mintlify.site/headless/headless-email
+build	how to build dapp with email only login no wallet connect	3	https://blog.thirdweb.com/guides/add-sign-in-with-email-web3-app-thirdweb-2/
+build	how to build dapp with email only login no wallet connect	4	https://docs.usecocreate.io/docs/dynamic-cocreate-authentication-guide
+build	how to build dapp with email only login no wallet connect	5	https://www.auth-sdk.dev/docs/examples/email-passwordless
+build	how to build dapp with email only login no wallet connect	6	https://authjs.dev/getting-started/authentication/email
+build	how to build dapp with email only login no wallet connect	7	https://ritual.sh/blog/building-an-accountless-authentication-system/
+build	how to build dapp with email only login no wallet connect	8	https://reqres.in/blog/frontend-only-auth
+build	how to deploy a smart contract that tracks user balances solidity ethereum 2026	1	https://docs.solidity.org/en/latest/introduction-to-smart-contracts.html
+build	how to deploy a smart contract that tracks user balances solidity ethereum 2026	2	https://docs.initia.xyz/hackathon/examples/evm-bank
+build	how to deploy a smart contract that tracks user balances solidity ethereum 2026	3	https://dev.to/ottoaria/solidity-for-beginners-build-your-first-smart-contract-in-2026-no-blockchain-experience-needed-c83
+build	how to deploy a smart contract that tracks user balances solidity ethereum 2026	4	https://ethereum.org/developers/docs/smart-contracts/
+build	how to deploy a smart contract that tracks user balances solidity ethereum 2026	5	https://dev.to/sauravkumar8178/day-6-of-30-days-of-solidity-build-a-digital-piggy-bank-5ab4
+build	how to deploy a smart contract that tracks user balances solidity ethereum 2026	6	https://soliditycamp.com/articles/ether-wallet-code-example
+build	how to deploy a smart contract that tracks user balances solidity ethereum 2026	7	https://github.com/raineorshine/solidity-by-example
+build	how to deploy a smart contract that tracks user balances solidity ethereum 2026	8	https://nownodes.io/blog/how-to-write-and-deploy-a-solidity-smart-contract-in-2026/
+build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026	1	https://hardhat.org/docs/guides/deployment.md
+build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026	2	https://docs.chain.link/quickstarts/deploy-your-first-contract
+build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026	3	https://v2.hardhat.org/tutorial/deploying-to-a-live-network
+build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026	4	https://www.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet
+build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026	5	https://remix-ide.readthedocs.io/en/latest/run.html
+build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026	6	https://evmtools.dev/guides/how-to-deploy-smart-contract
+build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026	7	https://hackernoon.com/deploying-your-smart-contract-on-ethereums-sepolia-testnet-using-remix-or-dapp-development-series
+build	how to deploy solidity contract to sepolia testnet remix or hardhat quick guide 2026	8	https://docs.theinterfold.com/tutorials/deploy-to-testnet
+build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC	1	https://docs.turnkey.com/solutions/embedded-wallets/embedded-consumer-wallet
+build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC	2	https://docs.privy.io/wallets/overview/embedded
+build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC	3	https://docs.turnkey.com/solutions/embedded-wallets/embedded-waas
+build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC	4	https://www.dynamic.xyz/docs/react/wallets/embedded-wallets/mpc/creating-wallets
+build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC	5	https://docs.privy.io/basics/react-native/advanced/automatic-wallet-creation
+build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC	6	https://docs.privy.io/recipes/pregenerate-wallets
+build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC	7	https://docs.zafeguard.com/examples/embedded-wallet-solution/smart-account
+build	how to give app users on-chain accounts without wallet embedded wallets turnkey MPC	8	https://www.dynamic.xyz/docs/embedded-wallets/mpc/overview
+build	how to give each player their own on-chain account and balance in blockchain game	1	https://solana.com/developers/cookbook/games/saving-game-state
+build	how to give each player their own on-chain account and balance in blockchain game	2	https://docs.zafeguard.com/examples/embedded-wallet-solution/smart-account
+build	how to give each player their own on-chain account and balance in blockchain game	3	https://www.openfort.io/customers/how-we-built-a-web3-game-in-1-week
+build	how to give each player their own on-chain account and balance in blockchain game	4	https://docs.immutable.com/docs/products/asset-contracts/erc20
+build	how to give each player their own on-chain account and balance in blockchain game	5	https://wallet.iamgame.com/docs/concepts
+build	how to give each player their own on-chain account and balance in blockchain game	6	https://solana.com/developers/guides/games/interact-with-tokens
+build	how to give each player their own on-chain account and balance in blockchain game	7	https://docs.enjin.io/guides/platform/managing-users/using-managed-wallets
+build	how to give each player their own on-chain account and balance in blockchain game	8	https://solana.com/developers/cookbook/games/interact-with-tokens
+build	how to give every app user an on-chain account without installing a wallet	1	https://docs.turnkey.com/solutions/embedded-wallets/embedded-consumer-wallet
+build	how to give every app user an on-chain account without installing a wallet	2	https://www.alchemy.com/blog/introducing-account-kit
+build	how to give every app user an on-chain account without installing a wallet	3	https://docs.zafeguard.com/examples/embedded-wallet-solution/smart-account
+build	how to give every app user an on-chain account without installing a wallet	4	https://docs.tatum.io/docs/smart-wallets-for-wallet-app
+build	how to give every app user an on-chain account without installing a wallet	5	https://www.pimlico.io/solutions/consumer-apps
+build	how to give every app user an on-chain account without installing a wallet	6	https://www.privy.io/user-wallets
+build	how to give every app user an on-chain account without installing a wallet	7	https://docs.privy.io/recipes/pregenerate-wallets
+build	how to give every app user an on-chain account without installing a wallet	8	https://web3.hanzo.ai/products/wallets
+build	how to implement email login for decentralized app dapp 2026	1	https://blog.thirdweb.com/guides/add-sign-in-with-email-web3-app-thirdweb-2/
+build	how to implement email login for decentralized app dapp 2026	2	https://portal.thirdweb.com/wallets/users
+build	how to implement email login for decentralized app dapp 2026	3	https://docs.metamask.io/embedded-wallets/authentication/basic-logins/email-passwordless/
+build	how to implement email login for decentralized app dapp 2026	4	https://portal.thirdweb.com/references/typescript/latest/inAppWallet
+build	how to implement email login for decentralized app dapp 2026	5	https://www.alchemy.com/docs/wallets/authentication/login-methods/email-magic-link
+build	how to implement email login for decentralized app dapp 2026	6	https://docs.magic.link/embedded-wallets/authentication/login/email-otp
+build	how to implement email login for decentralized app dapp 2026	7	https://playground.thirdweb.com/wallets/in-app-wallet
+build	how to implement email login for decentralized app dapp 2026	8	https://reown.com/learn/how-to-add-email-social-logins-to-crypto-apps
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes	1	https://auth0.com/docs/get-started/apis/scopes/api-scopes
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes	2	https://docs.cdp.coinbase.com/coinbase-app/oauth2-integration/scopes
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes	3	https://www.rfc-editor.org/rfc/rfc9396.html
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes	4	https://docs.cdp.coinbase.com/coinbase-business/authentication-authorization/oauth2/oauth2-permissions
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes	5	https://developers.paysera.com/guides/wallet/user-information/scopes
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes	6	https://docs.busha.io/guides/oauth/scopes
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes	7	https://developers.100pay.co/docs/oauth
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes	8	https://docs.trustap.com/docs/guides/transactions/full-users.md
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent	1	https://www.rfc-editor.org/rfc/rfc9396.html
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent	2	https://developers.google.com/identity/protocols/oauth2
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent	3	https://www.rfc-editor.org/info/rfc6749/
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent	4	https://developers.google.com/identity/protocols/oauth2/resources/granular-permissions
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent	5	https://developers.google.com/workspace/guides/configure-oauth-consent
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent	6	https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent	7	https://developers.paysera.com/guides/wallet/user-information/scopes
+build	how to let app perform limited actions like small transfer on behalf of user OAuth scopes consent	8	https://developers.100pay.co/docs/oauth
+build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider	1	https://www.idmanagement.gov/playbooks/sso/
+build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider	2	https://www.okta.com/identity-101/enterprise-sso/
+build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider	3	https://www.opensecurityarchitecture.org/patterns/sp-032/
+build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider	4	https://www.rippling.com/blog/how-to-set-up-single-sign-on
+build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider	5	https://www.securesystems.com/single-sign-on/
+build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider	6	https://doi.org/10.52710/cfs.911
+build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider	7	https://skycloak.io/blog/sso-implementation-guide-developers/
+build	implement single sign-on SSO across multiple applications 2026 best practices centralized identity provider	8	https://www.miniorange.com/blog/sso-architecture/
+build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider	1	https://developer.okta.com/blog/2019/05/02/spring-boot-single-sign-on-oauth-2
+build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider	2	https://docs.cidaas.com/guides/identityprovider/oauth2-oidc
+build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider	3	https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/add-application-portal-setup-oidc-sso
+build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider	4	https://docs.pingidentity.com/pingoneaic/getting-started/getting-started-oidc-app.html
+build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider	5	https://docs.authorizer.dev/core/sso-guide
+build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider	6	https://blog.logto.io/complete-guide-to-integrating-oidc-server
+build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider	7	https://github.com/awslabs/aws-amplify-identity-broker/
+build	implement single sign-on SSO across multiple applications OAuth2 OIDC identity provider	8	https://docs.timbr.ai/doc/docs/getting-started/deployments/sso/oidc/
+build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices	1	https://accounts.tempo.xyz/docs/guides/spend-permissions
+build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices	2	https://developers.paysera.com/guides/personal-access-token/token-controls
+build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices	3	https://docs.cdp.coinbase.com/wallets/using-wallets/spend-permissions
+build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices	4	https://mpp.dev/guides/managing-agent-spend
+build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices	5	https://developers.paysera.com/guides/wallet/user-information/scopes
+build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices	6	https://github.com/coinbase/spend-permissions
+build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices	7	https://docs.getpara.com/v3/react/guides/permissions/templates/allowances
+build	let app transfer small amount on behalf of user OAuth scopes spending limit best practices	8	https://docs.metamask.io/smart-accounts-kit/guides/advanced-permissions/execute-on-metamask-users-behalf/
+build	let app transfer small amount on behalf of user token allowance delegation best practices	1	https://docs.metamask.io/smart-accounts-kit/guides/advanced-permissions/use-permissions/erc20-token/
+build	let app transfer small amount on behalf of user token allowance delegation best practices	2	https://docs.metamask.io/smart-accounts-kit/development/guides/delegation/use-delegation-scopes/spending-limit/
+build	let app transfer small amount on behalf of user token allowance delegation best practices	3	https://solana.com/docs/payments/advanced-payments/spend-permissions
+build	let app transfer small amount on behalf of user token allowance delegation best practices	4	https://kalis.me/unlimited-erc20-allowances/
+build	let app transfer small amount on behalf of user token allowance delegation best practices	5	https://viem.sh/tokens/guides/approve-spending
+build	let app transfer small amount on behalf of user token allowance delegation best practices	6	https://github.com/coinbase/spend-permissions
+build	let app transfer small amount on behalf of user token allowance delegation best practices	7	https://docs.portalhq.io/resources/delegations
+build	let app transfer small amount on behalf of user token allowance delegation best practices	8	https://docs.getpara.com/v3/react/guides/permissions/templates/allowances
+build	limited access token scoped permissions allow app transfer small amount on behalf of user API	1	https://docs.metamask.io/smart-accounts-kit/1.6.0/guides/advanced-permissions/execute-on-metamask-users-behalf/
+build	limited access token scoped permissions allow app transfer small amount on behalf of user API	2	https://docs.metamask.io/smart-accounts-kit/guides/advanced-permissions/use-permissions/erc20-token/
+build	limited access token scoped permissions allow app transfer small amount on behalf of user API	3	https://accounts.tempo.xyz/docs/guides/spend-permissions
+build	limited access token scoped permissions allow app transfer small amount on behalf of user API	4	https://docs.metamask.io/smart-accounts-kit/development/guides/advanced-permissions/use-permissions/native-token/
+build	limited access token scoped permissions allow app transfer small amount on behalf of user API	5	https://docs.cdp.coinbase.com/coinbase-app/authentication-authorization/authorization
+build	limited access token scoped permissions allow app transfer small amount on behalf of user API	6	https://docs.metamask.io/smart-accounts-kit/development/guides/advanced-permissions/use-permissions/erc20-token/
+build	limited access token scoped permissions allow app transfer small amount on behalf of user API	7	https://docs.rhinestone.dev/smart-wallet/tutorials/session-keys
+build	limited access token scoped permissions allow app transfer small amount on behalf of user API	8	https://developers.paysera.com/guides/personal-access-token/token-controls
+build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount	1	https://docs.metamask.io/smart-accounts-kit/guides/advanced-permissions/execute-on-metamask-users-behalf/
+build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount	2	https://accounts.tempo.xyz/docs/guides/spend-permissions
+build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount	3	https://www.rfc-editor.org/rfc/rfc9396.html
+build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount	4	https://docs.cdp.coinbase.com/coinbase-business/authentication-authorization/oauth2/scopes
+build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount	5	https://docs.metamask.io/smart-accounts-kit/1.7.0/guides/advanced-permissions/use-permissions/native-token/
+build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount	6	https://docs.cdp.coinbase.com/coinbase-app/authentication-authorization/authorization
+build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount	7	https://learn.microsoft.com/en-us/entra/identity-platform/scopes-oidc
+build	"limited permissions" OR "fine-grained scopes" app act on behalf of user transfer amount	8	https://sus.auth0.com/docs/get-started/applications/application-access-to-apis-client-grants
+build	OAuth 2.0 delegated authorization limited scope app act on behalf user	1	https://www.rfc-editor.org/rfc/rfc6749.html
+build	OAuth 2.0 delegated authorization limited scope app act on behalf user	2	https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow
+build	OAuth 2.0 delegated authorization limited scope app act on behalf user	3	https://learn.microsoft.com/en-us/entra/architecture/authorize-applications-resources-workloads
+build	OAuth 2.0 delegated authorization limited scope app act on behalf user	4	https://auth0.com/blog/on-the-nature-of-oauth2-scopes/
+build	OAuth 2.0 delegated authorization limited scope app act on behalf user	5	https://developers.google.com/identity/protocols/oauth2
+build	OAuth 2.0 delegated authorization limited scope app act on behalf user	6	https://docs.secureauth.com/iam/blog/authenticate-client-application-using-oauth-2-0-token-exchange-on-behalf-of-delegation-flow
+build	OAuth 2.0 delegated authorization limited scope app act on behalf user	7	https://www.scottbrady.io/oauth/delegation-patterns-for-oauth-20
+build	OAuth 2.0 delegated authorization limited scope app act on behalf user	8	https://beyondthelogin.com/learn/giving-another-application-limited-access/
+build	OAuth 2.0 limited permissions small transfer on behalf of user best practices	1	https://developers.google.com/identity/protocols/oauth2/resources/best-practices
+build	OAuth 2.0 limited permissions small transfer on behalf of user best practices	2	https://developers.google.com/identity/protocols/oauth2/resources/granular-permissions
+build	OAuth 2.0 limited permissions small transfer on behalf of user best practices	3	https://www.rfc-editor.org/rfc/rfc9700.pdf
+build	OAuth 2.0 limited permissions small transfer on behalf of user best practices	4	https://www.rfc-editor.org/info/rfc6749/
+build	OAuth 2.0 limited permissions small transfer on behalf of user best practices	5	https://www.rfc-editor.org/rfc/rfc9396.html
+build	OAuth 2.0 limited permissions small transfer on behalf of user best practices	6	https://cheatsheetseries.owasp.org/cheatsheets/OAuth2_Cheat_Sheet.html
+build	OAuth 2.0 limited permissions small transfer on behalf of user best practices	7	https://developers.google.com/identity/protocols/oauth2
+build	OAuth 2.0 limited permissions small transfer on behalf of user best practices	8	https://auth0.com/blog/on-the-nature-of-oauth2-scopes/
+build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user	1	https://www.rfc-editor.org/rfc/rfc8693.pdf
+build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user	2	https://www.rfc-editor.org/rfc/rfc9396.html
+build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user	3	https://www.rfc-editor.org/rfc/rfc6749.html
+build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user	4	https://www.rfc-editor.org/info/rfc6749/
+build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user	5	https://auth0.com/blog/on-the-nature-of-oauth2-scopes/
+build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user	6	https://www.ietf.org/ietf-ftp/internet-drafts/draft-li-oauth-delegated-authorization-00.html
+build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user	7	https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow
+build	OAuth 2.0 scopes constrained delegation limited transfer on behalf of user	8	https://www.ietf.org/archive/id/draft-campbell-oauth-sts-01.pdf
+build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope	1	https://www.rfc-editor.org/rfc/rfc9396.html
+build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope	2	https://datatracker.ietf.org/doc/html/rfc8693
+build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope	3	https://neilmadden.blog/2020/09/09/macaroon-access-tokens-for-oauth-part-2-transactional-auth/
+build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope	4	https://medium.com/oauth-2/transaction-authorization-or-why-we-need-to-re-think-oauth-scopes-2326e2038948
+build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope	5	https://www.rfc-editor.org/rfc/rfc8693.pdf
+build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope	6	https://cheatsheetseries.owasp.org/cheatsheets/Transaction_Authorization_Cheat_Sheet.html
+build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope	7	https://speakerdeck.com/sylph01/oauth-transactional-authorization-at-ietf106
+build	OAuth 2.0 Transaction Authorization (TxAuth) RFC 8693 financial transactions user consent scope	8	https://www.rfc-editor.org/rfc/rfc6749.html
+build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026	1	https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow
+build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026	2	https://www.rfc-editor.org/info/rfc6749/
+build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026	3	https://learn.microsoft.com/en-us/graph/auth-v2-user
+build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026	4	https://learn.microsoft.com/en-us/entra/architecture/authorize-applications-resources-workloads
+build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026	5	https://developers.google.com/identity/protocols/oauth2
+build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026	6	https://www.ietf.org/archive/id/draft-oauth-ai-agents-on-behalf-of-user-00.html
+build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026	7	https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1
+build	OAuth2 limited scope delegation app act on behalf of user API authorization 2026	8	https://docs.pingidentity.com/pingoneaic/am-oauth2/token-exchange-delegation.html
+build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026	1	https://www.rfc-editor.org/rfc/rfc9396.html
+build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026	2	https://opentransact.org/
+build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026	3	https://datatracker.ietf.org/doc/html/draft-mishra-oauth-agent-grants-01
+build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026	4	https://openpayments.dev/identity/grants/
+build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026	5	https://protocol-explorer.dev/oauth2/rar
+build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026	6	https://developers.100pay.co/docs/oauth
+build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026	7	https://medium.com/@wojciechkotlowskii/fine-grained-consent-with-oauth-rich-authorization-requests-rar-72097fc02172
+build	OAuth delegated authorization limited scope small payment transfer on behalf of user 2026	8	https://developers.openai.com/commerce/specs/payment
+build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices	1	https://www.rfc-editor.org/rfc/rfc9700.pdf
+build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices	2	https://developers.google.com/identity/protocols/oauth2/resources/best-practices
+build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices	3	https://developers.google.com/identity/protocols/oauth2/resources/granular-permissions
+build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices	4	https://learn.microsoft.com/en-us/entra/identity-platform/permissions-consent-overview
+build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices	5	https://www.rfc-editor.org/rfc/rfc9396.html
+build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices	6	https://developers.google.com/identity/oauth2/web/guides/use-token-model
+build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices	7	https://oauthforagents.dev/scenarios/03-saying-what-it-will-do.html
+build	OAuth delegated permissions limited scopes act on behalf of user small transaction consent best practices	8	https://auth0.com/blog/on-the-nature-of-oauth2-scopes/
+build	OAuth scopes for limited actions like small money transfer on behalf of user	1	https://docs.cdp.coinbase.com/coinbase-business/authentication-authorization/oauth2/scopes
+build	OAuth scopes for limited actions like small money transfer on behalf of user	2	https://docs.busha.io/guides/oauth/scopes
+build	OAuth scopes for limited actions like small money transfer on behalf of user	3	https://docs.qonto.com/get-started/business-api/authentication/oauth/available-scopes
+build	OAuth scopes for limited actions like small money transfer on behalf of user	4	https://neilmadden.blog/2020/09/09/macaroon-access-tokens-for-oauth-part-2-transactional-auth/
+build	OAuth scopes for limited actions like small money transfer on behalf of user	5	https://docs.moov.io/api/authentication/scopes/index.md
+build	OAuth scopes for limited actions like small money transfer on behalf of user	6	https://developers.paysera.com/guides/wallet/user-information/scopes
+build	OAuth scopes for limited actions like small money transfer on behalf of user	7	https://developer.starlingbank.com/docs
+build	OAuth scopes for limited actions like small money transfer on behalf of user	8	https://www.rfc-editor.org/rfc/rfc9396.html
+build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development	1	https://team-race.gitbook.io/race-protocol/race-protocol/game-development
+build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development	2	https://chainscorelabs.com/integration/casino-management-systems/blockchain-integration-for-cashless-gaming-systems
+build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development	3	https://1ott.gitbook.io/1ott-guide/fund-architecture-and-security/how-rewards-are-stored-on-chain
+build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development	4	https://solanacasinobonuses.com/articles/crypto-casino-transparency-guide
+build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development	5	https://team-race.gitbook.io/race-protocol/race-protocol/game-development.md
+build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development	6	https://716selfiebuffalo.com/privacy-first-play-the-rise-of-no-kyc-crypto-casinos/
+build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development	7	https://mill-wiki.win/index.php/That_Moment_Changed_Everything:_Why_Casinos_Now_Prefer_Stablecoins_Over_Bitcoin
+build	"on-chain account" "player balance" game OR blockchain OR web3 OR crypto development	8	https://gbc-time.org/cryptocurrency/xrp-casinos-how-payments-via-ripple-actually-work/
+build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet	1	https://docs.fast.poker/architecture/state-accounts
+build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet	2	https://solana.com/developers/cookbook/games/saving-game-state
+build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet	3	https://github.com/ashbeech/moralis-phaser-demo/blob/main/src/contracts/P2EGame.sol
+build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet	4	https://docs.onbeam.com/chain/builder/accounts
+build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet	5	https://fungies.io/how-to-build-a-web3-play-to-earn-p2e-game-smart-contracts/
+build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet	6	https://ethglobal.com/showcase/knockout-kfnsx
+build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet	7	https://devlog.fusionist.io/posts/op-endurance-has-its-first-aa-wallet-up-wallet/
+build	on-chain player accounts and balances blockchain game 2026 account abstraction ERC-4337 per-player wallet	8	https://chainscorelabs.com/guides/decentralized-applications-dapps-and-platforms/account-abstraction-for-dapps/how-to-implement-account-abstraction-for-gaming-dapps
+build	OpenID Connect vs SAML for SSO across multiple web apps 2026	1	https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/saml-vs-oidc-decision-guide
+build	OpenID Connect vs SAML for SSO across multiple web apps 2026	2	https://clerk.com/articles/oidc-vs-saml-for-enterprise-sso-a-2026-decision-guide
+build	OpenID Connect vs SAML for SSO across multiple web apps 2026	3	https://auth0.com/intro-to-iam/saml-vs-openid-connect-oidc
+build	OpenID Connect vs SAML for SSO across multiple web apps 2026	4	https://developer.overheid.nl/blog/2026/02/11/oidc-voor-nederlanse-identiteitsdiensten
+build	OpenID Connect vs SAML for SSO across multiple web apps 2026	5	https://skycloak.io/blog/saml-vs-oidc-when-to-use-which/
+build	OpenID Connect vs SAML for SSO across multiple web apps 2026	6	https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/
+build	OpenID Connect vs SAML for SSO across multiple web apps 2026	7	https://www.securecodinghub.com/blog/oidc-saml-oauth2-developer-comparison
+build	OpenID Connect vs SAML for SSO across multiple web apps 2026	8	https://skycloak.io/blog/sso-implementation-guide-developers/
+build	passkey embedded wallet Privy Dynamic account abstraction onboarding users	1	https://docs.privy.io/recipes/account-abstraction/custom-implementation
+build	passkey embedded wallet Privy Dynamic account abstraction onboarding users	2	https://docs.dynamic.xyz/react-sdk/hooks/useembeddedwallet
+build	passkey embedded wallet Privy Dynamic account abstraction onboarding users	3	https://www.dynamic.xyz/blog/embedded-wallets-with-passkeys
+build	passkey embedded wallet Privy Dynamic account abstraction onboarding users	4	https://docs.privy.io/authentication/user-authentication/mfa/enrollment/passkeys
+build	passkey embedded wallet Privy Dynamic account abstraction onboarding users	5	https://www.privy.io/onboarding
+build	passkey embedded wallet Privy Dynamic account abstraction onboarding users	6	https://www.privy.io/user-wallets
+build	passkey embedded wallet Privy Dynamic account abstraction onboarding users	7	https://docs.privy.io/basics/key-concepts
+build	passkey embedded wallet Privy Dynamic account abstraction onboarding users	8	https://privy.io/blog/how-privy-embedded-wallets-work
+build	paymaster gas sponsorship smart account	1	https://docs.cdp.coinbase.com/paymaster/guides/quickstart
+build	paymaster gas sponsorship smart account	2	https://www.alchemy.com/docs/wallets/transactions/sponsor-gas.md
+build	paymaster gas sponsorship smart account	3	https://docs.cdp.coinbase.com/paymaster/introduction/quickstart
+build	paymaster gas sponsorship smart account	4	https://docs.metamask.io/smart-accounts-kit/guides/smart-accounts/send-gasless-transaction/
+build	paymaster gas sponsorship smart account	5	https://docs.zerodev.app/smart-accounts/sponsor-gas/evm
+build	paymaster gas sponsorship smart account	6	https://docs.openzeppelin.com/community-contracts/paymasters
+build	paymaster gas sponsorship smart account	7	https://docs.cdp.coinbase.com/wallets/using-wallets/smart-accounts
+build	paymaster gas sponsorship smart account	8	https://docs.startale.com/aa-sdk/tutorials/sponsored-tx
+build	permissionless.js pimlico gas sponsorship example github 2026	1	https://github.com/pimlicolabs/permissionless.js/
+build	permissionless.js pimlico gas sponsorship example github 2026	2	https://github.com/privy-io/permissionless-example
+build	permissionless.js pimlico gas sponsorship example github 2026	3	https://docs.pimlico.io/guides/tutorials/tutorial-1
+build	permissionless.js pimlico gas sponsorship example github 2026	4	https://docs.sei.io/evm/cookbook/sponsor-gas-with-pimlico
+build	permissionless.js pimlico gas sponsorship example github 2026	5	https://docs.pimlico.io/guides/how-to/sponsorship-policies
+build	permissionless.js pimlico gas sponsorship example github 2026	6	https://github.com/pimlicolabs/permissionless-privy-7702/
+build	permissionless.js pimlico gas sponsorship example github 2026	7	https://docs.pimlico.io/references/permissionless/tutorial/tutorial-1
+build	permissionless.js pimlico gas sponsorship example github 2026	8	https://www.pimlico.io/products/gas-sponsorship
+build	Privy quickstart Next.js email login 2026	1	https://docs.privy.io/basics/react/quickstart
+build	Privy quickstart Next.js email login 2026	2	https://docs.privy.io/authentication/user-authentication/login-methods/email
+build	Privy quickstart Next.js email login 2026	3	https://docs.privy.io/basics/react/setup
+build	Privy quickstart Next.js email login 2026	4	https://github.com/privy-io/examples/tree/main/privy-next-starter
+build	Privy quickstart Next.js email login 2026	5	https://docs.privy.io/authentication/user-authentication/whitelabel
+build	Privy quickstart Next.js email login 2026	6	https://github.com/privy-io/examples/blob/12ccd18c/privy-next-starter/README.md
+build	Privy quickstart Next.js email login 2026	7	https://docs.privy.io/authentication/user-authentication/ui-component
+build	Privy quickstart Next.js email login 2026	8	https://docs.privy.io/authentication/user-authentication/privy-auth
+build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet	1	https://docs.magic.link/embedded-wallets/authentication/customization/login-ui
+build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet	2	https://docs.metamask.io/embedded-wallets/authentication/
+build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet	3	https://steyble.com/blog/embedded-wallets-2026-comparison
+build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet	4	https://www.spark.money/tools/crypto-embedded-wallet-comparison
+build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet	5	https://www.chainscorelabs.com/en/guides/web3-ux-account-abstraction-on-off-ramps-etc/wallet-and-dapp-connectivity/how-to-implement-social-login-for-web3-wallets
+build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet	6	https://docs.pimlico.io/guides/how-to/signers/social-logins
+build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet	7	https://blog.web3auth.io/waas-wallet-comparison/
+build	Privy vs Magic.link vs Web3Auth email login dapp embedded wallet	8	https://www.openfort.io/blog/best-wallet-authentication-providers
+build	Privy vs Web3Auth email login dapp 2026 comparison	1	https://docs.privy.io/authentication/overview
+build	Privy vs Web3Auth email login dapp 2026 comparison	2	https://dappatlas.com/best/wallet-sdks/
+build	Privy vs Web3Auth email login dapp 2026 comparison	3	https://truetech.dev/blockchain-development/services/wallet/web3-social-login-system.html
+build	Privy vs Web3Auth email login dapp 2026 comparison	4	https://apidog.com/blog/best-crypto-wallet-api/
+build	Privy vs Web3Auth email login dapp 2026 comparison	5	https://www.fluidrwa.com/blog/privy-vs-dynamic-vs-web3auth-wallet-onboarding
+build	Privy vs Web3Auth email login dapp 2026 comparison	6	https://www.rfp.wiki/crypto/custody-security/crypto-wallets-custody/privy/web3auth
+build	Privy vs Web3Auth email login dapp 2026 comparison	7	https://www.openfort.io/blog/best-wallet-authentication-providers
+build	Privy vs Web3Auth email login dapp 2026 comparison	8	https://costbench.com/compare/privy-vs-web3auth/
+build	public Sepolia RPC URL 2026 reliable	1	https://dappatlas.com/rpc/sepolia/
+build	public Sepolia RPC URL 2026 reliable	2	https://ethereum.publicnode.com/?sepolia=
+build	public Sepolia RPC URL 2026 reliable	3	https://onfinality.io/en/rpc-assistant/sepolia-ethereum-rpc
+build	public Sepolia RPC URL 2026 reliable	4	https://sepolia.dev/
+build	public Sepolia RPC URL 2026 reliable	5	https://chainlist.org/chain/11155111
+build	public Sepolia RPC URL 2026 reliable	6	https://thirdweb.com/sepolia
+build	public Sepolia RPC URL 2026 reliable	7	https://docs.orionfinance.ai/user/getting_started/getting-eth-sepolia
+build	public Sepolia RPC URL 2026 reliable	8	https://dappatlas.com/rpc/
+build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026	1	https://codeforgeek.com/blockchain-platforms-to-build-dapps/
+build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026	2	https://docs.massa.net/docs/build/hello-world-dapp
+build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026	3	https://docs.somnia.network/developer/building-dapps/data-indexing-and-querying/listening-to-blockchain-events-websocket
+build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026	4	https://flow.com/post/how-to-build-a-web3-app-on-flow
+build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026	5	https://www.techtarget.com/it-strategy/tip/Top-9-smart-contract-platforms-to-consider-in-2026
+build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026	6	https://www.qie.digital/best-blockchain-for-dapp-development
+build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026	7	https://doi.org/10.1109/icoecit68303.2026.11496748
+build	recommended blockchain platforms for simple on-chain apps like greeting contract 2026	8	https://www.astconsulting.in/blog/blockchain/build-first-decentralized-application-public-blockchain-bbb
+build	scoped API tokens limited permissions user delegation	1	https://shopify.dev/docs/apps/build/authentication-authorization/delegate-api-access
+build	scoped API tokens limited permissions user delegation	2	https://auth0.com/docs/secure/call-apis-on-users-behalf/on-behalf-of-token-exchange
+build	scoped API tokens limited permissions user delegation	3	https://learn.microsoft.com/en-us/entra/identity-platform/delegated-access-primer
+build	scoped API tokens limited permissions user delegation	4	https://docs.deploys.app/access/scoped-tokens/
+build	scoped API tokens limited permissions user delegation	5	https://auth0.com/docs/api/authentication/on-behalf-of-token-exchange/get-token
+build	scoped API tokens limited permissions user delegation	6	https://developers.google.com/identity/oauth2/web/guides/use-token-model
+build	scoped API tokens limited permissions user delegation	7	https://docs.redhat.com/en/documentation/openshift_dedicated/4/html/authentication_and_authorization/tokens-scoping
+build	scoped API tokens limited permissions user delegation	8	https://contextforge-org.github.io/cpex/docs/tutorial/06-delegation/
+build	Sepolia testnet faucet 2026 free ETH	0	ERROR HTTP Error 429: Too Many Requests
+build	simple dapp solidity contract user data mapping frontend scaffold eth 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	simple dapp solidity store user data react ethers wagmi	0	ERROR HTTP Error 429: Too Many Requests
+build	simple dapp tutorial 2026 store data per user smart contract frontend ethers hardhat	0	ERROR HTTP Error 429: Too Many Requests
+build	simple ethereum dapp tutorial store user data solidity 2024 OR 2025 OR 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	simple ethereum dapp tutorial wagmi viem react store user data smart contract	0	ERROR HTTP Error 429: Too Many Requests
+build	single sign-on implementation options OAuth2 OIDC SAML centralized auth for multiple apps	0	ERROR HTTP Error 429: Too Many Requests
+build	single sign-on SSO across multiple apps best practices 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	single sign-on SSO architecture multiple apps shared identity 2026 best practices OIDC	0	ERROR HTTP Error 429: Too Many Requests
+build	single sign on SSO for multiple apps shared user accounts 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	single sign-on SSO OIDC OAuth 2.0 OpenID Connect multiple applications identity provider	0	ERROR HTTP Error 429: Too Many Requests
+build	Single Sign On SSO protocols architecture OpenID Connect SAML OAuth 2.0	0	ERROR HTTP Error 429: Too Many Requests
+build	single sign-on SSO shared login across multiple applications ecosystem best practices 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	smart account provisioning for all app users without wallet extension passkeys embedded wallet	0	ERROR HTTP Error 429: Too Many Requests
+build	Solana game on-chain player account balance PDA Anchor per-player account 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	Solana game player account balance PDA Anchor program pattern 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	Solana game player account PDA balance program derived address	0	ERROR HTTP Error 429: Too Many Requests
+build	Solana or Ethereum on-chain accounts for players in games per player wallet balance 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	Solana per-player PDA account balance anchor game program	0	ERROR HTTP Error 429: Too Many Requests
+build	Solana vs account abstraction per user wallet game onboarding embedded wallets 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	Solidity contract mapping address uint256 balance	0	ERROR HTTP Error 429: Too Many Requests
+build	solidity mapping address balance contract example	0	ERROR HTTP Error 429: Too Many Requests
+build	Solidity smart contract track user balances best practices security 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	Solidity smart contract tutorial simple storage contract 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	Solidity smart contract user balances deposit withdraw example Hardhat Foundry	0	ERROR HTTP Error 429: Too Many Requests
+build	Solidity smart contract user balances Hardhat deployment steps	0	ERROR HTTP Error 429: Too Many Requests
+build	solidity user profile storage dapp example	0	ERROR HTTP Error 429: Too Many Requests
+build	Spring Boot 3.5 best practices REST CRUD API project setup 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	Spring Boot simple frontend serving static HTML JS Thymeleaf vs REST best practice	0	ERROR HTTP Error 429: Too Many Requests
+build	SSO central identity provider Keycloak Auth0 Ory Zitadel comparison	0	ERROR HTTP Error 429: Too Many Requests
+build	SSO Single Sign-On OpenID Connect architecture	0	ERROR HTTP Error 429: Too Many Requests
+build	Web3Auth Privy email login dapp tutorial	0	ERROR HTTP Error 429: Too Many Requests
+build	Web3 email authentication dapp 2026 Magic.link Web3Auth best practice	0	ERROR HTTP Error 429: Too Many Requests
+build	Web3 email authentication Magic Link Privy Dynamic wallet as a service 2026	0	ERROR HTTP Error 429: Too Many Requests
+build	web3 game each player own wallet account on-chain balance best practices Solana Ethereum 2026	0	ERROR HTTP Error 429: Too Many Requests

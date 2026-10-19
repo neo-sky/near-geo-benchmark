@@ -1,0 +1,11 @@
+{
+  "name": "near",
+  "version": "0.1.0",
+  "description": "Skills and MCP servers for building on NEAR: move tokens across chains and accept payments in any token with NEAR Intents, run private verifiable inference on NEAR AI Cloud, hire and pay agents on NEAR Agent Market, and build NEAR accounts and contracts.",
+  "author": {
+    "name": "NEAR"
+  },
+  "homepage": "https://docs.near.org",
+  "repository": "https://github.com/near/agent-skills",
+  "keywords": ["near", "near-intents", "cross-chain", "payments", "usdc", "private-inference", "agents", "x402"]
+}

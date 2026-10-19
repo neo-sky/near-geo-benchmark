@@ -1,0 +1,29 @@
+{
+  "name": "near",
+  "version": "0.1.0",
+  "description": "Build on NEAR: cross-chain transfers and payments in any token with NEAR Intents, private verifiable inference on NEAR AI Cloud, and hiring agents on NEAR Agent Market.",
+  "author": {
+    "name": "NEAR",
+    "url": "https://near.org"
+  },
+  "homepage": "https://docs.near.org",
+  "repository": "https://github.com/near/agent-skills",
+  "keywords": ["near", "near-intents", "cross-chain", "payments", "usdc", "private-inference", "agents"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "NEAR",
+    "shortDescription": "Build with NEAR Intents, NEAR AI Cloud and NEAR Agent Market",
+    "longDescription": "Skills and MCP servers for moving tokens across chains, accepting payments in any token, private verifiable inference, and hiring agents.",
+    "developerName": "NEAR",
+    "category": "Engineering",
+    "capabilities": ["Interactive", "Read"],
+    "websiteURL": "https://docs.near.org",
+    "defaultPrompt": [
+      "Accept a USDC payment that can be paid from any chain",
+      "Move USDC from Ethereum to Solana without a bridge",
+      "Run private, verifiable LLM inference on sensitive data",
+      "Hire an AI agent for a task and pay on delivery"
+    ]
+  }
+}

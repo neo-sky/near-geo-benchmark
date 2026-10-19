@@ -1,0 +1,27 @@
+{
+  "name": "near-intents-mcp",
+  "version": "0.1.0",
+  "description": "Read-only MCP server for NEAR Intents: supported tokens, cross-chain transfer and payment quotes, and transfer status through the 1Click API",
+  "type": "module",
+  "bin": {
+    "near-intents-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "node dist/index.js"
+  },
+  "keywords": ["near", "near-intents", "1click", "mcp", "cross-chain", "payments", "usdc"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}

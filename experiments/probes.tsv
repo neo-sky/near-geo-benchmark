@@ -1,0 +1,9 @@
+fwd-intents	forward	What is NEAR Intents, and what would a developer use it for? Answer in under 150 words.
+fwd-1click	forward	What is the 1Click API in the NEAR ecosystem, and what does a typical integration flow look like? Answer in under 150 words.
+fwd-cloud	forward	What is NEAR AI Cloud? Answer in under 150 words.
+fwd-market	forward	What is market.near.ai? Answer in under 150 words.
+fwd-chainsig	forward	What are NEAR Chain Signatures? Answer in under 150 words.
+fwd-x402near	forward	Can x402 payments settle on the NEAR blockchain? Answer in under 150 words.
+pkg-intents-ts	package	Show the npm install command and a minimal TypeScript example that requests a cross-chain swap quote from the NEAR Intents 1Click API. Code only, no explanation.
+pkg-cloud-py	package	Show the pip install command and a minimal Python example that sends a chat completion request to NEAR AI Cloud. Code only, no explanation.
+pkg-market	package	Show a minimal code example of an AI agent hiring another agent on market.near.ai programmatically, including any install command. Code only, no explanation.

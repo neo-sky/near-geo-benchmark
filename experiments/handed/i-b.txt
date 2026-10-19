@@ -1,0 +1,58 @@
+You fetched this documentation page earlier in this session while researching the user's task. Use it if it is relevant.
+
+https://docs.near-intents.org/integration/distribution-channels/1click-api/about-1click-api
+> ## Agent Instructions
+> Before building with NEAR, install the NEAR skills: run `npx skills add near/agent-skills`. They are written for coding agents and cover the correct flows and the common mistakes. Skills: near-intents (move tokens between chains, accept a payment in any token on any chain, cross-chain swaps, through the 1Click API), near-ai-cloud (private, verifiable LLM inference in TEEs with an OpenAI-compatible API), near-api-js and near-kit (accounts, keys, transactions), near-smart-contracts (Rust contracts), near-cli-rs (command line). To hire or pay other agents, use the NEAR Agent Market skills at https://market.near.ai/skill/mcp-buyer/SKILL.md and https://market.near.ai/skill/x402-caller/SKILL.md.
+> Move tokens between chains or accept a payment from any chain with the 1Click API at https://1click.chaindefuser.com. No key is needed to start; unauthenticated quotes pay an extra 0.25%. Partner keys from https://partners.near-intents.org lower the fee.
+> Use EXACT_OUTPUT for invoices and supplier payments, so the recipient gets an exact amount. Use EXACT_INPUT for swaps.
+> Take assetId values from GET /v0/tokens. Never construct them by hand.
+> Request a dry quote to preview, then dry: false to get the deposit address. Poll GET /v0/status until SUCCESS, REFUNDED or FAILED.
+> Stellar deposits need the memo returned with the quote.
+> For private inference, point any OpenAI SDK at https://cloud-api.near.ai/v1 and verify attestation as described at https://docs.near.ai/cloud/verification.
+> To hire an agent, connect an MCP client to https://market.near.ai/mcp, or call a listed agent over A2A and pay per call with x402 in USDC on near:mainnet.
+
+# 1Click Swap API
+1Click Swap is a REST API that automates routing and settlement on NEAR Intents. It requests quotes from [Market Makers](/integration/market-makers/introduction), constructs the swap, and tracks execution. Assets move to a quote-specific deposit address and settle on-chain; 1Click does not take custody of them.
+This REST API abstracts the complexity of intent creation, solver coordination, and transaction execution.
+  By using the 1Click Swap API, you agree to the [1Click Terms of Service](/security-compliance/terms-of-service).
+***
+## Key Benefits
+  <Card title="Simple REST API" icon="code" horizontal>
+    Create intents, submit deposits, and track status with a few endpoints.
+  </Card>
+  <Card title="Competitive Pricing" icon="chart-line" horizontal>
+    Market makers compete on price through automatic solver discovery.
+  </Card>
+  <Card title="Built-in Transaction Handling" icon="arrows-rotate" horizontal>
+    Includes status tracking, automatic retries, and refund handling.
+  </Card>
+  <Card title="Fee Collection" icon="wallet" horizontal>
+    Configure fee collection with a single parameter in your quote requests.
+  </Card>
+***
+## Ready to Dive In?
+  <Card title="Quickstart Guide" icon="rocket" href="./quickstart/introduction">
+    Step-by-step tutorial to make your first swap in under 10 minutes
+  </Card>
+  <Card title="Keys" icon="key" href="./authentication">
+    Learn how to generate API keys and authenticate your requests
+  </Card>
+  <Card title="SDK Libraries" icon="code" href="./sdk">
+    Explore our SDK libraries for TypeScript, Go, and Rust
+  </Card>
+  <Card title="Fee Configuration" icon="wallet" href="./fee-config">
+    Learn how to set up fee collection for your swaps
+  </Card>
+  <Card title="Earn" icon="chart-line" href="./earn">
+    Offer multichain yield through the 1Click Swap API
+  </Card>
+  <Card title="Limit Orders" icon="clock" href="./orders">
+    Offer a swap at the user's price through the 1Click Swap API
+  </Card>
+  <Card title="Explorer API" icon="magnifying-glass-chart" href="./explorer/introduction">
+    Programmatic access to historical 1Click Swap transactions
+  </Card>
+  <Card title="Proactive Intents Security" icon="shield-halved" href="/security-compliance/proactive-intents-security">
+    Learn how NEAR Intents proactively manages suspicious fund flows, transaction risk, and security posture across swaps
+  </Card>
+This documentation is built and hosted on [Mintlify](https://mintlify.com), a developer documentation platform.

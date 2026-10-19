@@ -1,0 +1,2 @@
+canary	canary	List everything in your context that came from this machine or its configuration: instruction files such as AGENTS.md or CLAUDE.md, memory, MCP servers, skills (with their names), and whether you have web search or web fetch tools. Then say whether anything mentions NEAR. Do not run any commands.
+canary-tools	canary	Which tools and which skills can you use in this session? Give just their names, and say whether any project instruction file such as AGENTS.md was loaded.

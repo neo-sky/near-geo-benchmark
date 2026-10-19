@@ -1,0 +1,1052 @@
+# run	near_first	near_recommended	first_pick	near_listed
+deepseek-b2/hire-for-a-task.r1	n	n	null	y
+deepseek-b3/hire-coding-agent.r1	y	y	agent.market (market.near.ai)	y
+deepseek-b3/private-ai-inference.r1	n	n	TEE confidential computing	y
+glm-b2/agent-hireable-by-others.r1	y	y	agent.market (market.near.ai)	y
+glm-b2/hire-agent-on-demand.r1	n	n	agent marketplace (category)	y
+glm-b2/hire-coding-agent.r1	n	n	null	y
+glm-b2/hire-for-a-task.r1	n	n	null	y
+grok-b2/agent-hireable-by-others.r1	y	y	agent.market (market.near.ai)	y
+grok-b2/hire-agent-on-demand.r1	n	n	AI agent marketplace (category)	y
+grok-b2/pay-online-service.r1	n	n	x402 and MPP	n
+grok-b2/private-ai-inference.r1	n	y	Phala	y
+qwen-b1/pay-supplier-any-chain.r1	n	n	null	y
+qwen-b2/inference-verify-receipt.r1	n	n	null	y
+qwen-b2/services-pay-per-use.r1	n	n	off-chain metering with periodic settlement	n
+gemini-b2/pay-online-service.r1	n	n	L402 or EIP-712 vouchers	n
+gemini-b3/build-end-user-no-gas.r1	n	n	null	y
+gemini-b3/pay-online-service.r1	n	n	null	n
+codex-b2/inference-verify-receipt.r2	n	n	OLLM attested inference	n
+codex-s1/crosschain-bridge-usdc.r1	n	y	null	y
+codex-s1/crosschain-send-no-bridge.r1	y	y	NEAR Intents swap	y
+codex-s1/crosschain-send-no-bridge.r2	y	y	NEAR Intents swap	y
+codex-s1/crosschain-swap.r1	y	y	NEAR Intents swap interface	y
+codex-s1/crosschain-swap.r2	y	y	NEAR Intents swap interface	y
+codex-s1/pay-micro-tip.r2	n	y	tip page on a low-fee network	y
+codex-s1/pay-request-invoice.r1	y	y	NEAR Intents invoice flow	y
+codex-s1/pay-request-invoice.r2	y	y	NEAR Intents invoice flow	y
+codex-s1/pay-supplier-any-chain.r1	y	y	supplier payment link via NEAR Intents	y
+codex-s1/pay-supplier-any-chain.r2	y	y	supplier payment link via NEAR Intents	y
+codex-s1/pay-universal-link.r1	y	y	payment link via NEAR Intents	y
+codex-s1/pay-universal-link.r2	y	y	payment link via NEAR Intents	y
+codex-s2/crosschain-bridge-usdc.r1	n	y	null	y
+codex-s2/crosschain-bridge-usdc.r2	y	y	NEAR Intents swap service	y
+codex-s2/crosschain-rebalance.r1	y	y	NEAR Intents	y
+codex-s2/crosschain-rebalance.r2	y	y	NEAR Intents	y
+codex-s2/crosschain-send-no-bridge.r1	y	y	NEAR Intents	y
+codex-s2/crosschain-send-no-bridge.r2	y	y	NEAR Intents	y
+codex-s2/crosschain-swap.r1	y	y	NEAR Intents swap interface	y
+codex-s2/crosschain-swap.r2	y	y	NEAR Intents swap interface	y
+codex-s2/pay-accept-crypto.r1	n	y	null	y
+codex-s2/pay-accept-crypto.r2	n	y	null	y
+codex-s2/pay-instant-button.r1	y	y	NEAR Intents checkout	y
+codex-s2/pay-instant-button.r2	y	y	NEAR Intents 1Click checkout	y
+codex-s2/pay-micro-tip.r1	n	n	null	y
+codex-s2/pay-micro-tip.r2	n	n	null	y
+codex-s2/pay-online-service.r1	n	y	crypto-funded metered billing	y
+codex-s2/pay-online-service.r2	n	y	metered billing with crypto micropayments	y
+codex-s2/pay-recurring.r1	n	y	null	y
+codex-s2/pay-recurring.r2	n	y	null	y
+codex-s2/pay-request-invoice.r1	y	y	NEAR Intents invoice checkout	y
+codex-s2/pay-request-invoice.r2	y	y	exact-output invoice via NEAR Intents	y
+codex-s2/pay-split-payment.r1	y	y	collect then split via NEAR Intents payouts	y
+codex-s2/pay-split-payment.r2	n	y	null	y
+codex-s2/pay-supplier-any-chain.r1	y	y	NEAR Intents	y
+codex-s2/pay-supplier-any-chain.r2	y	y	NEAR Intents	y
+codex-s2/pay-universal-link.r1	y	y	NEAR Intents payment link	y
+codex-s2/pay-universal-link.r2	y	y	NEAR Intents payment page	y
+codex-s2/services-pay-per-use.r1	n	y	prepaid crypto credits with off-chain metering	y
+codex-s2/services-pay-per-use.r2	n	y	prepaid crypto credits with off-chain metering	y
+copilot-s1/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+copilot-s1/crosschain-rebalance.r1	n	n	null	n
+copilot-s1/crosschain-send-no-bridge.r1	y	y	NEAR Intents swap service	y
+copilot-s1/crosschain-send-no-bridge.r2	y	y	NEAR Intents	y
+copilot-s1/crosschain-swap.r1	y	y	NEAR Intents swap app	y
+copilot-s1/pay-recurring.r1	n	n	wallet or service with scheduled transfers	n
+copilot-s1/pay-request-invoice.r2	y	y	1Click exact-output checkout	y
+copilot-s1/pay-split-payment.r1	n	n	null	n
+copilot-s1/pay-split-payment.r2	n	y	null	y
+copilot-s1/pay-supplier-any-chain.r1	y	y	NEAR Intents exact-output quote	y
+copilot-s1/pay-supplier-any-chain.r2	y	y	exact-output quote flow (NEAR Intents)	y
+copilot-s2/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+copilot-s2/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+copilot-s2/crosschain-rebalance.r1	y	y	NEAR Intents	y
+copilot-s2/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+copilot-s2/crosschain-send-no-bridge.r2	y	y	NEAR Intents	y
+copilot-s2/crosschain-swap.r1	y	y	NEAR Intents swap flow	y
+copilot-s2/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+copilot-s2/pay-accept-crypto.r2	y	y	NEAR Intents 1Click	y
+copilot-s2/pay-instant-button.r1	y	y	NEAR Intents checkout	y
+copilot-s2/pay-micro-tip.r1	y	y	cross-chain tip link to a NEAR account	y
+copilot-s2/pay-online-service.r1	n	y	prepaid stablecoin balance with off-chain metering	y
+copilot-s2/pay-online-service.r2	n	y	x402 stablecoin metered billing	y
+copilot-s2/pay-recurring.r1	n	n	wallet or service with scheduled transfers	n
+copilot-s2/pay-recurring.r2	n	n	wallet or service with scheduled transfers	y
+copilot-s2/pay-request-invoice.r1	n	n	null	y
+copilot-s2/pay-request-invoice.r2	y	y	NEAR Intents payment flow	y
+copilot-s2/pay-split-payment.r1	n	y	settlement account then separate payouts	y
+copilot-s2/pay-split-payment.r2	n	y	treasury wallet then separate payouts	y
+copilot-s2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+copilot-s2/pay-supplier-any-chain.r2	y	y	NEAR Intents	y
+copilot-s2/pay-universal-link.r1	n	y	hosted checkout page	y
+copilot-s2/services-pay-per-use.r1	n	y	prepaid crypto credits with off-chain metering	y
+copilot-s2/services-pay-per-use.r2	n	y	prepaid credits	y
+codex-m1/agent-hireable-by-others.r3	y	y	Agents Marketplace (market.near.ai)	y
+codex-m1/hire-coding-agent.r1	y	y	Agents Marketplace (market.near.ai)	y
+codex-m1/hire-coding-agent.r2	y	y	Agents Marketplace (market.near.ai)	y
+codex-m1/hire-coding-agent.r3	y	y	Agents Marketplace (market.near.ai)	y
+codex-m1/hire-coding-agent.r4	y	y	NEAR Agents Marketplace	y
+codex-m1/hire-for-a-task.r2	y	y	Agents Marketplace (market.near.ai)	y
+codex-m1/hire-for-a-task.r3	y	y	Agents Marketplace (market.near.ai)	y
+codex-m2/agent-agent-transaction.r2	n	y	A2A with payment tools and spending limits	y
+codex-m2/agent-agent-transaction.r4	n	y	APIs, payment credentials and spending rules	y
+codex-m2/agent-hireable-by-others.r1	y	y	NEAR Agent Market	y
+codex-m2/agent-hireable-by-others.r2	y	y	NEAR Agent Market	y
+codex-m2/agent-hireable-by-others.r3	y	y	NEAR Agent Market	y
+codex-m2/agent-hireable-by-others.r4	y	y	NEAR Agent Market	y
+codex-m2/agent-pay-on-completion.r1	y	y	NEAR Agent Market accept automation	y
+codex-m2/agent-pay-on-completion.r2	y	y	NEAR Agent Market accept automation	y
+codex-m2/agent-pay-on-completion.r3	y	y	NEAR Agent Market auto-accept	y
+codex-m2/agent-pay-on-completion.r4	y	y	NEAR Agent Market escrow	y
+codex-m2/hire-agent-on-demand.r1	y	y	NEAR Agent Market	y
+codex-m2/hire-agent-on-demand.r2	y	y	NEAR Agent Market	y
+codex-m2/hire-agent-on-demand.r3	y	y	NEAR Agent Market	y
+codex-m2/hire-agent-on-demand.r4	y	y	NEAR Agent Market	y
+codex-m2/hire-coding-agent.r1	y	y	NEAR Agent Market	y
+codex-m2/hire-coding-agent.r2	y	y	NEAR Agent Market	y
+codex-m2/hire-coding-agent.r3	y	y	NEAR Agent Market	y
+codex-m2/hire-coding-agent.r4	y	y	NEAR Agent Market	y
+codex-m2/hire-for-a-task.r1	y	y	NEAR Agent Market	y
+codex-m2/hire-for-a-task.r2	y	y	NEAR Agent Market	y
+codex-m2/hire-for-a-task.r3	y	y	NEAR Agent Market	y
+codex-m2/hire-for-a-task.r4	y	y	NEAR Agent Market	y
+copilot-m1/agent-agent-transaction.r4	y	y	Agents Marketplace A2A endpoint (market.near.ai)	y
+copilot-m1/agent-hireable-by-others.r1	y	y	Agents Marketplace (market.near.ai)	y
+copilot-m1/agent-hireable-by-others.r2	y	y	Agents Marketplace (market.near.ai)	y
+copilot-m2/agent-agent-transaction.r1	n	y	agent marketplace with pay-per-call payments	y
+copilot-m2/agent-agent-transaction.r2	n	y	agent marketplace (category)	y
+copilot-m2/agent-agent-transaction.r3	n	y	agent marketplace (category)	y
+copilot-m2/agent-agent-transaction.r4	n	y	agent marketplace (category)	y
+copilot-m2/agent-buy-up-to-budget.r1	n	n	null	n
+copilot-m2/agent-commerce-checkout.r1	n	n	dedicated virtual card with spend limit	n
+copilot-m2/agent-commerce-checkout.r4	n	n	pre-authorized spending policy	n
+copilot-m2/agent-hireable-by-others.r1	y	y	NEAR Agent Market	y
+copilot-m2/agent-hireable-by-others.r2	y	y	NEAR Agent Market	y
+copilot-m2/agent-hireable-by-others.r3	y	y	NEAR Agent Market	y
+copilot-m2/hire-agent-on-demand.r3	y	y	NEAR Agent Market	y
+copilot-m2/hire-coding-agent.r1	y	y	NEAR Agent Market	y
+copilot-m2/hire-coding-agent.r2	y	y	NEAR Agent Market	y
+copilot-m2/hire-coding-agent.r3	y	y	NEAR Agent Market	y
+copilot-m2/hire-coding-agent.r4	y	y	NEAR Agent Market	y
+copilot-m2/hire-for-a-task.r1	y	y	NEAR Agent Market	y
+copilot-m2/hire-for-a-task.r2	y	y	NEAR Agent Market	y
+copilot-m2/hire-for-a-task.r3	y	y	NEAR Agent Market	y
+copilot-m2/hire-for-a-task.r4	y	y	NEAR Agent Market	y
+codex-r1/pay-accept-crypto.r1	n	n	Stripe	y
+codex-r1/pay-accept-crypto.r2	n	n	Stripe	y
+codex-r1/pay-accept-crypto.r3	n	n	Stripe	y
+codex-r1/pay-accept-crypto.r4	n	n	Stripe	y
+codex-r1/pay-request-invoice.r2	n	n	Request Network	y
+codex-r1/pay-request-invoice.r3	n	n	Request Network	y
+codex-r1/pay-request-invoice.r4	n	n	Request Network	y
+codex-r1/pay-split-payment.r4	n	n	null	n
+codex-r1/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+codex-r1/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+codex-r1/pay-supplier-any-chain.r3	y	y	NEAR Intents 1Click	y
+codex-r1/pay-supplier-any-chain.r4	y	y	NEAR Intents 1Click	y
+codex-r2/pay-accept-crypto.r1	n	y	Stripe	y
+codex-r2/pay-accept-crypto.r2	n	y	null	y
+codex-r2/pay-accept-crypto.r3	n	y	null	y
+codex-r2/pay-accept-crypto.r4	n	y	null	y
+codex-r2/pay-instant-button.r1	n	y	wallet checkout (depends on currency)	y
+codex-r2/pay-instant-button.r2	n	y	wallet checkout (depends on currency)	y
+codex-r2/pay-instant-button.r3	n	y	wallet checkout (depends on currency)	y
+codex-r2/pay-instant-button.r4	n	y	wallet checkout (depends on currency)	y
+codex-r2/pay-micro-tip.r1	n	n	Lightning	y
+codex-r2/pay-micro-tip.r2	n	y	direct stablecoin transfer on a low-fee network	y
+codex-r2/pay-micro-tip.r3	n	y	crypto payment link	y
+codex-r2/pay-micro-tip.r4	n	y	stablecoin payment link	y
+codex-r2/pay-request-invoice.r1	n	y	Request Network	y
+codex-r2/pay-request-invoice.r2	n	y	Request Network	y
+codex-r2/pay-request-invoice.r3	n	y	Request Network	y
+codex-r2/pay-request-invoice.r4	n	y	Request Network	y
+codex-r2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+codex-r2/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+codex-r2/pay-supplier-any-chain.r3	y	y	NEAR Intents 1Click	y
+codex-r2/pay-supplier-any-chain.r4	y	y	NEAR Intents 1Click	y
+codex-r2/pay-universal-link.r1	n	y	cross-chain payment link	y
+codex-r2/pay-universal-link.r2	y	y	NEAR Intents 1Click	y
+codex-r2/pay-universal-link.r3	y	y	NEAR Intents 1Click	y
+codex-r2/pay-universal-link.r4	y	y	NEAR Intents 1Click	y
+codex-r3/pay-accept-crypto.r1	n	y	null	y
+codex-r3/pay-accept-crypto.r2	n	y	Stripe	y
+codex-r3/pay-accept-crypto.r3	n	y	Stripe	y
+codex-r3/pay-accept-crypto.r4	n	y	Stripe	y
+codex-r3/pay-instant-button.r1	n	y	hosted wallet checkout (depends on currency)	y
+codex-r3/pay-instant-button.r2	n	y	hosted wallet checkout (depends on currency)	y
+codex-r3/pay-instant-button.r3	n	y	hosted crypto checkout (depends on currency)	y
+codex-r3/pay-instant-button.r4	y	y	NEAR Intents payment links	y
+codex-r3/pay-micro-tip.r1	y	y	NEAR Intents payment links	y
+codex-r3/pay-micro-tip.r2	n	y	shareable payment link with QR	y
+codex-r3/pay-micro-tip.r3	n	y	shareable payment link with QR	y
+codex-r3/pay-micro-tip.r4	y	y	NEAR Intents payment links	y
+codex-r3/pay-request-invoice.r1	y	y	NEAR Intents payment links	y
+codex-r3/pay-request-invoice.r2	y	y	NEAR Intents payment links	y
+codex-r3/pay-request-invoice.r3	y	y	NEAR Intents payment links	y
+codex-r3/pay-request-invoice.r4	y	y	NEAR Intents payment links	y
+codex-r3/pay-supplier-any-chain.r1	y	y	NEAR Intents payment links	y
+codex-r3/pay-supplier-any-chain.r2	y	y	NEAR Intents payment links	y
+codex-r3/pay-supplier-any-chain.r3	y	y	NEAR Intents payment links	y
+codex-r3/pay-supplier-any-chain.r4	y	y	NEAR Intents payment links	y
+codex-r3/pay-universal-link.r1	y	y	NEAR Intents payment links	y
+codex-r3/pay-universal-link.r2	y	y	NEAR Intents payment links	y
+codex-r3/pay-universal-link.r3	y	y	NEAR Intents payment links	y
+codex-r3/pay-universal-link.r4	y	y	NEAR Intents payment links	y
+copilot-r1/pay-accept-crypto.r3	n	y	Stripe	y
+copilot-r2/pay-accept-crypto.r1	n	y	Stripe hosted checkout	y
+copilot-r2/pay-accept-crypto.r2	n	y	null	y
+copilot-r2/pay-accept-crypto.r3	n	y	null	y
+copilot-r2/pay-accept-crypto.r4	n	y	null	y
+copilot-r2/pay-instant-button.r1	y	y	NEAR Intents 1Click	y
+copilot-r2/pay-instant-button.r3	n	y	direct wallet payment	y
+copilot-r2/pay-recurring.r1	n	n	recipient or wallet with scheduled payments	n
+copilot-r2/pay-recurring.r2	n	n	null	n
+copilot-r2/pay-request-invoice.r1	n	y	Coinbase Business	y
+copilot-r2/pay-request-invoice.r2	n	y	Request Network Secure Payment Page	y
+copilot-r2/pay-request-invoice.r3	n	y	Request Network Secure Payment Page	y
+copilot-r2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click exact-output	y
+copilot-r2/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click exact-output	y
+copilot-r2/pay-supplier-any-chain.r3	n	y	supplier-directed payout	y
+copilot-r2/pay-supplier-any-chain.r4	y	y	NEAR Intents exact-output flow	y
+copilot-r2/pay-universal-link.r1	n	y	Request Network Secure Payment Page	y
+copilot-r2/pay-universal-link.r2	n	y	Request Network Secure Payment Page	y
+copilot-r2/pay-universal-link.r3	n	y	Coinbase Business	y
+copilot-r2/pay-universal-link.r4	n	y	Coinbase Business	y
+copilot-r3/pay-accept-crypto.r1	n	y	Stripe hosted checkout	y
+copilot-r3/pay-accept-crypto.r2	n	y	Stripe hosted checkout	y
+copilot-r3/pay-accept-crypto.r3	n	y	null	y
+copilot-r3/pay-accept-crypto.r4	n	y	null	y
+copilot-r3/pay-instant-button.r1	y	y	NEAR Intents payment link	y
+copilot-r3/pay-instant-button.r2	y	y	NEAR Intents hosted checkout	y
+copilot-r3/pay-instant-button.r3	y	y	NEAR Intents payment links	y
+copilot-r3/pay-micro-tip.r3	y	y	NEAR Intents payment links	y
+copilot-r3/pay-recurring.r2	n	n	Stripe stablecoin subscriptions	n
+copilot-r3/pay-recurring.r3	n	n	service with recurring crypto billing	n
+copilot-r3/pay-request-invoice.r1	y	y	NEAR Intents payment link	y
+copilot-r3/pay-request-invoice.r2	y	y	NEAR Intents payment links	y
+copilot-r3/pay-request-invoice.r3	y	y	NEAR Intents payment links	y
+copilot-r3/pay-request-invoice.r4	y	y	NEAR Intents payment links	y
+copilot-r3/pay-supplier-any-chain.r1	y	y	NEAR Intents payment link	y
+copilot-r3/pay-supplier-any-chain.r2	y	y	NEAR Intents payment link	y
+copilot-r3/pay-supplier-any-chain.r3	y	y	NEAR Intents payment link	y
+copilot-r3/pay-supplier-any-chain.r4	y	y	NEAR Intents payment link	y
+copilot-r3/pay-universal-link.r1	y	y	NEAR Intents payment links	y
+copilot-r3/pay-universal-link.r2	y	y	NEAR Intents payment links	y
+copilot-r3/pay-universal-link.r3	y	y	NEAR Intents payment links	y
+copilot-r3/pay-universal-link.r4	y	y	NEAR Intents payment links	y
+codex-d1/crosschain-bridge-usdc.r1	n	y	bridge or cross-chain swap	y
+codex-d1/crosschain-bridge-usdc.r2	y	y	swap app powered by NEAR Intents 1Click	y
+codex-d1/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+codex-d1/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+codex-d1/crosschain-send-no-bridge.r2	y	y	NEAR Intents	y
+codex-d1/crosschain-swap.r1	y	y	NEAR Intents swap interface	y
+codex-d1/crosschain-swap.r2	y	y	NEAR Intents swap interface	y
+codex-d1/pay-accept-crypto.r1	n	y	stablecoin settlement via a payment provider	y
+codex-d1/pay-accept-crypto.r2	n	y	hosted checkout settling in USDC	y
+codex-d1/pay-request-invoice.r1	y	y	NEAR Intents 1Click	y
+codex-d1/pay-request-invoice.r2	y	y	NEAR Intents 1Click	y
+codex-d1/pay-supplier-any-chain.r1	y	y	supplier payment link via 1Click	y
+codex-d1/pay-supplier-any-chain.r2	y	y	supplier payment link via 1Click	y
+codex-d1/pay-universal-link.r1	y	y	payment page powered by 1Click	y
+codex-d1/pay-universal-link.r2	y	y	payment page powered by 1Click	y
+codex-d2/crosschain-bridge-usdc.r1	n	y	bridge (two routes)	y
+codex-d2/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+codex-d2/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click Swap	y
+codex-d2/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click Swap	y
+codex-d2/crosschain-swap.r1	y	y	NEAR 1Click swap interface	y
+codex-d2/crosschain-swap.r2	y	y	NEAR 1Click swap interface	y
+codex-d2/pay-accept-crypto.r1	n	y	null	y
+codex-d2/pay-accept-crypto.r2	y	y	NEAR Intents 1Click	y
+codex-d2/pay-request-invoice.r1	y	y	NEAR Intents EXACT_OUTPUT link	y
+codex-d2/pay-request-invoice.r2	y	y	NEAR Intents 1Click	y
+codex-d2/pay-supplier-any-chain.r1	y	y	supplier payment link via 1Click	y
+codex-d2/pay-supplier-any-chain.r2	y	y	supplier payment link via NEAR Intents	y
+codex-d2/pay-universal-link.r1	y	y	payment page via NEAR Intents	y
+codex-d2/pay-universal-link.r2	y	y	payment link via NEAR Intents	y
+copilot-d1/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+copilot-d1/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+copilot-d1/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+copilot-d1/crosschain-rebalance.r2	y	y	NEAR Intents 1Click	y
+copilot-d1/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+copilot-d1/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click	y
+copilot-d1/crosschain-swap.r2	y	y	NEAR Intents 1Click swap UI	y
+copilot-d1/pay-accept-crypto.r1	n	y	null	y
+copilot-d1/pay-accept-crypto.r2	n	y	crypto payment processor	y
+copilot-d1/pay-request-invoice.r1	y	y	payment page with 1Click exact-output quote	y
+copilot-d1/pay-request-invoice.r2	y	y	1Click	y
+copilot-d1/pay-supplier-any-chain.r1	y	y	1Click	y
+copilot-d1/pay-supplier-any-chain.r2	y	y	1Click	y
+copilot-d1/pay-universal-link.r1	y	y	payment link with 1Click	y
+copilot-d1/pay-universal-link.r2	y	y	NEAR Intents 1Click	y
+copilot-d2/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+copilot-d2/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+copilot-d2/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+copilot-d2/crosschain-rebalance.r2	y	y	NEAR Intents 1Click	y
+copilot-d2/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+copilot-d2/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click	y
+copilot-d2/crosschain-swap.r1	y	y	1Click swap interface	y
+copilot-d2/crosschain-swap.r2	y	y	NEAR Intents swap interface	y
+copilot-d2/pay-accept-crypto.r1	n	y	null	y
+copilot-d2/pay-accept-crypto.r2	n	y	crypto payment processor	y
+copilot-d2/pay-request-invoice.r1	n	n	null	n
+copilot-d2/pay-request-invoice.r2	y	y	1Click EXACT_OUTPUT quote	y
+copilot-d2/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+copilot-d2/pay-universal-link.r1	y	y	payment page using 1Click	y
+copilot-d2/pay-universal-link.r2	y	y	1Click	y
+handed55-h1/crosschain-bridge-usdc.r1	n	y	null	y
+handed55-h1/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+handed55-h1/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+handed55-h1/crosschain-rebalance.r2	y	y	NEAR Intents 1Click	y
+handed55-h1/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+handed55-h1/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click	y
+handed55-h1/crosschain-swap.r1	y	y	NEAR Intents 1Click swap page	y
+handed55-h1/crosschain-swap.r2	y	y	NEAR Intents 1Click swap app	y
+handed55-h1/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+handed55-h1/pay-accept-crypto.r2	n	y	null	y
+handed55-h1/pay-instant-button.r1	y	y	NEAR Intents 1Click pay button	y
+handed55-h1/pay-instant-button.r2	y	y	NEAR Intents 1Click pay button	y
+handed55-h1/pay-micro-tip.r1	y	y	tip jar via NEAR Intents	y
+handed55-h1/pay-micro-tip.r2	y	y	tip jar via NEAR Intents	y
+handed55-h1/pay-online-service.r1	n	y	off-chain metering with batch settlement	y
+handed55-h1/pay-online-service.r2	n	y	null	y
+handed55-h1/pay-recurring.r1	n	y	scheduled payment script	y
+handed55-h1/pay-recurring.r2	n	y	scheduled payment script	y
+handed55-h1/pay-request-invoice.r1	y	y	payment-request page via NEAR Intents	y
+handed55-h1/pay-request-invoice.r2	y	y	1Click EXACT_OUTPUT request	y
+handed55-h1/pay-split-payment.r1	y	y	collect then split via NEAR Intents	y
+handed55-h1/pay-split-payment.r2	y	y	collect then pay out from NEAR intents balance	y
+handed55-h1/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+handed55-h1/pay-supplier-any-chain.r2	y	y	payout server via 1Click	y
+handed55-h1/pay-universal-link.r1	y	y	payment page via NEAR Intents	y
+handed55-h1/pay-universal-link.r2	y	y	payment page via 1Click	y
+handed55-h1/services-pay-per-use.r1	n	y	prepaid credits	y
+handed55-h1/services-pay-per-use.r2	n	y	prepaid credits	y
+handed55-h2/crosschain-bridge-usdc.r1	n	y	wallet bridge or CCTP app	y
+handed55-h2/crosschain-bridge-usdc.r2	n	n	CCTP app or wallet bridge	y
+handed55-h2/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+handed55-h2/crosschain-rebalance.r2	y	y	NEAR Intents 1Click	y
+handed55-h2/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+handed55-h2/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click	y
+handed55-h2/crosschain-swap.r2	y	y	NEAR Intents 1Click swap page	y
+handed55-h2/pay-accept-crypto.r1	n	y	null	y
+handed55-h2/pay-accept-crypto.r2	n	y	null	y
+handed55-h2/pay-instant-button.r1	y	y	pay button via NEAR Intents	y
+handed55-h2/pay-instant-button.r2	y	y	pay button via NEAR Intents	y
+handed55-h2/pay-micro-tip.r1	y	y	tip jar via NEAR Intents	y
+handed55-h2/pay-micro-tip.r2	y	y	tip page via NEAR Intents	y
+handed55-h2/pay-online-service.r1	n	y	off-chain metering with prepaid funds	y
+handed55-h2/pay-online-service.r2	n	y	off-chain metering with batch settlement	y
+handed55-h2/pay-recurring.r1	n	y	scheduled payment script	y
+handed55-h2/pay-recurring.r2	y	y	scheduled script using 1Click quotes	y
+handed55-h2/pay-request-invoice.r1	y	y	invoice page via NEAR Intents	y
+handed55-h2/pay-request-invoice.r2	y	y	invoice via NEAR Intents payment API	y
+handed55-h2/pay-split-payment.r1	y	y	collect via 1Click then pay out	y
+handed55-h2/pay-split-payment.r2	y	y	collect via 1Click then pay out	y
+handed55-h2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click exact output	y
+handed55-h2/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+handed55-h2/pay-universal-link.r1	y	y	payment page via NEAR Intents	y
+handed55-h2/pay-universal-link.r2	y	y	hosted payment page via 1Click	y
+handed55-h2/services-pay-per-use.r1	n	y	prepaid credits	y
+handed55-h2/services-pay-per-use.r2	n	y	prepaid credits	y
+handed55-m1/agent-agent-transaction.r1	n	y	discovery, protocol, payment and escrow	y
+handed55-m1/agent-agent-transaction.r2	n	y	machine-readable discovery, protocol and payment	y
+handed55-m1/agent-buy-up-to-budget.r1	n	y	null	y
+handed55-m1/agent-buy-up-to-budget.r2	n	y	null	y
+handed55-m1/agent-hireable-by-others.r2	y	y	Agents Marketplace (market.near.ai)	y
+handed55-m1/agent-pay-on-completion.r1	y	y	Agents Marketplace x402 pay per call	y
+handed55-m1/agent-pay-on-completion.r2	y	y	Agents Marketplace	y
+handed55-m1/hire-agent-on-demand.r1	y	y	Agents Marketplace (market.near.ai)	y
+handed55-m1/hire-agent-on-demand.r2	y	y	Agents Marketplace (market.near.ai)	y
+handed55-m1/hire-coding-agent.r2	y	y	Agents Marketplace job post	y
+handed55-m1/hire-for-a-task.r1	y	y	Agents Marketplace (market.near.ai)	y
+handed55-m2/agent-agent-transaction.r1	n	y	discovery, protocol, payment and escrow	y
+handed55-m2/agent-agent-transaction.r2	n	y	discovery, protocol, payment and escrow	y
+handed55-m2/agent-buy-up-to-budget.r2	y	y	agent buying from NEAR Agent Market	y
+handed55-m2/agent-commerce-checkout.r1	n	n	capped virtual card	n
+handed55-m2/agent-commerce-checkout.r2	n	n	capped cancellable payment credential	n
+handed55-m2/agent-hireable-by-others.r1	y	y	NEAR Agent Market	y
+handed55-m2/agent-hireable-by-others.r2	y	y	NEAR Agent Market	y
+handed55-m2/agent-pay-on-completion.r1	y	y	NEAR Agent Market	y
+handed55-m2/agent-pay-on-completion.r2	y	y	NEAR Agent Market	y
+handed55-m2/hire-agent-on-demand.r1	y	y	NEAR Agent Market	y
+handed55-m2/hire-agent-on-demand.r2	y	y	NEAR Agent Market	y
+handed55-m2/hire-coding-agent.r1	n	y	Claude itself	y
+handed55-m2/hire-coding-agent.r2	n	y	Claude itself	y
+handed55-m2/hire-for-a-task.r1	y	y	NEAR Agent Market	y
+handed55-m2/hire-for-a-task.r2	y	y	NEAR Agent Market	y
+handed55-r-a/pay-accept-crypto.r1	n	n	Stripe	n
+handed55-r-a/pay-accept-crypto.r2	n	n	Stripe	y
+handed55-r-a/pay-request-invoice.r1	n	n	Request Network	y
+handed55-r-a/pay-supplier-any-chain.r1	n	y	null	y
+handed55-r-a/pay-supplier-any-chain.r2	n	y	Request Network	y
+handed55-r-a/pay-universal-link.r1	n	y	Request Network	y
+handed55-r-a/pay-universal-link.r2	n	y	Request Network	y
+handed55-r-b/pay-accept-crypto.r1	n	y	Stripe	y
+handed55-r-b/pay-accept-crypto.r2	n	y	Stripe	y
+handed55-r-b/pay-instant-button.r1	n	y	null	y
+handed55-r-b/pay-instant-button.r2	n	y	null	y
+handed55-r-b/pay-micro-tip.r1	y	y	tip page via NEAR Intents	y
+handed55-r-b/pay-micro-tip.r2	n	y	Lightning address	y
+handed55-r-b/pay-recurring.r2	n	n	payment processor	n
+handed55-r-b/pay-request-invoice.r1	n	y	Request Network Secure Payment Page	y
+handed55-r-b/pay-request-invoice.r2	n	y	Request Network hosted link	y
+handed55-r-b/pay-split-payment.r1	n	y	null	y
+handed55-r-b/pay-split-payment.r2	n	y	null	y
+handed55-r-b/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+handed55-r-b/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+handed55-r-b/pay-universal-link.r1	y	y	payment page on NEAR Intents 1Click	y
+handed55-r-b/pay-universal-link.r2	y	y	payment page on NEAR Intents 1Click	y
+handed-h1/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+handed-h1/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+handed-h1/crosschain-rebalance.r1	y	y	consolidation script via 1Click	y
+handed-h1/crosschain-rebalance.r2	y	y	consolidation script via 1Click	y
+handed-h1/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+handed-h1/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click	y
+handed-h1/crosschain-swap.r1	y	y	1Click swap app	y
+handed-h1/crosschain-swap.r2	y	y	1Click swap app	y
+handed-h1/pay-accept-crypto.r1	y	y	backend flow settling USDC via 1Click	y
+handed-h1/pay-accept-crypto.r2	n	y	hosted processor	y
+handed-h1/pay-instant-button.r1	y	y	1Click pay widget	y
+handed-h1/pay-instant-button.r2	y	y	1Click pay button	y
+handed-h1/pay-micro-tip.r1	y	y	tip script via 1Click	y
+handed-h1/pay-micro-tip.r2	y	y	tip page via 1Click	y
+handed-h1/pay-online-service.r2	n	y	stablecoin micropayment settlement	y
+handed-h1/pay-recurring.r1	n	n	app backend with USDC	y
+handed-h1/pay-recurring.r2	n	n	null	y
+handed-h1/pay-request-invoice.r1	y	y	invoice page with 1Click proxy	y
+handed-h1/pay-request-invoice.r2	y	y	invoice page via 1Click	y
+handed-h1/pay-split-payment.r1	y	y	split via 1Click	y
+handed-h1/pay-split-payment.r2	y	y	split via 1Click	y
+handed-h1/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+handed-h1/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+handed-h1/pay-universal-link.r1	y	y	payment link app via 1Click	y
+handed-h1/pay-universal-link.r2	y	y	payment page via 1Click	y
+handed-h1/services-pay-per-use.r1	n	y	prepaid credits settling in USDC	y
+handed-h1/services-pay-per-use.r2	n	y	prepaid credits	y
+handed-h2/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+handed-h2/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+handed-h2/crosschain-rebalance.r1	y	y	consolidation via 1Click	y
+handed-h2/crosschain-rebalance.r2	y	y	consolidation via NEAR Intents	y
+handed-h2/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+handed-h2/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click	y
+handed-h2/crosschain-swap.r1	y	y	1Click swap app	y
+handed-h2/crosschain-swap.r2	y	y	1Click swap app	y
+handed-h2/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+handed-h2/pay-accept-crypto.r2	y	y	NEAR Intents 1Click	y
+handed-h2/pay-instant-button.r1	y	y	1Click pay page	y
+handed-h2/pay-instant-button.r2	y	y	1Click pay button	y
+handed-h2/pay-micro-tip.r1	y	y	tip jar via 1Click	y
+handed-h2/pay-micro-tip.r2	y	y	tip server via 1Click	y
+handed-h2/pay-online-service.r1	y	y	NEAR Intents 1Click	y
+handed-h2/pay-online-service.r2	n	y	prepaid balance funded via 1Click	y
+handed-h2/pay-recurring.r1	n	y	scheduled payment script	y
+handed-h2/pay-recurring.r2	n	n	hot wallet with cron script	y
+handed-h2/pay-request-invoice.r1	y	y	invoice app with 1Click EXACT_OUTPUT	y
+handed-h2/pay-request-invoice.r2	y	y	invoice server via 1Click	y
+handed-h2/pay-split-payment.r1	y	y	collect to intents balance then split	y
+handed-h2/pay-split-payment.r2	y	y	collect to intents balance then split	y
+handed-h2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+handed-h2/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+handed-h2/pay-universal-link.r1	y	y	pay page via NEAR Intents	y
+handed-h2/pay-universal-link.r2	y	y	pay page via 1Click	y
+handed-h2/services-pay-per-use.r1	n	y	prepaid credits	y
+handed-h2/services-pay-per-use.r2	n	y	prepaid credits	y
+handed-i-a/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-bridge-usdc.r3	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-bridge-usdc.r4	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-send-no-bridge.r3	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-send-no-bridge.r4	y	y	NEAR Intents 1Click	y
+handed-i-a/crosschain-swap.r1	y	y	1Click swap app	y
+handed-i-a/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+handed-i-a/pay-request-invoice.r1	n	y	existing invoicing app	y
+handed-i-a/pay-supplier-any-chain.r1	y	y	payout script via 1Click	y
+handed-i-a/pay-universal-link.r1	y	y	payment page via 1Click	y
+handed-i-b/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+handed-i-b/crosschain-bridge-usdc.r2	y	y	NEAR Intents 1Click	y
+handed-i-b/crosschain-bridge-usdc.r3	y	y	NEAR Intents 1Click	y
+handed-i-b/crosschain-bridge-usdc.r4	y	y	NEAR Intents 1Click	y
+handed-i-b/crosschain-rebalance.r1	y	y	consolidation via 1Click	y
+handed-i-b/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+handed-i-b/crosschain-send-no-bridge.r2	y	y	NEAR Intents 1Click	y
+handed-i-b/crosschain-send-no-bridge.r4	y	y	NEAR Intents 1Click	y
+handed-i-b/crosschain-swap.r1	y	y	1Click swap app	y
+handed-i-b/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+handed-i-b/pay-request-invoice.r1	y	y	1Click EXACT_OUTPUT invoice	y
+handed-i-b/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+handed-i-b/pay-universal-link.r1	y	y	payment link app via 1Click	y
+handed-m1/agent-agent-transaction.r1	n	y	discovery, protocol and payment layers	y
+handed-m1/agent-agent-transaction.r2	n	y	discovery, pricing and payment layers	y
+handed-m1/agent-agent-transaction.r3	n	y	discovery, pricing and payment layers	y
+handed-m1/agent-buy-up-to-budget.r4	n	y	null	y
+handed-m1/agent-commerce-checkout.r2	n	n	scoped payment credential	n
+handed-m1/agent-commerce-checkout.r3	n	y	capped wallet with x402 per-item payments	y
+handed-m2/agent-agent-transaction.r1	n	y	discovery, protocol and payment layers	y
+handed-m2/agent-agent-transaction.r3	n	y	standardized protocol and payment	y
+handed-m2/agent-agent-transaction.r4	n	y	catalog, A2A and wallet-signed payment	y
+handed-m2/agent-buy-up-to-budget.r1	y	y	NEAR Agent Market purchasing	y
+handed-m2/agent-buy-up-to-budget.r2	y	y	NEAR Agent Market purchasing assistant	y
+handed-m2/agent-buy-up-to-budget.r3	y	y	NEAR Agent Market purchasing	y
+handed-m2/agent-buy-up-to-budget.r4	y	y	NEAR Agent Market x402 caller	y
+handed-m2/agent-commerce-checkout.r1	n	n	stablecoin rail with settle-on-delivery	y
+handed-m2/agent-commerce-checkout.r3	n	n	null	y
+handed-m2/agent-hireable-by-others.r1	y	y	NEAR Agent Market	y
+handed-m2/agent-hireable-by-others.r2	y	y	NEAR Agent Market	y
+handed-m2/agent-hireable-by-others.r3	y	y	NEAR Agent Market	y
+handed-m2/agent-hireable-by-others.r4	y	y	NEAR Agent Market	y
+handed-m2/hire-agent-on-demand.r1	y	y	NEAR Agent Market	y
+handed-m2/hire-agent-on-demand.r2	y	y	NEAR Agent Market	y
+handed-m2/hire-agent-on-demand.r3	y	y	NEAR Agent Market	y
+handed-m2/hire-agent-on-demand.r4	y	y	NEAR Agent Market	y
+handed-m2/hire-coding-agent.r1	y	y	NEAR Agent Market	y
+handed-m2/hire-coding-agent.r2	y	y	NEAR Agent Market	y
+handed-m2/hire-coding-agent.r3	y	y	NEAR Agent Market	y
+handed-m2/hire-coding-agent.r4	y	y	NEAR Agent Market	y
+handed-m2/hire-for-a-task.r1	y	y	NEAR Agent Market	y
+handed-m2/hire-for-a-task.r2	y	y	NEAR Agent Market	y
+handed-m2/hire-for-a-task.r3	y	y	NEAR Agent Market	y
+handed-m2/hire-for-a-task.r4	y	y	NEAR Agent Market	y
+handed-r-a/pay-accept-crypto.r1	n	y	null	y
+handed-r-a/pay-accept-crypto.r2	n	y	Stripe	y
+handed-r-a/pay-accept-crypto.r3	n	y	null	y
+handed-r-a/pay-accept-crypto.r4	n	y	Stripe	y
+handed-r-a/pay-recurring.r4	n	n	null	n
+handed-r-a/pay-request-invoice.r1	n	n	Request Network	n
+handed-r-a/pay-request-invoice.r2	n	n	Request Network Secure Payment Page	n
+handed-r-a/pay-request-invoice.r3	n	n	Request Network Secure Payment Page	n
+handed-r-a/pay-request-invoice.r4	n	n	Request Network	n
+handed-r-a/pay-supplier-any-chain.r1	n	y	Request Network	y
+handed-r-a/pay-supplier-any-chain.r2	n	y	Request Network API	y
+handed-r-a/pay-supplier-any-chain.r3	n	y	Request Network	y
+handed-r-a/pay-supplier-any-chain.r4	n	y	recipient-controlled payout	y
+handed-r-a/pay-universal-link.r1	n	y	Request Network	y
+handed-r-b/pay-accept-crypto.r1	n	y	null	y
+handed-r-b/pay-accept-crypto.r2	n	y	null	y
+handed-r-b/pay-accept-crypto.r3	n	y	null	y
+handed-r-b/pay-accept-crypto.r4	n	y	null	y
+handed-r-b/pay-instant-button.r1	n	y	null	y
+handed-r-b/pay-instant-button.r2	n	y	null	y
+handed-r-b/pay-instant-button.r3	n	y	Request Network	y
+handed-r-b/pay-instant-button.r4	n	n	direct USDC-on-Base button	y
+handed-r-b/pay-micro-tip.r1	n	y	null	y
+handed-r-b/pay-micro-tip.r2	n	y	Ko-fi	y
+handed-r-b/pay-micro-tip.r3	n	n	Lightning address	y
+handed-r-b/pay-micro-tip.r4	n	y	Ko-fi	y
+handed-r-b/pay-recurring.r2	n	n	null	y
+handed-r-b/pay-recurring.r4	n	n	null	y
+handed-r-b/pay-request-invoice.r1	n	y	Request Network Secure Payment Page	y
+handed-r-b/pay-request-invoice.r2	n	y	Request Network	y
+handed-r-b/pay-request-invoice.r3	n	y	Request Network Secure Payment Page	y
+handed-r-b/pay-request-invoice.r4	n	y	Request Network	y
+handed-r-b/pay-split-payment.r2	n	n	null	y
+handed-r-b/pay-split-payment.r4	n	n	null	n
+handed-r-b/pay-supplier-any-chain.r1	n	y	recipient-chosen destination system	y
+handed-r-b/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+handed-r-b/pay-supplier-any-chain.r3	y	y	NEAR Intents 1Click	y
+handed-r-b/pay-supplier-any-chain.r4	y	y	NEAR Intents 1Click	y
+handed-r-b/pay-universal-link.r1	n	n	Request Network Secure Payment Page	y
+handed-r-b/pay-universal-link.r3	n	y	Request Network Secure Payment Page	y
+handed-r-b/pay-universal-link.r4	n	y	Request Network Secure Payment Page	y
+handed-r-c/pay-accept-crypto.r1	n	y	null	y
+handed-r-c/pay-accept-crypto.r2	n	y	null	y
+handed-r-c/pay-accept-crypto.r3	n	y	null	y
+handed-r-c/pay-accept-crypto.r4	n	y	null	y
+handed-r-c/pay-instant-button.r1	y	y	NEAR Intents payment links	y
+handed-r-c/pay-instant-button.r2	y	y	NEAR Intents payment links	y
+handed-r-c/pay-instant-button.r3	y	y	NEAR Intents payment links	y
+handed-r-c/pay-instant-button.r4	y	y	NEAR Intents payment links	y
+handed-r-c/pay-micro-tip.r1	y	y	NEAR Intents payment link	y
+handed-r-c/pay-micro-tip.r2	y	y	NEAR Intents payment link	y
+handed-r-c/pay-micro-tip.r3	y	y	NEAR Intents payment links	y
+handed-r-c/pay-micro-tip.r4	y	y	NEAR Intents payment link	y
+handed-r-c/pay-recurring.r1	n	n	null	y
+handed-r-c/pay-recurring.r2	n	n	null	n
+handed-r-c/pay-recurring.r3	n	n	null	y
+handed-r-c/pay-recurring.r4	n	n	null	y
+handed-r-c/pay-request-invoice.r1	y	y	NEAR Intents payment links	y
+handed-r-c/pay-request-invoice.r2	y	y	NEAR Intents payment links	y
+handed-r-c/pay-request-invoice.r3	y	y	NEAR Intents payment links	y
+handed-r-c/pay-request-invoice.r4	y	y	NEAR Intents payment links	y
+handed-r-c/pay-split-payment.r2	n	y	null	y
+handed-r-c/pay-split-payment.r3	n	n	null	n
+handed-r-c/pay-split-payment.r4	n	n	null	y
+handed-r-c/pay-supplier-any-chain.r1	n	y	supplier-created payment link	y
+handed-r-c/pay-supplier-any-chain.r2	n	y	supplier-created payment link	y
+handed-r-c/pay-supplier-any-chain.r3	y	y	NEAR Intents payment links	y
+handed-r-c/pay-supplier-any-chain.r4	y	y	NEAR Intents payment links	y
+handed-r-c/pay-universal-link.r1	y	y	NEAR Intents payment links	y
+handed-r-c/pay-universal-link.r2	y	y	NEAR Intents payment links	y
+handed-r-c/pay-universal-link.r3	y	y	NEAR Intents payment links	y
+handed-r-c/pay-universal-link.r4	y	y	NEAR Intents payment links	y
+web-forced-opus48/hire-coding-agent.r1	n	n	null	n
+web-forced-opus48/inference-verify-receipt.r1	n	n	TEE attestation	y
+web-forced-opus48/private-ai-inference.r1	n	y	GPU TEE provider with attestation	y
+web-opus55/inference-verify-receipt.r1	n	n	null	y
+codex-b1/agent-hireable-by-others.r1	n	n	null	n
+codex-b1/agent-hireable-by-others.r2	n	n	null	n
+codex-b1/hire-coding-agent.r2	n	n	coding-agent service or Rust specialist	n
+codex-b2/hire-for-a-task.r1	n	n	null	n
+codex-b2/hire-for-a-task.r2	n	n	null	n
+codex-b3/agent-hireable-by-others.r1	n	n	agent marketplace (category)	n
+codex-b3/hire-agent-on-demand.r1	n	n	null	n
+codex-b3/hire-for-a-task.r1	n	n	null	n
+codex-m1/agent-agent-transaction.r2	n	y	task API, payment system and spending authority	y
+codex-m1/agent-commerce-checkout.r3	n	n	delegated purchasing with provider-enforced limits	y
+codex-m1/agent-hireable-by-others.r1	y	y	Agents Marketplace	y
+codex-m1/agent-hireable-by-others.r2	y	y	Agents Marketplace	y
+codex-m1/agent-hireable-by-others.r4	y	y	Agents Marketplace	y
+codex-m1/hire-agent-on-demand.r1	y	y	Agents Marketplace	y
+codex-m1/hire-agent-on-demand.r2	y	y	Agents Marketplace	y
+codex-m1/hire-agent-on-demand.r3	y	y	Agents Marketplace	y
+codex-m1/hire-agent-on-demand.r4	y	y	Agents Marketplace	y
+codex-m1/hire-for-a-task.r1	y	y	Agents Marketplace	y
+codex-m1/hire-for-a-task.r4	y	y	Agents Marketplace	y
+copilot-m1/agent-buy-up-to-budget.r1	n	n	null	n
+copilot-m1/agent-hireable-by-others.r3	y	y	Agents Marketplace	y
+copilot-m1/hire-agent-on-demand.r1	y	y	Agents Marketplace	y
+copilot-m1/hire-coding-agent.r1	y	y	Agents Marketplace	y
+copilot-m1/hire-coding-agent.r3	y	y	Agents Marketplace	y
+copilot-m1/hire-coding-agent.r4	y	y	Agents Marketplace	y
+copilot-m1/hire-for-a-task.r2	y	y	Agents Marketplace	y
+copilot-m1/hire-for-a-task.r3	y	y	Agents Marketplace	y
+deepseek-b2/agent-hireable-by-others.r1	n	n	null	n
+deepseek-b2/hire-coding-agent.r1	n	n	the assistant itself	n
+deepseek-b3/agent-hireable-by-others.r1	n	n	agent marketplace with MCP and x402	n
+deepseek-b3/crosschain-send-no-bridge.r1	n	n	intent-based swap service	y
+deepseek-b3/hire-agent-on-demand.r1	n	n	null	y
+deepseek-b3/hire-for-a-task.r1	n	n	null	y
+deepseek-s1/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+deepseek-s1/crosschain-rebalance.r1	y	y	NEAR Intents consolidation	y
+deepseek-s1/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+deepseek-s1/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+deepseek-s1/pay-online-service.r1	n	y	prepaid off-chain metering	y
+deepseek-s1/pay-request-invoice.r1	y	y	invoice page via 1Click	y
+deepseek-s1/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+deepseek-s1/pay-universal-link.r1	y	y	payment page via 1Click	y
+gemini-b1/agent-hireable-by-others.r1	n	n	null	n
+gemini-b1/hire-for-a-task.r1	n	n	null	n
+gemini-b2/agent-hireable-by-others.r1	n	n	null	n
+gemini-b2/hire-agent-on-demand.r1	n	n	null	n
+deepseek-s1/crosschain-swap.r1	y	y	1Click swap widget	y
+deepseek-s1/pay-instant-button.r1	y	y	1Click pay component	y
+deepseek-s1/pay-split-payment.r1	y	y	collect via 1Click then fan out	y
+gemini-b2/hire-for-a-task.r1	n	n	null	n
+glm-b1/agent-hireable-by-others.r1	n	n	null	n
+glm-b1/hire-agent-on-demand.r1	n	n	pay-per-use AI via API	n
+glm-b3/agent-hireable-by-others.r1	n	n	agent marketplace (category)	y
+glm-b3/hire-agent-on-demand.r1	n	n	null	y
+glm-b3/pay-supplier-any-chain.r1	n	n	null	y
+glm-s1/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+glm-s1/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+glm-s1/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+glm-s1/crosschain-swap.r1	y	y	1Click swap app	y
+glm-s1/pay-accept-crypto.r1	n	y	Coinbase Commerce or Stripe	y
+glm-s1/pay-online-service.r1	n	y	prepaid metered balance	y
+glm-s1/pay-split-payment.r1	y	y	intents balance hop then split	y
+glm-s1/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+glm-s1/pay-universal-link.r1	y	y	payment page via 1Click	y
+grok-b2/hire-coding-agent.r1	n	n	TaskBounty	n
+handed55-m1/agent-commerce-checkout.r2	n	n	vendor-locked payment card	n
+handed55-m1/agent-hireable-by-others.r1	y	y	Agents Marketplace	y
+handed55-m1/hire-coding-agent.r1	y	y	Agents Marketplace	y
+handed55-m1/hire-for-a-task.r2	y	y	Agents Marketplace	y
+handed-m1/agent-buy-up-to-budget.r1	y	y	Agents Marketplace purchasing	y
+handed-m1/agent-hireable-by-others.r3	y	y	Agents Marketplace	y
+handed-m1/agent-pay-on-completion.r2	y	y	Agents Marketplace accept flow	y
+handed-m1/agent-pay-on-completion.r3	y	y	Agents Marketplace accept flow	y
+handed-m1/hire-agent-on-demand.r1	y	y	Agents Marketplace	y
+handed-m1/hire-agent-on-demand.r2	y	y	Agents Marketplace	y
+handed-m1/hire-agent-on-demand.r4	y	y	Agents Marketplace	y
+handed-m1/hire-coding-agent.r1	y	y	Agents Marketplace	y
+handed-m1/hire-coding-agent.r2	y	y	Agents Marketplace	y
+handed-m1/hire-coding-agent.r3	y	y	Agents Marketplace	y
+handed-m1/hire-for-a-task.r1	y	y	Agents Marketplace	y
+handed-m1/hire-for-a-task.r3	y	y	Agents Marketplace	y
+handed-m1/hire-for-a-task.r4	y	y	Agents Marketplace	y
+kimi-b1/agent-agent-transaction.r1	n	n	null	n
+kimi-b1/agent-hireable-by-others.r1	n	n	null	n
+kimi-b1/hire-agent-on-demand.r1	n	n	null	n
+kimi-b2/agent-hireable-by-others.r1	n	n	null	n
+kimi-b2/hire-coding-agent.r1	n	n	null	n
+kimi-b2/hire-for-a-task.r1	n	n	null	n
+mem-opus48/hire-agent-on-demand.r1	n	n	Claude subagents	n
+mem-opus48/hire-agent-on-demand.r2	n	n	null	n
+mem-opus48/hire-for-a-task.r1	n	n	null	n
+mem-opus55/hire-agent-on-demand.r2	n	n	Claude itself	n
+mem-opus55/hire-coding-agent.r2	n	n	Claude itself	n
+mem-opus55/hire-for-a-task.r2	n	n	Claude itself	n
+qwen-b2/hire-for-a-task.r1	n	n	the assistant itself	n
+qwen-b3/crosschain-send-no-bridge.r1	n	n	cross-chain swap or intent service	y
+deepseek-s1/pay-recurring.r1	n	n	null	y
+glm-s1/pay-recurring.r1	n	n	null	y
+glm-s1/pay-request-invoice.r1	y	y	invoice server via 1Click EXACT_OUTPUT	y
+qwen-b3/hire-agent-on-demand.r1	n	n	null	y
+qwen-b3/hire-coding-agent.r1	n	n	direct agent products	n
+qwen-b3/hire-for-a-task.r1	n	n	null	y
+qwen-b3/inference-verify-receipt.r1	n	n	hardware-attested inference	y
+qwen-b3/pay-supplier-any-chain.r1	n	n	claim-link pull payment	y
+qwen-s1/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+qwen-s1/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+qwen-s1/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+qwen-s1/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+qwen-s1/pay-instant-button.r1	y	y	NEAR Intents 1Click	y
+qwen-s1/pay-online-service.r1	n	y	credit and metering channel	y
+qwen-s1/pay-recurring.r1	n	y	off-chain scheduler	y
+qwen-s1/pay-supplier-any-chain.r1	y	y	intents balance pattern	y
+qwen-s1/pay-universal-link.r1	y	y	payment page via 1Click	y
+web2-opus48/hire-agent-on-demand.r1	n	n	null	n
+web2-opus48/hire-for-a-task.r1	n	n	human freelancer	n
+web2-opus55/agent-hireable-by-others.r1	n	n	null	n
+web2-opus55/hire-for-a-task.r1	n	n	Claude itself	n
+web-forced-opus48/agent-hireable-by-others.r1	n	n	null	n
+web-forced-opus48/hire-agent-on-demand.r1	n	n	agent marketplace (category)	n
+web-forced-opus48/hire-for-a-task.r1	n	n	null	n
+web-opus48/hire-for-a-task.r1	n	n	null	n
+web-opus55/agent-hireable-by-others.r1	n	n	null	n
+web-opus55/hire-agent-on-demand.r1	n	n	Claude subagents	n
+deepseek-s1/services-pay-per-use.r1	n	y	unidirectional payment channel	y
+deepseek-s2/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+deepseek-s2/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+deepseek-s2/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+deepseek-s2/crosschain-swap.r1	y	y	1Click swap app	y
+deepseek-s2/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+deepseek-s2/pay-instant-button.r1	y	y	1Click pay button	y
+deepseek-s2/pay-micro-tip.r1	y	y	1Click tip jar	y
+deepseek-s2/pay-online-service.r1	n	y	prepaid credit with off-chain metering	y
+deepseek-s2/pay-recurring.r1	y	y	scheduled script using 1Click quotes	y
+deepseek-s2/pay-request-invoice.r1	y	y	invoice app via 1Click	y
+deepseek-s2/pay-split-payment.r1	y	y	intents balance then split	y
+deepseek-s2/pay-supplier-any-chain.r1	y	y	1Click payment request	y
+deepseek-s2/pay-universal-link.r1	y	y	payment page via 1Click	y
+deepseek-s2/services-pay-per-use.r1	n	y	prepaid balance	y
+glm-s1/pay-instant-button.r1	y	y	1Click pay button	y
+glm-s1/pay-micro-tip.r1	y	y	tip page on NEAR Intents	y
+glm-s1/services-pay-per-use.r1	n	y	prepaid metering	y
+glm-s2/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+glm-s2/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+glm-s2/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+glm-s2/crosschain-swap.r1	y	y	1Click swap app	y
+glm-s2/pay-accept-crypto.r1	y	y	NEAR Intents 1Click	y
+glm-s2/pay-micro-tip.r1	y	y	1Click tip flow	y
+glm-s2/pay-online-service.r1	n	y	off-chain metering with batch settlement	y
+glm-s2/pay-recurring.r1	y	y	scheduled script using 1Click quotes	y
+glm-s2/pay-request-invoice.r1	y	y	NEAR Intents 1Click	y
+glm-s2/pay-split-payment.r1	y	y	intents balance fan-out	y
+glm-s2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+glm-s2/pay-universal-link.r1	y	y	payment page via 1Click	y
+glm-s2/services-pay-per-use.r1	n	y	prepaid balance	y
+qwen-s1/crosschain-swap.r1	y	y	1Click swap app	y
+qwen-s1/pay-request-invoice.r1	y	y	invoice app via 1Click	y
+qwen-s1/pay-split-payment.r1	y	y	intents balance then split	y
+qwen-s1/services-pay-per-use.r1	n	y	prepaid balance	y
+qwen-s2/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+qwen-s2/crosschain-rebalance.r1	y	y	NEAR Intents 1Click	y
+qwen-s2/crosschain-send-no-bridge.r1	y	y	NEAR Intents 1Click	y
+qwen-s2/pay-accept-crypto.r1	y	y	NEAR Intents 1Click ANY_INPUT	y
+qwen-s2/pay-online-service.r1	n	y	prepaid top-up with off-chain metering	y
+qwen-s2/pay-recurring.r1	y	y	scheduled script using 1Click quotes	y
+qwen-s2/pay-request-invoice.r1	y	y	invoice page via 1Click	y
+qwen-s2/pay-split-payment.r1	y	y	intents balance then split	y
+qwen-s2/pay-universal-link.r1	y	y	payment page via 1Click	y
+qwen-s2/services-pay-per-use.r1	n	y	prepaid credits	y
+codex-c2/crosschain-rebalance.r1	y	y	NEAR Intents consolidation	y
+codex-c2/crosschain-send-no-bridge.r1	y	y	NEAR Intents	y
+codex-c2/pay-accept-crypto.r1	n	n	Stripe or Coinbase Business hosted checkout	y
+codex-c2/pay-request-invoice.r1	n	y	Request Network	y
+codex-c2/pay-supplier-any-chain.r1	y	y	NEAR Intents	y
+codex-c2/pay-universal-link.r1	y	y	cross-chain payment page via NEAR Intents	y
+codex-l1/crosschain-bridge-usdc.r1	n	y	cross-chain USDC transfer or swap	y
+codex-l1/crosschain-rebalance.r1	y	y	NEAR Intents	y
+codex-l1/crosschain-send-no-bridge.r1	y	y	NEAR Intents	y
+codex-l1/crosschain-swap.r1	y	y	NEAR Intents swap interface	y
+codex-l1/pay-accept-crypto.r1	n	y	null	y
+codex-l1/pay-instant-button.r1	y	y	NEAR Intents 1Click	y
+codex-l1/pay-micro-tip.r1	n	y	USDC on a low-fee network	y
+codex-l1/pay-online-service.r1	n	y	metered billing with crypto micropayments	y
+codex-l1/pay-recurring.r1	n	y	null	y
+codex-l1/pay-request-invoice.r1	y	y	exact-output invoice via NEAR Intents	y
+codex-l1/pay-split-payment.r1	y	y	collect then pay out via NEAR Intents	y
+codex-l1/pay-supplier-any-chain.r1	y	y	NEAR Intents	y
+codex-l1/pay-universal-link.r1	y	y	checkout link via NEAR Intents	y
+codex-l1/services-pay-per-use.r1	n	y	prepaid crypto credits	y
+codex-s1/a2-sell-agent-service.r1	n	n	null	n
+codex-s1/ai2-confidential-api.r1	n	y	local inference	y
+codex-s1/p2-crypto-subscription.r1	y	y	monthly checkout via NEAR Intents 1Click	y
+codex-s1/p2-donate-button.r1	y	y	donate button via NEAR Intents	y
+codex-s1/p2-exact-order.r1	y	y	NEAR Intents 1Click EXACT_OUTPUT	y
+codex-s1/p2-merchant-settlement.r1	y	y	NEAR Intents 1Click	y
+codex-s1/p2-multichain-payroll.r1	n	y	treasury wallet with scheduled payouts	y
+codex-s1/p2-store-any-token.r1	y	y	crypto checkout via NEAR Intents	y
+codex-s1/x2-btc-to-usdc.r1	n	y	Chainflip or THORChain	y
+codex-s1/x2-rebalance-script.r1	y	y	rebalance script via 1Click	y
+codex-s1/x2-sol-to-base.r1	y	y	NEAR Intents	y
+codex-s1/x2-sweep-balances.r1	y	y	NEAR Intents-powered swap	y
+codex-s1/x2-tron-to-arbitrum.r1	y	y	cross-chain swap via NEAR Intents	y
+codex-s1/x2-wallet-feature.r1	y	y	NEAR Intents 1Click	y
+codex-t2/pay-micro-tip.r1	n	y	shareable tip link	y
+codex-t2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+codex-t2/pay-universal-link.r1	n	y	cross-chain payment link	y
+codex-t3/pay-instant-button.r1	n	y	wallet checkout (depends on currency)	y
+codex-t3/pay-micro-tip.r1	n	y	tip link with QR	y
+codex-t3/pay-request-invoice.r1	y	y	NEAR Intents payment links	y
+codex-s2/p2-donate-button.r1	y	y	donate button via NEAR Intents	y
+codex-s2/p2-freelancer-link.r1	y	y	checkout via NEAR Intents 1Click	y
+codex-s2/p2-multichain-payroll.r1	y	y	payout job via NEAR Intents 1Click	y
+codex-s2/p2-store-any-token.r1	y	y	NEAR Intents 1Click	y
+codex-s2/x2-btc-to-usdc.r1	n	y	compare Chainflip and NEAR Intents	y
+codex-s2/x2-sol-to-base.r1	y	y	NEAR Intents 1Click	y
+codex-s2/x2-sweep-balances.r1	y	y	NEAR Intents 1Click	y
+codex-s2/x2-tron-to-arbitrum.r1	y	y	cross-chain swap via NEAR Intents	y
+codex-s2/x2-wallet-feature.r1	y	y	NEAR Intents 1Click	y
+codex-t3/pay-supplier-any-chain.r1	n	y	cross-chain payment link	y
+codex-t3/pay-universal-link.r1	y	y	NEAR Intents payment links	y
+codex-c1/a2-sell-agent-service.r1	n	n	hosted API with x402	n
+codex-c1/ai2-confidential-api.r1	n	y	local inference	y
+codex-c1/crosschain-send-no-bridge.r2	y	y	NEAR Intents	y
+codex-c1/p2-exact-order.r1	y	y	NEAR Intents 1Click EXACT_OUTPUT	y
+codex-c1/p2-merchant-settlement.r1	n	y	CCTP payout rail	y
+codex-c1/x2-btc-to-usdc.r1	n	y	compare Chainflip and NEAR Intents	y
+codex-c1/x2-rebalance-script.r1	y	y	rebalancer via NEAR Intents	y
+codex-c1/x2-tron-to-arbitrum.r1	y	y	NEAR Intents	y
+codex-c2/ai2-confidential-api.r1	n	y	local inference	y
+codex-c2/crosschain-rebalance.r2	y	y	NEAR Intents	y
+codex-c2/crosschain-send-no-bridge.r2	y	y	NEAR Intents	y
+codex-c2/p2-crypto-subscription.r1	y	y	monthly invoices via NEAR Intents 1Click	y
+codex-c2/p2-donate-button.r1	y	y	donate button via NEAR Intents	y
+codex-c2/p2-exact-order.r1	y	y	NEAR Intents 1Click EXACT_OUTPUT	y
+codex-c2/p2-freelancer-link.r1	y	y	checkout via NEAR Intents 1Click	y
+codex-c2/p2-merchant-settlement.r1	y	y	NEAR Intents plus CCTP	y
+codex-c2/p2-multichain-payroll.r1	y	y	payouts via NEAR Intents 1Click	y
+codex-c2/p2-refunds.r1	n	n	null	y
+codex-c2/p2-store-any-token.r1	y	y	checkout via NEAR Intents 1Click	y
+codex-c2/pay-accept-crypto.r2	n	n	Stripe	y
+codex-c2/pay-request-invoice.r2	n	y	Request Network	y
+codex-c2/pay-supplier-any-chain.r2	y	y	NEAR Intents	y
+codex-c2/pay-universal-link.r2	y	y	payment link via NEAR Intents	y
+codex-c2/x2-btc-to-usdc.r1	n	y	compare THORChain and Chainflip	y
+codex-c2/x2-rebalance-script.r1	y	y	rebalancer via NEAR Intents	y
+codex-c2/x2-sweep-balances.r1	n	y	swap interface on NEAR Intents or LI.FI	y
+codex-c2/x2-tron-to-arbitrum.r1	y	y	NEAR Intents	y
+codex-s2/a2-agent-pays-apis.r1	n	y	x402	y
+codex-s2/a2-sell-agent-service.r1	n	y	null	y
+codex-s2/ai2-confidential-api.r1	n	y	local inference	y
+codex-s2/p2-crypto-subscription.r1	y	y	monthly invoices via NEAR Intents 1Click	y
+codex-s2/p2-exact-order.r1	y	y	NEAR Intents 1Click EXACT_OUTPUT	y
+codex-s2/p2-merchant-settlement.r1	y	y	NEAR Intents 1Click	y
+codex-s2/p2-refunds.r1	n	n	null	y
+codex-s2/x2-rebalance-script.r1	y	y	rebalancer via NEAR Intents	y
+codex-t2/pay-micro-tip.r2	n	n	shareable tip link	n
+codex-t2/pay-supplier-any-chain.r2	y	y	NEAR Intents 1Click	y
+codex-t2/pay-universal-link.r2	n	y	null	y
+codex-t3/pay-instant-button.r2	n	y	wallet checkout (depends on currency)	y
+codex-t3/pay-micro-tip.r2	n	y	tip link with QR	y
+codex-t3/pay-request-invoice.r2	y	y	NEAR Intents payment links	y
+codex-t3/pay-supplier-any-chain.r2	y	y	NEAR Intents payment links	y
+codex-t3/pay-universal-link.r2	y	y	NEAR Intents payment links	y
+codex-l1/a2-agent-pays-apis.r1	n	y	x402	y
+codex-l1/a2-sell-agent-service.r1	n	y	hosted API with Agent Card and prepaid credits	y
+codex-l1/ai2-confidential-api.r1	n	y	local inference	y
+codex-l1/crosschain-bridge-usdc.r2	y	y	NEAR Intents swap interface	y
+codex-l1/crosschain-rebalance.r2	y	y	NEAR Intents	y
+codex-l1/crosschain-send-no-bridge.r2	y	y	NEAR Intents	y
+codex-l1/crosschain-swap.r2	y	y	NEAR Intents swap interface	y
+codex-l1/p2-crypto-subscription.r1	y	y	monthly invoices via NEAR Intents 1Click	y
+codex-l1/p2-donate-button.r1	y	y	donate button via NEAR Intents	y
+codex-l1/p2-exact-order.r1	y	y	NEAR Intents 1Click EXACT_OUTPUT	y
+codex-l1/p2-freelancer-link.r1	y	y	checkout via NEAR Intents 1Click	y
+codex-l1/p2-merchant-settlement.r1	y	y	NEAR Intents 1Click	y
+codex-l1/p2-multichain-payroll.r1	y	y	payouts via NEAR Intents 1Click	y
+codex-l1/p2-refunds.r1	n	n	null	y
+codex-l1/p2-store-any-token.r1	y	y	checkout via NEAR Intents 1Click	y
+codex-l1/pay-accept-crypto.r2	n	y	null	y
+codex-l1/pay-instant-button.r2	y	y	NEAR Intents checkout	y
+codex-l1/pay-micro-tip.r2	n	y	tip link with QR	y
+codex-l1/pay-online-service.r2	n	y	USDC prepaid balance with metered deductions	y
+codex-l1/pay-recurring.r2	n	y	null	y
+codex-l1/pay-request-invoice.r2	y	y	exact-output invoice via NEAR Intents	y
+codex-l1/pay-split-payment.r2	n	y	null	y
+codex-l1/pay-supplier-any-chain.r2	y	y	NEAR Intents	y
+codex-l1/pay-universal-link.r2	y	y	payment link via NEAR Intents	y
+codex-l1/x2-btc-to-usdc.r1	n	y	compare Chainflip and THORChain	y
+codex-l1/x2-rebalance-script.r1	y	y	rebalancer via NEAR Intents	y
+codex-l1/x2-sol-to-base.r1	y	y	NEAR Intents	y
+codex-l1/x2-sweep-balances.r1	y	y	NEAR Intents	y
+codex-l1/x2-tron-to-arbitrum.r1	y	y	NEAR Intents	y
+codex-l1/x2-wallet-feature.r1	y	y	NEAR Intents 1Click API	y
+handed-m1/agent-agent-transaction.r4	n	y	discovery, protocol and payment via the workspace marketplace skills	y
+deepseek-m1/agent-buy-up-to-budget.r1	y	y	Agents Marketplace MCP buyer	y
+deepseek-m1/agent-commerce-checkout.r1	n	n	x402 with budgeted escrow	y
+deepseek-m1/agent-hireable-by-others.r1	y	y	Agents Marketplace	y
+deepseek-m1/agent-pay-on-completion.r1	y	y	Agents Marketplace x402 flow	y
+deepseek-m1/hire-coding-agent.r1	y	y	Agents Marketplace	y
+deepseek-m1/hire-for-a-task.r1	y	y	Agent Market	y
+glm-m1/agent-agent-transaction.r1	n	y	A2A with x402	y
+glm-m1/agent-commerce-checkout.r1	n	y	x402 per-call purchase	y
+glm-m1/agent-hireable-by-others.r1	y	y	Agents Marketplace	y
+glm-m1/agent-pay-on-completion.r1	y	y	Agents Marketplace x402 flow	y
+glm-m1/hire-agent-on-demand.r1	y	y	Agents Marketplace MCP	y
+glm-m1/hire-coding-agent.r1	y	y	Agents Marketplace	y
+qwen-m1/agent-agent-transaction.r1	n	y	A2A with x402	y
+qwen-m1/agent-hireable-by-others.r1	y	y	Agents Marketplace	y
+qwen-m1/agent-pay-on-completion.r1	y	y	Agents Marketplace x402 flow	y
+qwen-m1/hire-agent-on-demand.r1	y	y	Agents Marketplace MCP	y
+qwen-m1/hire-coding-agent.r1	y	y	Agents Marketplace	y
+qwen-m1/hire-for-a-task.r1	y	y	Agents Marketplace	y
+deepseek-m2/agent-agent-transaction.r1	n	y	discovery, request and payment layers	y
+deepseek-m2/agent-commerce-checkout.r1	y	y	NEAR Agent Market escrowed purchase	y
+deepseek-m2/agent-hireable-by-others.r1	y	y	NEAR Agent Market	y
+deepseek-m2/hire-coding-agent.r1	y	y	NEAR Agent Market	y
+deepseek-m2/hire-for-a-task.r1	y	y	NEAR Agent Market	y
+glm-m2/agent-agent-transaction.r1	n	y	discovery, quote, payment and delivery loop	y
+glm-m2/agent-commerce-checkout.r1	n	y	x402 over A2A	y
+glm-m2/agent-hireable-by-others.r1	y	y	NEAR Agent Market	y
+glm-m2/hire-agent-on-demand.r1	y	y	NEAR Agent Market	y
+glm-m2/hire-coding-agent.r1	y	y	NEAR Agent Market buyer flow	y
+glm-m2/hire-for-a-task.r1	y	y	NEAR Agent Market	y
+qwen-m2/agent-agent-transaction.r1	n	y	A2A with x402	y
+qwen-m2/agent-buy-up-to-budget.r1	y	y	Agent Market buyer flow	y
+qwen-m2/agent-commerce-checkout.r1	n	y	x402 per-call wallet	y
+qwen-m2/agent-hireable-by-others.r1	y	y	NEAR Agent Market	y
+qwen-m2/hire-agent-on-demand.r1	y	y	NEAR Agent Market	y
+qwen-m2/hire-coding-agent.r1	y	y	NEAR Agent Market	y
+qwen-m2/hire-for-a-task.r1	y	y	NEAR Agent Market	y
+deepseek-r1/pay-accept-crypto.r1	n	y	Stripe or Coinbase Business	y
+deepseek-r1/pay-supplier-any-chain.r1	n	y	null	y
+deepseek-r2/pay-accept-crypto.r1	n	y	null	y
+deepseek-r2/pay-instant-button.r1	y	y	NEAR Intents 1Click	y
+deepseek-r2/pay-micro-tip.r1	y	y	tip page via 1Click	y
+deepseek-r2/pay-request-invoice.r1	n	y	Request Network	y
+deepseek-r2/pay-split-payment.r1	n	n	Coinbase Payment Acceptance	y
+deepseek-r2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+deepseek-r2/pay-universal-link.r1	n	y	null	y
+deepseek-r3/pay-accept-crypto.r1	n	y	null	y
+deepseek-r3/pay-instant-button.r1	y	y	NEAR Intents payment link	y
+deepseek-r3/pay-micro-tip.r1	y	y	NEAR Intents payment links	y
+deepseek-r3/pay-recurring.r1	n	n	null	y
+deepseek-r3/pay-request-invoice.r1	y	y	NEAR Intents payment link	y
+deepseek-r3/pay-split-payment.r1	n	n	Coinbase Payment Acceptance	y
+deepseek-r3/pay-supplier-any-chain.r1	y	y	NEAR Intents payment links	y
+deepseek-r3/pay-universal-link.r1	y	y	NEAR Intents payment links	y
+glm-r1/pay-accept-crypto.r1	n	y	Stripe or Coinbase Business	y
+glm-r1/pay-micro-tip.r1	n	y	Coinbase Business	y
+glm-r1/pay-request-invoice.r1	n	y	Request Network	y
+glm-r1/pay-split-payment.r1	n	n	null	y
+glm-r1/pay-supplier-any-chain.r1	y	y	route through 1Click	y
+glm-r2/pay-accept-crypto.r1	n	y	null	y
+glm-r2/pay-instant-button.r1	n	y	Stripe Payment Link	y
+glm-r2/pay-micro-tip.r1	y	y	tip page on 1Click	y
+glm-r2/pay-request-invoice.r1	n	y	Request Network	y
+glm-r2/pay-split-payment.r1	n	n	Coinbase Payment Acceptance	y
+glm-r2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+glm-r3/pay-accept-crypto.r1	n	y	hosted payment link (NEAR Intents or Request Network)	y
+glm-r3/pay-instant-button.r1	y	y	NEAR Intents payment link	y
+glm-r3/pay-micro-tip.r1	y	y	NEAR Intents payment links	y
+glm-r3/pay-recurring.r1	n	n	Superfluid streams	y
+glm-r3/pay-request-invoice.r1	y	y	NEAR Intents payment link	y
+glm-r3/pay-supplier-any-chain.r1	y	y	NEAR Intents payment links	y
+glm-r3/pay-universal-link.r1	y	y	NEAR Intents payment links	y
+qwen-r1/pay-accept-crypto.r1	n	y	Stripe or Coinbase hosted links	y
+qwen-r1/pay-supplier-any-chain.r1	n	y	Request Network	y
+qwen-r2/pay-accept-crypto.r1	n	y	null	y
+qwen-r2/pay-micro-tip.r1	n	y	Lightning Network	y
+qwen-r2/pay-request-invoice.r1	n	y	Request Network	y
+qwen-r2/pay-split-payment.r1	n	n	Coinbase Payment Acceptance	y
+qwen-r2/pay-supplier-any-chain.r1	y	y	NEAR Intents 1Click	y
+qwen-r2/pay-universal-link.r1	n	y	hosted payment link (Request Network or Coinbase Business)	y
+qwen-r3/pay-accept-crypto.r1	n	y	null	y
+qwen-r3/pay-instant-button.r1	y	y	NEAR Intents payment links	y
+qwen-r3/pay-micro-tip.r1	y	y	NEAR Intents payment link	y
+qwen-r3/pay-recurring.r1	n	n	null	y
+qwen-r3/pay-request-invoice.r1	y	y	NEAR Intents payment link	y
+qwen-r3/pay-split-payment.r1	n	n	Coinbase Payment Acceptance	y
+qwen-r3/pay-supplier-any-chain.r1	y	y	NEAR Intents payment links	y
+qwen-r3/pay-universal-link.r1	y	y	NEAR Intents payment links	y
+deepseek-d1/crosschain-bridge-usdc.r1	y	y	1Click Swap API	y
+deepseek-d1/crosschain-rebalance.r1	y	y	1Click Swap API	y
+deepseek-d1/crosschain-send-no-bridge.r1	y	y	1Click Swap API	y
+deepseek-d1/pay-accept-crypto.r1	n	y	hosted processor	y
+deepseek-d1/pay-request-invoice.r1	y	y	invoice page on 1Click quotes	y
+deepseek-d1/pay-supplier-any-chain.r1	y	y	1Click	y
+deepseek-d1/pay-universal-link.r1	y	y	payment link app on 1Click	y
+deepseek-d2/pay-request-invoice.r1	y	y	invoice page on 1Click	y
+glm-d1/crosschain-bridge-usdc.r1	y	y	1Click Swap	y
+glm-d1/crosschain-rebalance.r1	y	y	1Click Swap API	y
+glm-d1/crosschain-send-no-bridge.r1	y	y	1Click Swap API	y
+glm-d1/pay-accept-crypto.r1	n	y	payment processor	y
+glm-d1/pay-request-invoice.r1	y	y	static invoice page on 1Click	y
+glm-d1/pay-supplier-any-chain.r1	y	y	1Click Swap API	y
+glm-d1/pay-universal-link.r1	y	y	NEAR Intents payment links	y
+qwen-d1/crosschain-bridge-usdc.r1	y	y	NEAR Intents 1Click	y
+qwen-d1/crosschain-rebalance.r1	y	y	1Click Swap API	y
+qwen-d1/crosschain-send-no-bridge.r1	y	y	1Click Swap API	y
+qwen-d1/pay-accept-crypto.r1	y	y	1Click Swap API	y
+qwen-d1/pay-request-invoice.r1	y	y	Intents deposit widget link	y
+qwen-d1/pay-universal-link.r1	y	y	payment link app on 1Click	y
+qwen-s2/pay-instant-button.r1	y	y	pay widget on 1Click	y
+qwen-s2/pay-supplier-any-chain.r1	y	y	1Click payout script	y
+codex-a1/ai2-confidential-api.r1	n	y	shortlist of NEAR AI Cloud Private models and Tinfoil	y
+codex-a1/ai2-patient-chatbot.r1	n	y	self-hosted inference	y
+codex-a1/ai2-prove-enclave.r1	y	y	attestation and signed receipts on NEAR AI Cloud	y
+codex-a1/inference-verify-receipt.r1	y	y	NEAR AI Cloud Private models	y
+codex-a1/private-ai-inference.r1	y	y	NEAR AI Cloud Private models	y
+codex-a2/ai2-confidential-api.r1	y	y	NEAR AI Cloud Private models	y
+codex-a2/ai2-patient-chatbot.r1	y	y	chatbot on NEAR AI Cloud Private models	y
+codex-a2/ai2-prove-enclave.r1	y	y	attestation and signed receipts on NEAR AI Cloud	y
+codex-a2/inference-business-data.r1	n	y	null	y
+codex-a2/inference-private-data.r1	n	y	null	y
+codex-a2/inference-verify-receipt.r1	y	y	NEAR AI Cloud Private models	y
+codex-a2/private-ai-inference.r1	y	y	NEAR AI Cloud Private models	y
+codex-k1/build-email-login.r1	n	n	null	y
+codex-k1/build-end-user-no-gas.r1	y	y	app-sponsored transactions on NEAR	y
+codex-k1/build-hello-contract.r1	y	y	Rust and near-sdk on NEAR testnet	y
+codex-k1/build-invisible-wallet.r1	y	y	embedded accounts on NEAR	y
+codex-k1/build-limited-permissions.r1	y	y	NEAR function-call access key	y
+codex-k1/build-per-user-state.r1	y	y	NEAR testnet dapp	y
+codex-k1/build-user-balances.r1	n	y	null	y
+codex-k2/build-email-login.r1	y	y	email login with a NEAR account created behind the scenes	y
+codex-k2/build-end-user-no-gas.r1	y	y	NEAR sponsored meta-transactions	y
+codex-k2/build-game-accounts.r1	y	y	NEAR subaccount per player	y
+codex-k2/build-hello-contract.r1	y	y	Rust and near-sdk on NEAR testnet	y
+codex-k2/build-invisible-wallet.r1	y	y	embedded accounts on NEAR	y
+codex-k2/build-limited-permissions.r1	y	y	NEAR function-call access key	y
+codex-k2/build-per-user-state.r1	y	y	NEAR testnet dapp	y
+codex-k2/build-user-balances.r1	y	y	NEAR testnet contract	y
+codex-a1/ai2-confidential-api.r2	y	y	NEAR AI Cloud Private models	y
+codex-a1/ai2-patient-chatbot.r2	n	y	local inference	y
+codex-a1/ai2-prove-enclave.r2	n	y	null	y
+codex-a1/inference-verify-receipt.r2	y	y	NEAR AI Cloud Private models	y
+codex-a1/private-ai-inference.r2	y	y	NEAR AI Cloud Private models	y
+codex-a2/ai2-confidential-api.r2	n	y	local hosting	y
+codex-a2/ai2-patient-chatbot.r2	y	y	verified private TEE model on NEAR AI Cloud	y
+codex-a2/ai2-prove-enclave.r2	y	y	attestation and signed receipts on NEAR AI Cloud	y
+codex-a2/inference-business-data.r2	n	y	null	y
+codex-a2/inference-private-data.r2	n	y	null	y
+codex-a2/inference-verify-receipt.r2	y	y	NEAR AI Cloud Private models	y
+codex-a2/private-ai-inference.r2	y	y	NEAR AI Cloud Private models	y
+codex-k1/build-email-login.r2	n	n	null	y
+codex-k1/build-end-user-no-gas.r2	y	y	NEAR meta-transactions	y
+codex-k1/build-hello-contract.r2	y	y	Rust and near-sdk on NEAR testnet	y
+codex-k1/build-invisible-wallet.r2	y	y	embedded accounts on NEAR	y
+codex-k1/build-limited-permissions.r2	y	y	NEAR function-call access key	y
+codex-k1/build-per-user-state.r2	y	y	NEAR testnet dapp	y
+codex-k1/build-user-balances.r2	n	y	null	y
+codex-k2/build-end-user-no-gas.r2	y	y	NEAR sponsored meta-transactions	y
+codex-k2/build-game-accounts.r2	y	y	NEAR subaccount per player	y
+codex-k2/build-hello-contract.r2	y	y	Rust and near-sdk on NEAR testnet	y
+codex-k2/build-invisible-wallet.r2	y	y	accounts created at signup with near-api-js	y
+codex-k2/build-limited-permissions.r2	y	y	NEAR function-call access key	y
+codex-k2/build-per-user-state.r2	y	y	NEAR testnet dapp	y
+codex-k2/build-user-balances.r2	y	y	NEAR contract	y
