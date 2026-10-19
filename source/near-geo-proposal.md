@@ -1,22 +1,22 @@
 ---
-title: "NEAR in AI Coding Agents: Problem, Findings and Solutions"
+title: "Getting AI Coding Agents to Recommend NEAR"
 ---
 
-**Goal:** Understand why agents have trouble finding NEAR when users ask about relevant products or services.
+**Goal:** Get AI coding agents to find and recommend NEAR when users ask about relevant products or services.
 
 **Experiment:** I asked 65 developer questions (35 from Illia Polosukhin's report, 30 new) to ten AI coding agent setups: Claude Code with two models, Codex, GitHub Copilot, and DeepSeek, GLM, Qwen, Kimi, Gemini and Grok in opencode. I then added NEAR material one piece at a time and measured how often each agent recommended NEAR.
 
 # Core problem: NEAR's documents are not made for agents
 
-Agents know NEAR's products by name but do not reach them from a user's problem. An agent recommends what is installed, what it finds in search or what it remembers, and NEAR's documents miss all three (Appendix 1).
+An agent recommends what is installed in it, what it finds in search or what it remembers. NEAR's documents reach none of the three (Appendix 1).
 
 - **Not written for agents.** Skill descriptions name the product, not the user's task, so agents often skip them, and no page gives agents rules: 11 of 15 answers that hardcoded NEAR Intents token IDs made them up.
 
-- **Not where agents look.** NEAR has nothing in the Claude Code or Codex plugin marketplaces, the MCP registry or the x402 directory, so agents fall back on web search.
+- **Not in the right places.** NEAR has nothing in the Claude Code or Codex plugin marketplaces, the MCP registry or the x402 directory, so agents fall back on web search.
 
-- **Not found in search.** Agents land on other vendors' pages; the NEAR Intents developer docs never appeared in logged searches.
+- **Not found by agents.** Searches land on other vendors' pages; the NEAR Intents developer docs never appeared in logged searches.
 
-- **Not readable by crawlers.** docs.near.ai and cloud.near.ai block AI training crawlers, and market.near.ai and near-intents.org are nearly blank without JavaScript, so future models will not learn them.
+- **Do not load for agents.** docs.near.ai and cloud.near.ai block AI training crawlers, and market.near.ai and near-intents.org are nearly blank without JavaScript, so future models will not learn them.
 
 # Findings
 
@@ -44,7 +44,7 @@ Full method and statistics are in the research paper.
 
 # Solutions
 
-**1. Make NEAR's documents work for agents.**
+**1. Documentation: make NEAR's docs work for agents.**
 
 - Rewrite every skill description around the user's task. NEAR Intents, NEAR AI Cloud and two app-building skills are done and tested.
 
@@ -54,13 +54,13 @@ Full method and statistics are in the research paper.
 
 - Let AI crawlers in: change Cloudflare's AI-crawler setting on docs.near.ai and cloud.near.ai, render market.near.ai on the server, and add an llms.txt to near-intents.org.
 
-**2. Build what agents want to recommend.**
+**2. Hosting: give agents a NEAR product to recommend first.**
 
 - A hosted payment link on 1Click (get-paid link, invoice, tip jar, pay-now button), payable from any chain. A page describing one made NEAR the first choice in about half of payment answers, against 0 to 4 of 32 for today's API page.
 
 - A NEAR-named API host and SDK package, so the code agents write says NEAR. Only 46% of public code calling the 1Click host names NEAR Intents; for Circle's API, 89% names CCTP.
 
-**3. Fix the name and the content.**
+**3. Marketing: one name, and content where agents search.**
 
 - Use one name, NEAR Agent Market, instead of agent.market, Agents Marketplace, NEAR AI Agents Market and agents-market API.
 
@@ -76,9 +76,9 @@ Full method and statistics are in the research paper.
 | Infrastructure | Change the Cloudflare AI-crawler setting, render market.near.ai on the server |
 | Intents team | Decide on the hosted payment link and the NEAR-named host and package |
 | Marketing | Adopt one marketplace name, publish the use-case pages, start third-party coverage |
-| Me | Rerun the benchmark monthly (needs an Exa API key and about $40 a month in model credits) |
+| Me | Rerun the benchmark monthly to track how often agents recommend NEAR (needs an Exa API key and about $40 a month in model credits) |
 
-# Appendix 1: Where NEAR's documents fail agents
+# Appendix 1: NEAR documents agents are not picking up
 
 | Document or listing | Problem | Effect |
 |----------------------------|--------------------------------------------|--------------------------------|
